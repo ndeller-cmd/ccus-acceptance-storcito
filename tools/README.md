@@ -8,4 +8,4 @@
 Each 4-digit postcode is assigned to the municipality with the most addresses
 (21 of 4,072 postcodes span more than one municipality).
 Created with `tools/make_nl_lookup.R` on 13.10.2026. Only needed to rebuild the tables.
-Source: Statistics Netherlands (CBS), [licence, e.g. CC BY 4.0 – please check].
+Source: Statistics Netherlands (CBS), (license CC BY 4.0)
