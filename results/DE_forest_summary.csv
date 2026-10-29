@@ -1,0 +1,2 @@
+"dataset","outcome","respondents","characteristics_columns","selection","selected_columns","rf_variance_explained","ate_estimate","ate_se","calibration_coef","calibration_p","top_minus_bottom_quartile","top_minus_bottom_p","blp_heldout_coef","blp_heldout_p","autoc","autoc_p","policy_gain_vs_treat_all","policy_gain_p"
+"DE","support_index",957,100,"split",40.5,0.096,0.176,0.095,-6.91,1,0.19,0.518,0.334,0.446,0.053,0.659,0,0.997

@@ -1,0 +1,8 @@
+"subgroup_variable","groups_left_out","p_any_treatment","p_all_arms","p_any_treatment_BH","p_all_arms_BH"
+"Age group","",0.816,0.389,0.816,0.621
+"Gender","Other",0.476,0.443,0.666,0.621
+"Education","",0.446,0.435,0.666,0.621
+"Area type","Urban",0.811,0.622,0.816,0.711
+"Prior knowledge of CCUS","Very well informed",0.19,0.711,0.514,0.711
+"Climate concern","Somewhat disagree; Strongly disagree",0.22,0.046,0.514,0.319
+"Political orientation","",0.017,0.167,0.118,0.583

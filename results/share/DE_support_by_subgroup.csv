@@ -1,0 +1,169 @@
+"moderator","group","outcome","mean","n","diff"
+"Age group","60+ year olds","support_biomass",5.22133333333333,375,-0.0211224419007978
+"Age group","60+ year olds","support_gen",5.07734806629834,362,0.013217631515734
+"Age group","60+ year olds","support_index",4.90565953654189,374,0.0125909193353406
+"Age group","60+ year olds","support_pipe",4.58870967741935,372,0.105516400108431
+"Age group","60+ year olds","support_stor",4.12011173184358,358,-0.0420504303185867
+"Age group","60+ year olds","support_util",5.56842105263158,380,-0.0249399432190431
+"Age group","60+ year olds","support_wte",4.83289124668435,377,0.0124319564964592
+"Age group","45-59 year olds","support_biomass",5.22310756972112,251,-0.0193482055130154
+"Age group","45-59 year olds","support_gen",4.97899159663866,238,-0.0851388381439531
+"Age group","45-59 year olds","support_index",4.80638440860215,248,-0.0866842086043977
+"Age group","45-59 year olds","support_pipe",4.36546184738956,249,-0.117731429921366
+"Age group","45-59 year olds","support_stor",4.09322033898305,236,-0.0689418231791112
+"Age group","45-59 year olds","support_util",5.43824701195219,251,-0.155113983898431
+"Age group","45-59 year olds","support_wte",4.67469879518072,249,-0.145760495007168
+"Age group","30-44 year olds","support_biomass",5.30697674418605,215,0.0645209689519159
+"Age group","30-44 year olds","support_gen",5.0343137254902,204,-0.0298167092924126
+"Age group","30-44 year olds","support_index",4.90903426791277,214,0.0159656507062245
+"Age group","30-44 year olds","support_pipe",4.38862559241706,211,-0.094567684893863
+"Age group","30-44 year olds","support_stor",4.18957345971564,211,0.0274112975534777
+"Age group","30-44 year olds","support_util",5.73239436619718,213,0.139033370346561
+"Age group","30-44 year olds","support_wte",4.88785046728972,214,0.067391177101829
+"Age group","18-29 year olds","support_biomass",5.23333333333333,120,-0.00912244190079736
+"Age group","18-29 year olds","support_gen",5.25,116,0.185869565217391
+"Age group","18-29 year olds","support_index",5.00358126721763,121,0.110512650011082
+"Age group","18-29 year olds","support_pipe",4.56666666666667,120,0.083473389355742
+"Age group","18-29 year olds","support_stor",4.375,120,0.212837837837838
+"Age group","18-29 year olds","support_util",5.75,120,0.156639004149378
+"Age group","18-29 year olds","support_wte",4.96610169491525,118,0.145642404727363
+"Gender","Female","support_biomass",5.18336886993603,469,-0.0590869052980967
+"Gender","Female","support_gen",5.00452488687783,442,-0.0596055479047806
+"Gender","Female","support_index",4.77505376344086,465,-0.118014853765688
+"Gender","Female","support_pipe",4.27682403433476,466,-0.206369242976161
+"Gender","Female","support_stor",4.05145413870246,447,-0.110708023459702
+"Gender","Female","support_util",5.4364406779661,472,-0.15692031788452
+"Gender","Female","support_wte",4.68522483940043,467,-0.135234450787463
+"Gender","Male","support_biomass",5.31198347107438,484,0.0695276958402493
+"Gender","Male","support_gen",5.1271186440678,472,0.0629882092851881
+"Gender","Male","support_index",5.01305841924399,485,0.119989802037438
+"Gender","Male","support_pipe",4.69246861924686,478,0.209275341935937
+"Gender","Male","support_stor",4.27542372881356,472,0.113261566651397
+"Gender","Male","support_util",5.75463917525773,485,0.16127817940711
+"Gender","Male","support_wte",4.95031055900621,483,0.12985126881832
+"Education","University degree","support_biomass",5.30916030534351,262,0.0667045301093809
+"Education","University degree","support_gen",5.18992248062016,258,0.125792045837547
+"Education","University degree","support_index",4.94234234234234,259,0.0492737251357935
+"Education","University degree","support_pipe",4.5546875,256,0.0714942226890756
+"Education","University degree","support_stor",3.95634920634921,252,-0.205812955812956
+"Education","University degree","support_util",5.76045627376426,263,0.167095277913637
+"Education","University degree","support_wte",4.88461538461539,260,0.0641560944274939
+"Education","No university degree","support_biomass",5.21745350500715,699,-0.0250022702269774
+"Education","No university degree","support_gen",5.01510574018127,662,-0.0490246946013393
+"Education","No university degree","support_index",4.87478510028653,698,-0.0182835169200155
+"Education","No university degree","support_pipe",4.45689655172414,696,-0.0262967255867865
+"Education","No university degree","support_stor",4.23922734026746,673,0.0770651781052969
+"Education","No university degree","support_util",5.53067047075606,701,-0.0626905250945597
+"Education","No university degree","support_wte",4.79656160458453,698,-0.0238976856033641
+"Area type","Urban","support_biomass",5.24528301886792,53,0.00282724363379394
+"Area type","Urban","support_gen",5.24,50,0.175869565217392
+"Area type","Urban","support_index",4.98867924528302,53,0.0956106280764706
+"Area type","Urban","support_pipe",4.52830188679245,53,0.0451086094815283
+"Area type","Urban","support_stor",4.24,50,0.0778378378378379
+"Area type","Urban","support_util",5.76923076923077,52,0.175869773380147
+"Area type","Urban","support_wte",5.05660377358491,53,0.236144483397014
+"Area type","Suburban","support_biomass",5.19282511210762,223,-0.0496306631265071
+"Area type","Suburban","support_gen",5.08450704225352,213,0.0203766074709124
+"Area type","Suburban","support_index",4.93483483483483,222,0.041766217628286
+"Area type","Suburban","support_pipe",4.57727272727273,220,0.0940794499618027
+"Area type","Suburban","support_stor",4.26415094339623,212,0.101988781234065
+"Area type","Suburban","support_util",5.57777777777778,225,-0.0155832180728446
+"Area type","Suburban","support_wte",4.86936936936937,222,0.0489100791814785
+"Area type","Rural","support_biomass",5.25839416058394,685,0.015938385349811
+"Area type","Rural","support_gen",5.0441400304414,657,-0.0199904043412085
+"Area type","Rural","support_index",4.87204301075269,682,-0.0210256064538603
+"Area type","Rural","support_pipe",4.44918998527246,679,-0.0340032920384647
+"Area type","Rural","support_stor",4.1236802413273,663,-0.0384819208348626
+"Area type","Rural","support_util",5.58515283842795,687,-0.00820815742267467
+"Area type","Rural","support_wte",4.78623718887262,683,-0.0342221013152706
+"Prior knowledge of CCUS","No knowledge","support_biomass",5.1619937694704,321,-0.0804620057637262
+"Prior knowledge of CCUS","No knowledge","support_gen",4.93559322033898,295,-0.128537214443625
+"Prior knowledge of CCUS","No knowledge","support_index",4.78174097664543,314,-0.111327640561114
+"Prior knowledge of CCUS","No knowledge","support_pipe",4.30817610062893,318,-0.175017176681994
+"Prior knowledge of CCUS","No knowledge","support_stor",4.1023102310231,303,-0.0598519311390602
+"Prior knowledge of CCUS","No knowledge","support_util",5.45625,320,-0.137110995850622
+"Prior knowledge of CCUS","No knowledge","support_wte",4.66455696202532,316,-0.155902328162575
+"Prior knowledge of CCUS","Little knowledge","support_biomass",5.34461538461538,325,0.102159609381254
+"Prior knowledge of CCUS","Little knowledge","support_gen",5.15335463258786,313,0.089224197805251
+"Prior knowledge of CCUS","Little knowledge","support_index",4.95688073394495,327,0.063812116738406
+"Prior knowledge of CCUS","Little knowledge","support_pipe",4.5607476635514,321,0.0775543862404771
+"Prior knowledge of CCUS","Little knowledge","support_stor",4.17041800643087,311,0.00825584426870574
+"Prior knowledge of CCUS","Little knowledge","support_util",5.68996960486322,329,0.0966086090126002
+"Prior knowledge of CCUS","Little knowledge","support_wte",4.88888888888889,324,0.0684295987009982
+"Prior knowledge of CCUS","Some knowledge","support_biomass",5.26108374384236,203,0.018627968608234
+"Prior knowledge of CCUS","Some knowledge","support_gen",5.08955223880597,201,0.0254218040233614
+"Prior knowledge of CCUS","Some knowledge","support_index",4.95181518151815,202,0.058746564311603
+"Prior knowledge of CCUS","Some knowledge","support_pipe",4.68844221105528,199,0.205248933744352
+"Prior knowledge of CCUS","Some knowledge","support_stor",4.17412935323383,201,0.011967191071669
+"Prior knowledge of CCUS","Some knowledge","support_util",5.58128078817734,203,-0.0120802076732822
+"Prior knowledge of CCUS","Some knowledge","support_wte",4.92647058823529,204,0.106011298047403
+"Prior knowledge of CCUS","Well informed","support_biomass",5.14130434782609,92,-0.101151427408044
+"Prior knowledge of CCUS","Well informed","support_gen",5.0989010989011,91,0.0347706641184899
+"Prior knowledge of CCUS","Well informed","support_index",4.89929078014184,94,0.00622216293529565
+"Prior knowledge of CCUS","Well informed","support_pipe",4.36170212765957,94,-0.12149114965135
+"Prior knowledge of CCUS","Well informed","support_stor",4.41758241758242,91,0.255420255420256
+"Prior knowledge of CCUS","Well informed","support_util",5.55434782608696,92,-0.039013169763666
+"Prior knowledge of CCUS","Well informed","support_wte",4.8936170212766,94,0.0731577310887044
+"Climate concern","Strongly disagree","support_biomass",3.77142857142857,35,-1.47102720380556
+"Climate concern","Strongly disagree","support_gen",3.21212121212121,33,-1.8520092226614
+"Climate concern","Strongly disagree","support_index",3.37714285714286,35,-1.51592576006369
+"Climate concern","Strongly disagree","support_pipe",2.61111111111111,36,-1.87208216619981
+"Climate concern","Strongly disagree","support_stor",2.71428571428571,35,-1.44787644787645
+"Climate concern","Strongly disagree","support_util",4.33333333333333,36,-1.26002766251729
+"Climate concern","Strongly disagree","support_wte",3.47222222222222,36,-1.34823706796567
+"Climate concern","Somewhat disagree","support_biomass",4.68421052631579,57,-0.558245248918341
+"Climate concern","Somewhat disagree","support_gen",4.03571428571429,56,-1.02841614906832
+"Climate concern","Somewhat disagree","support_index",4.1827485380117,57,-0.710320079194853
+"Climate concern","Somewhat disagree","support_pipe",3.625,56,-0.858193277310924
+"Climate concern","Somewhat disagree","support_stor",3.4,55,-0.762162162162162
+"Climate concern","Somewhat disagree","support_util",5.29310344827586,58,-0.30025754757476
+"Climate concern","Somewhat disagree","support_wte",4.14545454545455,55,-0.675004744733346
+"Climate concern","Neither agree nor disagree","support_biomass",4.79166666666667,144,-0.450789108567464
+"Climate concern","Neither agree nor disagree","support_gen",4.75757575757576,132,-0.306554677206851
+"Climate concern","Neither agree nor disagree","support_index",4.60092592592593,144,-0.292142691280622
+"Climate concern","Neither agree nor disagree","support_pipe",4.00699300699301,143,-0.476200270317918
+"Climate concern","Neither agree nor disagree","support_stor",4.11594202898551,138,-0.0462201331766554
+"Climate concern","Neither agree nor disagree","support_util",5.35416666666667,144,-0.239194329183955
+"Climate concern","Neither agree nor disagree","support_wte",4.58041958041958,143,-0.24003970976831
+"Climate concern","Somewhat agree","support_biomass",5.25490196078431,255,0.012446185550183
+"Climate concern","Somewhat agree","support_gen",5.1900826446281,242,0.12595220984549
+"Climate concern","Somewhat agree","support_index",4.97775590551181,254,0.0846872883052621
+"Climate concern","Somewhat agree","support_pipe",4.58333333333333,252,0.100140056022409
+"Climate concern","Somewhat agree","support_stor",4.46694214876033,242,0.304779986598168
+"Climate concern","Somewhat agree","support_util",5.5296442687747,253,-0.0637167270759189
+"Climate concern","Somewhat agree","support_wte",4.86220472440945,254,0.041745434221558
+"Climate concern","Strongly agree","support_biomass",5.55106382978723,470,0.308608054553103
+"Climate concern","Strongly agree","support_gen",5.34573304157549,457,0.281602606792884
+"Climate concern","Strongly agree","support_index",5.13740185581727,467,0.244333238610725
+"Climate concern","Strongly agree","support_pipe",4.82365591397849,465,0.34046263666757
+"Climate concern","Strongly agree","support_stor",4.21758241758242,455,0.0554202554202554
+"Climate concern","Strongly agree","support_util",5.83298097251586,473,0.239619976665234
+"Climate concern","Strongly agree","support_wte",5.0531914893617,470,0.232732199173811
+"Political orientation","Right","support_biomass",4.92718446601942,206,-0.315271309214713
+"Political orientation","Right","support_gen",4.52525252525253,198,-0.538877909530084
+"Political orientation","Right","support_index",4.57073170731707,205,-0.322336909889476
+"Political orientation","Right","support_pipe",4.06372549019608,204,-0.419467787114846
+"Political orientation","Right","support_stor",3.93,200,-0.232162162162162
+"Political orientation","Right","support_util",5.39705882352941,204,-0.19630217232121
+"Political orientation","Right","support_wte",4.53170731707317,205,-0.288751973114721
+"Political orientation","Centre","support_biomass",5.58992805755396,139,0.347472282319826
+"Political orientation","Centre","support_gen",5.45323741007194,139,0.389106975289334
+"Political orientation","Centre","support_index",5.29488095238095,140,0.401812335174404
+"Political orientation","Centre","support_pipe",4.92028985507246,138,0.437096577761539
+"Political orientation","Centre","support_stor",4.72592592592593,135,0.563763763763764
+"Political orientation","Centre","support_util",5.75177304964539,141,0.158412053794768
+"Political orientation","Centre","support_wte",5.23404255319149,141,0.413583263003598
+"Political orientation","Left","support_biomass",5.37577639751553,322,0.133320622281397
+"Political orientation","Left","support_gen",5.27631578947368,304,0.212185354691075
+"Political orientation","Left","support_index",5.00560796645702,318,0.112539349250475
+"Political orientation","Left","support_pipe",4.69400630914827,317,0.210813031837341
+"Political orientation","Left","support_stor",4.04575163398693,306,-0.116410528175234
+"Political orientation","Left","support_util",5.71739130434783,322,0.124030308497204
+"Political orientation","Left","support_wte",4.940625,320,0.120165709812109
+"Political orientation","Other","support_biomass",5.28813559322034,118,0.0456798179862083
+"Political orientation","Other","support_gen",5.23478260869565,115,0.170652173913044
+"Political orientation","Other","support_index",5.00127118644068,118,0.10820256923413
+"Political orientation","Other","support_pipe",4.59322033898305,118,0.110027061672127
+"Political orientation","Other","support_stor",4.43478260869565,115,0.27262044653349
+"Political orientation","Other","support_util",5.71074380165289,121,0.11738280580227
+"Political orientation","Other","support_wte",4.8135593220339,118,-0.00689996815399319

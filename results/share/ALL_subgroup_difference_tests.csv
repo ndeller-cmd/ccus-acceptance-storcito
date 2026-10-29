@@ -1,0 +1,57 @@
+"moderator","outcome","p_value","p_adj_BH"
+"Age group","support_gen",0.00232835921111703,0.003
+"Gender","support_gen",0.000427770064619331,0.001
+"Education","support_gen",1.27238937684187e-11,0
+"Area type","support_gen",0.0248531444100222,0.029
+"Prior knowledge of CCUS","support_gen",5.96506947359649e-05,0
+"Climate concern","support_gen",1.09922259849887e-71,0
+"Political orientation","support_gen",1.92154662137209e-28,0
+"Country","support_gen",8.61336335131069e-06,0
+"Age group","support_biomass",0.0516840181200881,0.057
+"Gender","support_biomass",0.000247192646569698,0
+"Education","support_biomass",0.0738915549617553,0.078
+"Area type","support_biomass",0.0570779784818568,0.061
+"Prior knowledge of CCUS","support_biomass",4.76604794131553e-05,0
+"Climate concern","support_biomass",3.85439174521441e-40,0
+"Political orientation","support_biomass",8.95463198431127e-12,0
+"Country","support_biomass",9.69479380433095e-23,0
+"Age group","support_wte",0.00255810184756576,0.003
+"Gender","support_wte",2.93100692064137e-10,0
+"Education","support_wte",0.0100980228904587,0.012
+"Area type","support_wte",2.99856112648011e-05,0
+"Prior knowledge of CCUS","support_wte",6.02115809191887e-11,0
+"Climate concern","support_wte",2.7909521822212e-25,0
+"Political orientation","support_wte",1.86050774486022e-09,0
+"Country","support_wte",4.63914857470198e-19,0
+"Age group","support_util",0.0147407436691331,0.018
+"Gender","support_util",1.00605919052381e-10,0
+"Education","support_util",5.78305687135404e-07,0
+"Area type","support_util",0.194716071710189,0.198
+"Prior knowledge of CCUS","support_util",1.21448481158336e-06,0
+"Climate concern","support_util",3.53393643201668e-33,0
+"Political orientation","support_util",9.65467044139654e-08,0
+"Country","support_util",7.41816822708463e-12,0
+"Age group","support_pipe",9.70254566520385e-07,0
+"Gender","support_pipe",6.56908206444747e-13,0
+"Education","support_pipe",0.0506647653830305,0.057
+"Area type","support_pipe",0.0382847001464873,0.044
+"Prior knowledge of CCUS","support_pipe",5.3105683117322e-07,0
+"Climate concern","support_pipe",7.21470879132139e-44,0
+"Political orientation","support_pipe",1.9296569059802e-18,0
+"Country","support_pipe",0.51144435224474,0.511
+"Age group","support_stor",0.00731218946590604,0.009
+"Gender","support_stor",3.29944766262108e-13,0
+"Education","support_stor",0.188011837117254,0.195
+"Area type","support_stor",0.00160311662118409,0.002
+"Prior knowledge of CCUS","support_stor",5.112726687199e-07,0
+"Climate concern","support_stor",2.85863840948802e-21,0
+"Political orientation","support_stor",7.19256934871336e-09,0
+"Country","support_stor",5.04002715811402e-09,0
+"Age group","support_index",4.97962731611352e-05,0
+"Gender","support_index",1.59037100984223e-13,0
+"Education","support_index",4.99274891024287e-05,0
+"Area type","support_index",0.00102045499286451,0.001
+"Prior knowledge of CCUS","support_index",2.01104536306782e-10,0
+"Climate concern","support_index",4.93400806212839e-57,0
+"Political orientation","support_index",1.60765254387466e-20,0
+"Country","support_index",1.21920865487318e-14,0

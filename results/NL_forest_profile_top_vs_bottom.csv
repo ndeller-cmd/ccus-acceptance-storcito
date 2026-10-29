@@ -1,0 +1,91 @@
+"characteristic","mean_highest","mean_lowest","difference"
+"Prior knowledge of CCUS: Some knowledge",0.47,0.094,0.376
+"Household size",2.254,2.624,-0.37
+"Prior knowledge of CCUS: Little knowledge",0.259,0.581,-0.323
+"Employment status: Retired",0.496,0.179,0.316
+"Age group: 60+ year olds",0.608,0.303,0.304
+"Gender: Female",0.379,0.62,-0.24
+"Education: Higher education (Bachelor's degree or higher)",0.289,0.513,-0.224
+"Household income: €70.000 of meer",0.134,0.355,-0.221
+"Town size: 2,000–4,999",0.366,0.15,0.217
+"Town size: 10,000–19,999",0.241,0.423,-0.182
+"Age group: 45-59 year olds",0.159,0.325,-0.165
+"Trusts: Search engine: Search engine (e.g., Google)",0.522,0.363,0.158
+"Uses: News channels: News channels",0.448,0.291,0.158
+"Area of work: Health Care and Social Services",0.084,0.237,-0.153
+"Trusts: Newspaper: Newspapers",0.289,0.423,-0.134
+"Household income: €30.000-44.999",0.293,0.167,0.126
+"Education: Lower secondary education",0.289,0.167,0.122
+"Employment status: Part time employee",0.108,0.226,-0.119
+"Age group: 30-44 year olds",0.142,0.256,-0.114
+"Area type: Suburban",0.168,0.278,-0.11
+"Education: Higher secondary education (high school diploma or vocational training)",0.409,0.308,0.102
+"Political orientation: Centre",0.288,0.388,-0.1
+"Political orientation: Other",0.369,0.271,0.097
+"Area of work: Wholesale and Retail",0.133,0.045,0.088
+"Area of work: Information Technology (IT)",0.084,0.147,-0.063
+"Trust in others: Somewhat disagree",0.164,0.226,-0.063
+"Household income: Geen antwoord",0.112,0.167,-0.055
+"Climate concern: Somewhat agree",0.341,0.286,0.054
+"Trust in others: Neither agree nor disagree",0.272,0.218,0.054
+"Uses: Neighbours/friends/family: Neighbours/ friends/ family",0.112,0.162,-0.05
+"Uses: Newspaper: Newspapers",0.259,0.209,0.049
+"Uses: Generative AI: Generative AI (e.g., ChatGPT)",0.289,0.338,-0.049
+"Patience: 6",0.177,0.222,-0.045
+"Prior knowledge of CCUS: No knowledge",0.228,0.274,-0.045
+"Area of work: None of the above/ Other",0.084,0.045,0.039
+"Trusts: News channels: News channels",0.409,0.372,0.038
+"Town size: 5,000–9,999",0.233,0.269,-0.036
+"Area of work: Manufacturing Industry",0.072,0.038,0.034
+"Trust in sources: don't know: Don't know",0.043,0.077,-0.034
+"Risk preferences: 3",0.121,0.154,-0.033
+"Household income: €45.000-69.999",0.259,0.226,0.032
+"Comprehension attempts (1st question): 0",0.862,0.893,-0.031
+"Risk preferences: 4",0.134,0.103,0.031
+"Comprehension attempts (1st question): 2",0.069,0.038,0.031
+"Area of work: Freelance, Scientific, and Technical Services",0.048,0.019,0.029
+"Patience: 8",0.116,0.09,0.027
+"Area of work: Education",0.096,0.071,0.026
+"Other (please specify) - Where would ...: Other (please specify)",0.022,0.047,-0.025
+"Uses sources: don't know: Don't know",0.039,0.064,-0.025
+"Patience: 7",0.185,0.209,-0.024
+"Comprehension attempts (2nd question): 1",0.108,0.085,0.022
+"Uses: Library/books: Library/books",0.103,0.081,0.022
+"Uses sources: none of these: None of these",0.03,0.051,-0.021
+"Climate concern: Somewhat disagree",0.039,0.06,-0.021
+"Employment status: Self-Employed or Small Business Owner",0.065,0.085,-0.021
+"Risk preferences: 7",0.138,0.158,-0.02
+"Trusts: Generative AI: Generative AI (e.g., ChatGPT)",0.19,0.209,-0.02
+"Uses: Local politicians: Local politicians",0.047,0.03,0.017
+"Trust in sources: none of these: None of these",0.078,0.094,-0.016
+"Area of work: Construction",0.048,0.032,0.016
+"Trusts: Library/books: Library/books",0.185,0.171,0.014
+"Comprehension attempts (2nd question): 0",0.828,0.842,-0.014
+"Patience: 4",0.065,0.051,0.013
+"Trusts: Neighbours/friends/family: Neighbours/ friends/ family",0.099,0.111,-0.012
+"Political orientation: Right",0.192,0.181,0.011
+"Risk preferences: 2",0.082,0.073,0.009
+"Patience: 3",0.056,0.047,0.009
+"Area of work: Finance and Insurance",0.06,0.051,0.009
+"Patience: 9",0.034,0.026,0.009
+"Area of work: Transport and Warehousing",0.036,0.045,-0.009
+"Area type: Urban",0.034,0.043,-0.008
+"Trust in others: Strongly disagree",0.065,0.073,-0.008
+"Employment status: Unemployed and not looking for work",0.108,0.115,-0.008
+"Climate concern: Neither agree nor disagree",0.129,0.137,-0.007
+"Area of work: Economics and Management",0.084,0.077,0.007
+"Risk preferences: 5",0.194,0.188,0.006
+"Risk preferences: 6",0.194,0.188,0.006
+"Uses: Search engine: Search engine (e.g., Google)",0.655,0.65,0.006
+"Other (please specify) - Which of the...: Other (please specify)",0.069,0.064,0.005
+"Comprehension attempts (1st question): 1",0.052,0.047,0.005
+"Risk preferences: 1",0.022,0.026,-0.004
+"Prior knowledge of CCUS: Well informed",0.043,0.047,-0.004
+"Comprehension attempts (2nd question): 2",0.047,0.051,-0.004
+"Climate concern: Strongly disagree",0.052,0.056,-0.004
+"Trusts: Local politicians: Local politicians",0.082,0.085,-0.004
+"Trust in others: Somewhat agree",0.388,0.385,0.003
+"Patience: 5",0.246,0.248,-0.002
+"Area of work: Public Administration",0.072,0.071,0.002
+"Town size: Less than 2,000",0.159,0.158,0.001
+"Risk preferences: 8",0.052,0.051,0

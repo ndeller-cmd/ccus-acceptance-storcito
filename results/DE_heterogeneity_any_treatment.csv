@@ -1,0 +1,14 @@
+"subgroup_variable","term","estimate","std.error","p.value","p_adj_BH"
+"Age group","Any treatment × Age group: 45-59 year olds",-0.167996778377576,0.247885194450335,0.498114372485708,0.719498538034912
+"Age group","Any treatment × Age group: 30-44 year olds",-0.115314927462234,0.30514467669547,0.705587553415723,0.91726381944044
+"Age group","Any treatment × Age group: 18-29 year olds",-0.251238311340924,0.273904125992408,0.359245167698146,0.719498538034912
+"Gender","Any treatment × Gender: Male",-0.144129528538928,0.20199312602815,0.475689640388082,0.719498538034912
+"Education","Any treatment × Education: University degree",-0.171748059496809,0.225353332439579,0.446172253673969,0.719498538034912
+"Area type","Any treatment × Area type: Suburban",0.0545365667740603,0.22771361236334,0.810775298663267,0.920945452214949
+"Prior knowledge of CCUS","Any treatment × Prior knowledge of CCUS: Little knowledge",-0.476879168024339,0.244668868826647,0.0515865504426156,0.335312577877001
+"Prior knowledge of CCUS","Any treatment × Prior knowledge of CCUS: Some knowledge",-0.0525203823953883,0.277828205426742,0.850103494352261,0.920945452214949
+"Prior knowledge of CCUS","Any treatment × Prior knowledge of CCUS: Well informed",-0.36833158508159,0.356097984040357,0.301239600990378,0.719498538034912
+"Climate concern","Any treatment × Climate concern: Somewhat agree",-0.376268636424292,0.226973904163222,0.0977306967928148,0.423499686102197
+"Climate concern","Any treatment × Climate concern: Neither agree nor disagree",0.00453435150482104,0.260151254186557,0.986097883886658,0.986097883886658
+"Political orientation","Any treatment × Political orientation: Right",0.210065349443954,0.305902000866853,0.492509052917397,0.719498538034912
+"Political orientation","Any treatment × Political orientation: Centre",-0.547556736937273,0.232226142424757,0.0186727643892765,0.242745937060595

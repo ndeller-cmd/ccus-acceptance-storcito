@@ -1,0 +1,12 @@
+# survey data are confidential: never commit them
+data/raw/*
+data/analysis_data.rds
+!data/raw/README.md
+# results are created by the scripts
+output/*
+!output/.gitkeep
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/

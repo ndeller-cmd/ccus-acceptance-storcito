@@ -1,0 +1,50 @@
+"moderator","outcome","p_value","p_adj_BH"
+"Age group","support_gen",0.0982917634181192,0.13
+"Gender","support_gen",1.70096455547359e-06,0
+"Education","support_gen",0.00914530994392984,0.017
+"Area type","support_gen",0.0457023148226185,0.066
+"Prior knowledge of CCUS","support_gen",0.57158679991287,0.637
+"Climate concern","support_gen",1.02546417673059e-13,0
+"Political orientation","support_gen",1.56101682547916e-09,0
+"Age group","support_biomass",0.010461645551963,0.017
+"Gender","support_biomass",0.00174044234546241,0.004
+"Education","support_biomass",0.90506465639669,0.924
+"Area type","support_biomass",0.204353467622115,0.257
+"Prior knowledge of CCUS","support_biomass",0.195947367943663,0.253
+"Climate concern","support_biomass",5.25157615197627e-08,0
+"Political orientation","support_biomass",4.35541076297089e-05,0
+"Age group","support_wte",0.00360100069953759,0.008
+"Gender","support_wte",6.13621407438214e-08,0
+"Education","support_wte",0.714689405355912,0.772
+"Area type","support_wte",0.222826501524626,0.266
+"Prior knowledge of CCUS","support_wte",0.00104026723187268,0.003
+"Climate concern","support_wte",0.000289718038700027,0.001
+"Political orientation","support_wte",1.97105702018795e-05,0
+"Age group","support_util",0.0415546220348879,0.062
+"Gender","support_util",1.7801551681873e-07,0
+"Education","support_util",0.0104319832315421,0.017
+"Area type","support_util",0.0389392718915246,0.06
+"Prior knowledge of CCUS","support_util",0.0727983536054053,0.102
+"Climate concern","support_util",1.09168320222336e-05,0
+"Political orientation","support_util",0.000543350795501268,0.001
+"Age group","support_pipe",0.00356630251332609,0.008
+"Gender","support_pipe",1.03425315090946e-08,0
+"Education","support_pipe",0.800166462095957,0.834
+"Area type","support_pipe",0.981906261040773,0.982
+"Prior knowledge of CCUS","support_pipe",0.0100567073408708,0.017
+"Climate concern","support_pipe",3.21047656169864e-08,0
+"Political orientation","support_pipe",1.04948254993292e-06,0
+"Age group","support_stor",0.0825980397013289,0.112
+"Gender","support_stor",2.08517376516541e-07,0
+"Education","support_stor",0.724787212685021,0.772
+"Area type","support_stor",0.254038203509296,0.296
+"Prior knowledge of CCUS","support_stor",0.0366169038423891,0.058
+"Climate concern","support_stor",0.00698250638716025,0.014
+"Political orientation","support_stor",0.00212792757806313,0.005
+"Age group","support_index",0.00603105134445515,0.012
+"Gender","support_index",1.81594274662071e-10,0
+"Education","support_index",0.217056090910576,0.266
+"Area type","support_index",0.287002073183592,0.327
+"Prior knowledge of CCUS","support_index",0.00839869668200163,0.016
+"Climate concern","support_index",3.02139277538226e-09,0
+"Political orientation","support_index",6.92429670631115e-09,0

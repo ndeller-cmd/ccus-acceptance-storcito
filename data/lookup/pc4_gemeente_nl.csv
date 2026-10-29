@@ -1,0 +1,4073 @@
+pc4,gemeente_code,gemeente_name
+1011,GM0363,Amsterdam
+1012,GM0363,Amsterdam
+1013,GM0363,Amsterdam
+1014,GM0363,Amsterdam
+1015,GM0363,Amsterdam
+1016,GM0363,Amsterdam
+1017,GM0363,Amsterdam
+1018,GM0363,Amsterdam
+1019,GM0363,Amsterdam
+1021,GM0363,Amsterdam
+1022,GM0363,Amsterdam
+1023,GM0363,Amsterdam
+1024,GM0363,Amsterdam
+1025,GM0363,Amsterdam
+1026,GM0363,Amsterdam
+1027,GM0363,Amsterdam
+1028,GM0363,Amsterdam
+1031,GM0363,Amsterdam
+1032,GM0363,Amsterdam
+1033,GM0363,Amsterdam
+1034,GM0363,Amsterdam
+1035,GM0363,Amsterdam
+1036,GM0363,Amsterdam
+1037,GM0363,Amsterdam
+1041,GM0363,Amsterdam
+1042,GM0363,Amsterdam
+1043,GM0363,Amsterdam
+1044,GM0363,Amsterdam
+1045,GM0363,Amsterdam
+1046,GM0363,Amsterdam
+1047,GM0363,Amsterdam
+1051,GM0363,Amsterdam
+1052,GM0363,Amsterdam
+1053,GM0363,Amsterdam
+1054,GM0363,Amsterdam
+1055,GM0363,Amsterdam
+1056,GM0363,Amsterdam
+1057,GM0363,Amsterdam
+1058,GM0363,Amsterdam
+1059,GM0363,Amsterdam
+1060,GM0363,Amsterdam
+1061,GM0363,Amsterdam
+1062,GM0363,Amsterdam
+1063,GM0363,Amsterdam
+1064,GM0363,Amsterdam
+1065,GM0363,Amsterdam
+1066,GM0363,Amsterdam
+1067,GM0363,Amsterdam
+1068,GM0363,Amsterdam
+1069,GM0363,Amsterdam
+1071,GM0363,Amsterdam
+1072,GM0363,Amsterdam
+1073,GM0363,Amsterdam
+1074,GM0363,Amsterdam
+1075,GM0363,Amsterdam
+1076,GM0363,Amsterdam
+1077,GM0363,Amsterdam
+1078,GM0363,Amsterdam
+1079,GM0363,Amsterdam
+1081,GM0363,Amsterdam
+1082,GM0363,Amsterdam
+1083,GM0363,Amsterdam
+1086,GM0363,Amsterdam
+1087,GM0363,Amsterdam
+1091,GM0363,Amsterdam
+1092,GM0363,Amsterdam
+1093,GM0363,Amsterdam
+1094,GM0363,Amsterdam
+1095,GM0363,Amsterdam
+1096,GM0363,Amsterdam
+1097,GM0363,Amsterdam
+1098,GM0363,Amsterdam
+1101,GM0363,Amsterdam
+1102,GM0363,Amsterdam
+1103,GM0363,Amsterdam
+1104,GM0363,Amsterdam
+1105,GM0363,Amsterdam
+1106,GM0363,Amsterdam
+1107,GM0363,Amsterdam
+1108,GM0363,Amsterdam
+1109,GM0363,Amsterdam
+1111,GM0384,Diemen
+1112,GM0384,Diemen
+1113,GM0384,Diemen
+1114,GM0437,Ouder-Amstel
+1115,GM0437,Ouder-Amstel
+1117,GM0394,Haarlemmermeer
+1118,GM0394,Haarlemmermeer
+1119,GM0394,Haarlemmermeer
+1121,GM0415,Landsmeer
+1127,GM0415,Landsmeer
+1131,GM0385,Edam-Volendam
+1132,GM0385,Edam-Volendam
+1135,GM0385,Edam-Volendam
+1141,GM0852,Waterland
+1145,GM0852,Waterland
+1151,GM0852,Waterland
+1153,GM0852,Waterland
+1154,GM0852,Waterland
+1156,GM0852,Waterland
+1161,GM0394,Haarlemmermeer
+1165,GM0394,Haarlemmermeer
+1171,GM0394,Haarlemmermeer
+1175,GM0394,Haarlemmermeer
+1181,GM0362,Amstelveen
+1182,GM0362,Amstelveen
+1183,GM0362,Amstelveen
+1184,GM0362,Amstelveen
+1185,GM0362,Amstelveen
+1186,GM0362,Amstelveen
+1187,GM0362,Amstelveen
+1188,GM0362,Amstelveen
+1189,GM0362,Amstelveen
+1191,GM0437,Ouder-Amstel
+1211,GM0402,Hilversum
+1212,GM0402,Hilversum
+1213,GM0402,Hilversum
+1214,GM0402,Hilversum
+1215,GM0402,Hilversum
+1216,GM0402,Hilversum
+1217,GM0402,Hilversum
+1218,GM0402,Hilversum
+1221,GM0402,Hilversum
+1222,GM0402,Hilversum
+1223,GM0402,Hilversum
+1231,GM1696,Wijdemeren
+1241,GM1696,Wijdemeren
+1243,GM1696,Wijdemeren
+1244,GM1696,Wijdemeren
+1251,GM0417,Laren (NH.)
+1252,GM0417,Laren (NH.)
+1261,GM0376,Blaricum
+1262,GM0376,Blaricum
+1271,GM0406,Huizen
+1272,GM0406,Huizen
+1273,GM0406,Huizen
+1274,GM0406,Huizen
+1275,GM0406,Huizen
+1276,GM0406,Huizen
+1277,GM0406,Huizen
+1309,GM0034,Almere
+1311,GM0034,Almere
+1312,GM0034,Almere
+1313,GM0034,Almere
+1314,GM0034,Almere
+1315,GM0034,Almere
+1316,GM0034,Almere
+1317,GM0034,Almere
+1318,GM0034,Almere
+1319,GM0034,Almere
+1321,GM0034,Almere
+1322,GM0034,Almere
+1323,GM0034,Almere
+1324,GM0034,Almere
+1325,GM0034,Almere
+1326,GM0034,Almere
+1327,GM0034,Almere
+1328,GM0034,Almere
+1329,GM0034,Almere
+1331,GM0034,Almere
+1332,GM0034,Almere
+1333,GM0034,Almere
+1334,GM0034,Almere
+1335,GM0034,Almere
+1336,GM0034,Almere
+1338,GM0034,Almere
+1339,GM0034,Almere
+1341,GM0034,Almere
+1343,GM0034,Almere
+1349,GM0034,Almere
+1351,GM0034,Almere
+1352,GM0034,Almere
+1353,GM0034,Almere
+1354,GM0034,Almere
+1355,GM0034,Almere
+1356,GM0034,Almere
+1357,GM0034,Almere
+1358,GM0034,Almere
+1359,GM0034,Almere
+1361,GM0034,Almere
+1362,GM0034,Almere
+1363,GM0034,Almere
+1364,GM0034,Almere
+1381,GM0363,Amsterdam
+1382,GM0363,Amsterdam
+1383,GM0363,Amsterdam
+1384,GM0363,Amsterdam
+1391,GM0736,De Ronde Venen
+1393,GM1904,Stichtse Vecht
+1394,GM1696,Wijdemeren
+1396,GM0736,De Ronde Venen
+1398,GM1942,Gooise Meren
+1399,GM1942,Gooise Meren
+1401,GM1942,Gooise Meren
+1402,GM1942,Gooise Meren
+1403,GM1942,Gooise Meren
+1404,GM1942,Gooise Meren
+1405,GM1942,Gooise Meren
+1406,GM1942,Gooise Meren
+1411,GM1942,Gooise Meren
+1412,GM1942,Gooise Meren
+1421,GM0451,Uithoorn
+1422,GM0451,Uithoorn
+1423,GM0451,Uithoorn
+1424,GM0451,Uithoorn
+1426,GM0736,De Ronde Venen
+1427,GM0736,De Ronde Venen
+1428,GM0569,Nieuwkoop
+1431,GM0358,Aalsmeer
+1432,GM0358,Aalsmeer
+1433,GM0358,Aalsmeer
+1435,GM0394,Haarlemmermeer
+1436,GM0394,Haarlemmermeer
+1437,GM0394,Haarlemmermeer
+1438,GM0394,Haarlemmermeer
+1441,GM0439,Purmerend
+1442,GM0439,Purmerend
+1443,GM0439,Purmerend
+1444,GM0439,Purmerend
+1445,GM0439,Purmerend
+1446,GM0439,Purmerend
+1447,GM0439,Purmerend
+1448,GM0439,Purmerend
+1451,GM0415,Landsmeer
+1452,GM0852,Waterland
+1454,GM0852,Waterland
+1456,GM0880,Wormerland
+1458,GM0880,Wormerland
+1461,GM0439,Purmerend
+1462,GM0439,Purmerend
+1463,GM0439,Purmerend
+1464,GM0439,Purmerend
+1471,GM0385,Edam-Volendam
+1472,GM0385,Edam-Volendam
+1473,GM0385,Edam-Volendam
+1474,GM0385,Edam-Volendam
+1475,GM0385,Edam-Volendam
+1476,GM0385,Edam-Volendam
+1477,GM0385,Edam-Volendam
+1481,GM0385,Edam-Volendam
+1482,GM0852,Waterland
+1483,GM0361,Alkmaar
+1484,GM0361,Alkmaar
+1485,GM0361,Alkmaar
+1486,GM0361,Alkmaar
+1487,GM0361,Alkmaar
+1488,GM0361,Alkmaar
+1489,GM0383,Castricum
+1501,GM0479,Zaanstad
+1502,GM0479,Zaanstad
+1503,GM0479,Zaanstad
+1504,GM0479,Zaanstad
+1505,GM0479,Zaanstad
+1506,GM0479,Zaanstad
+1507,GM0479,Zaanstad
+1508,GM0479,Zaanstad
+1509,GM0479,Zaanstad
+1511,GM0431,Oostzaan
+1521,GM0479,Zaanstad
+1525,GM0479,Zaanstad
+1531,GM0880,Wormerland
+1534,GM0880,Wormerland
+1536,GM0361,Alkmaar
+1541,GM0479,Zaanstad
+1544,GM0479,Zaanstad
+1546,GM0880,Wormerland
+1551,GM0479,Zaanstad
+1561,GM0479,Zaanstad
+1562,GM0479,Zaanstad
+1566,GM0479,Zaanstad
+1567,GM0479,Zaanstad
+1601,GM0388,Enkhuizen
+1602,GM0388,Enkhuizen
+1606,GM0498,Drechterland
+1607,GM0498,Drechterland
+1608,GM0498,Drechterland
+1609,GM0498,Drechterland
+1611,GM0532,Stede Broec
+1613,GM0532,Stede Broec
+1614,GM0532,Stede Broec
+1616,GM0498,Drechterland
+1617,GM0498,Drechterland
+1619,GM0420,Medemblik
+1621,GM0405,Hoorn
+1622,GM0405,Hoorn
+1623,GM0405,Hoorn
+1624,GM0405,Hoorn
+1625,GM0405,Hoorn
+1627,GM0405,Hoorn
+1628,GM0405,Hoorn
+1631,GM1598,Koggenland
+1633,GM1598,Koggenland
+1634,GM1598,Koggenland
+1636,GM0361,Alkmaar
+1641,GM1598,Koggenland
+1642,GM1598,Koggenland
+1643,GM1598,Koggenland
+1645,GM1598,Koggenland
+1646,GM0361,Alkmaar
+1647,GM1598,Koggenland
+1648,GM1598,Koggenland
+1652,GM1598,Koggenland
+1654,GM0420,Medemblik
+1655,GM0420,Medemblik
+1657,GM0420,Medemblik
+1658,GM0420,Medemblik
+1661,GM0432,Opmeer
+1662,GM0432,Opmeer
+1663,GM0432,Opmeer
+1671,GM0420,Medemblik
+1674,GM0420,Medemblik
+1676,GM0420,Medemblik
+1678,GM0420,Medemblik
+1679,GM0420,Medemblik
+1681,GM0420,Medemblik
+1682,GM0420,Medemblik
+1683,GM0420,Medemblik
+1684,GM0420,Medemblik
+1685,GM0420,Medemblik
+1686,GM0420,Medemblik
+1687,GM0420,Medemblik
+1688,GM0420,Medemblik
+1689,GM0405,Hoorn
+1691,GM0420,Medemblik
+1692,GM0420,Medemblik
+1693,GM0420,Medemblik
+1695,GM0405,Hoorn
+1696,GM0498,Drechterland
+1697,GM0498,Drechterland
+1701,GM1980,Dijk en Waard
+1702,GM1980,Dijk en Waard
+1703,GM1980,Dijk en Waard
+1704,GM1980,Dijk en Waard
+1705,GM1980,Dijk en Waard
+1706,GM1980,Dijk en Waard
+1711,GM1598,Koggenland
+1713,GM1598,Koggenland
+1715,GM0432,Opmeer
+1716,GM0432,Opmeer
+1718,GM0432,Opmeer
+1719,GM0432,Opmeer
+1721,GM1980,Dijk en Waard
+1722,GM1980,Dijk en Waard
+1723,GM1980,Dijk en Waard
+1724,GM1980,Dijk en Waard
+1731,GM1911,Hollands Kroon
+1732,GM1911,Hollands Kroon
+1733,GM1911,Hollands Kroon
+1734,GM1911,Hollands Kroon
+1735,GM1911,Hollands Kroon
+1736,GM1911,Hollands Kroon
+1738,GM0441,Schagen
+1741,GM0441,Schagen
+1742,GM0441,Schagen
+1744,GM0441,Schagen
+1746,GM0441,Schagen
+1747,GM0441,Schagen
+1749,GM0441,Schagen
+1751,GM0441,Schagen
+1752,GM0441,Schagen
+1753,GM0441,Schagen
+1754,GM0441,Schagen
+1755,GM0441,Schagen
+1756,GM0441,Schagen
+1757,GM0441,Schagen
+1759,GM0441,Schagen
+1761,GM1911,Hollands Kroon
+1764,GM1911,Hollands Kroon
+1766,GM1911,Hollands Kroon
+1767,GM1911,Hollands Kroon
+1768,GM1911,Hollands Kroon
+1769,GM1911,Hollands Kroon
+1771,GM1911,Hollands Kroon
+1773,GM1911,Hollands Kroon
+1774,GM1911,Hollands Kroon
+1775,GM1911,Hollands Kroon
+1777,GM1911,Hollands Kroon
+1778,GM1911,Hollands Kroon
+1779,GM1911,Hollands Kroon
+1781,GM0400,Den Helder
+1782,GM0400,Den Helder
+1783,GM0400,Den Helder
+1784,GM0400,Den Helder
+1785,GM0400,Den Helder
+1786,GM0400,Den Helder
+1787,GM0400,Den Helder
+1788,GM0400,Den Helder
+1789,GM0400,Den Helder
+1791,GM0448,Texel
+1792,GM0448,Texel
+1793,GM0448,Texel
+1794,GM0448,Texel
+1795,GM0448,Texel
+1796,GM0448,Texel
+1797,GM0448,Texel
+1811,GM0361,Alkmaar
+1812,GM0361,Alkmaar
+1813,GM0361,Alkmaar
+1814,GM0361,Alkmaar
+1815,GM0361,Alkmaar
+1816,GM0361,Alkmaar
+1817,GM0361,Alkmaar
+1821,GM0361,Alkmaar
+1822,GM0361,Alkmaar
+1823,GM0361,Alkmaar
+1824,GM0361,Alkmaar
+1825,GM0361,Alkmaar
+1826,GM0361,Alkmaar
+1827,GM0361,Alkmaar
+1829,GM0361,Alkmaar
+1831,GM0361,Alkmaar
+1832,GM1980,Dijk en Waard
+1834,GM1980,Dijk en Waard
+1841,GM0361,Alkmaar
+1842,GM0361,Alkmaar
+1843,GM0361,Alkmaar
+1844,GM0361,Alkmaar
+1846,GM0361,Alkmaar
+1847,GM0361,Alkmaar
+1851,GM0399,Heiloo
+1852,GM0399,Heiloo
+1853,GM0399,Heiloo
+1861,GM0373,Bergen (NH.)
+1862,GM0373,Bergen (NH.)
+1865,GM0373,Bergen (NH.)
+1871,GM0373,Bergen (NH.)
+1873,GM0373,Bergen (NH.)
+1901,GM0383,Castricum
+1902,GM0383,Castricum
+1906,GM0383,Castricum
+1911,GM0450,Uitgeest
+1921,GM0383,Castricum
+1931,GM0373,Bergen (NH.)
+1934,GM0373,Bergen (NH.)
+1935,GM0373,Bergen (NH.)
+1941,GM0375,Beverwijk
+1942,GM0375,Beverwijk
+1943,GM0375,Beverwijk
+1944,GM0375,Beverwijk
+1945,GM0375,Beverwijk
+1946,GM0375,Beverwijk
+1947,GM0375,Beverwijk
+1948,GM0375,Beverwijk
+1949,GM0375,Beverwijk
+1951,GM0453,Velsen
+1961,GM0396,Heemskerk
+1962,GM0396,Heemskerk
+1963,GM0396,Heemskerk
+1964,GM0396,Heemskerk
+1965,GM0396,Heemskerk
+1966,GM0396,Heemskerk
+1967,GM0396,Heemskerk
+1968,GM0396,Heemskerk
+1969,GM0396,Heemskerk
+1971,GM0453,Velsen
+1972,GM0453,Velsen
+1973,GM0453,Velsen
+1974,GM0453,Velsen
+1975,GM0453,Velsen
+1976,GM0453,Velsen
+1981,GM0453,Velsen
+1985,GM0453,Velsen
+1991,GM0453,Velsen
+1992,GM0453,Velsen
+2011,GM0392,Haarlem
+2012,GM0392,Haarlem
+2013,GM0392,Haarlem
+2014,GM0392,Haarlem
+2015,GM0392,Haarlem
+2019,GM0392,Haarlem
+2021,GM0392,Haarlem
+2022,GM0392,Haarlem
+2023,GM0392,Haarlem
+2024,GM0392,Haarlem
+2025,GM0392,Haarlem
+2026,GM0392,Haarlem
+2031,GM0392,Haarlem
+2032,GM0392,Haarlem
+2033,GM0392,Haarlem
+2034,GM0392,Haarlem
+2035,GM0392,Haarlem
+2036,GM0392,Haarlem
+2037,GM0392,Haarlem
+2041,GM0473,Zandvoort
+2042,GM0473,Zandvoort
+2051,GM0377,Bloemendaal
+2061,GM0377,Bloemendaal
+2063,GM0392,Haarlem
+2064,GM0394,Haarlemmermeer
+2065,GM0394,Haarlemmermeer
+2071,GM0453,Velsen
+2082,GM0453,Velsen
+2101,GM0397,Heemstede
+2102,GM0397,Heemstede
+2103,GM0397,Heemstede
+2104,GM0397,Heemstede
+2105,GM0397,Heemstede
+2106,GM0397,Heemstede
+2111,GM0377,Bloemendaal
+2114,GM0377,Bloemendaal
+2116,GM0473,Zandvoort
+2121,GM0377,Bloemendaal
+2131,GM0394,Haarlemmermeer
+2132,GM0394,Haarlemmermeer
+2133,GM0394,Haarlemmermeer
+2134,GM0394,Haarlemmermeer
+2135,GM0394,Haarlemmermeer
+2136,GM0394,Haarlemmermeer
+2141,GM0394,Haarlemmermeer
+2142,GM0394,Haarlemmermeer
+2143,GM0394,Haarlemmermeer
+2144,GM0394,Haarlemmermeer
+2151,GM0394,Haarlemmermeer
+2152,GM0394,Haarlemmermeer
+2153,GM0394,Haarlemmermeer
+2154,GM0394,Haarlemmermeer
+2155,GM0394,Haarlemmermeer
+2156,GM0394,Haarlemmermeer
+2157,GM0394,Haarlemmermeer
+2158,GM0394,Haarlemmermeer
+2159,GM1884,Kaag en Braassem
+2161,GM0553,Lisse
+2162,GM0553,Lisse
+2163,GM0553,Lisse
+2165,GM0394,Haarlemmermeer
+2171,GM1525,Teylingen
+2172,GM1525,Teylingen
+2181,GM0534,Hillegom
+2182,GM0534,Hillegom
+2191,GM0575,Noordwijk
+2201,GM0575,Noordwijk
+2202,GM0575,Noordwijk
+2203,GM0575,Noordwijk
+2204,GM0575,Noordwijk
+2211,GM0575,Noordwijk
+2212,GM0575,Noordwijk
+2215,GM1525,Teylingen
+2216,GM1525,Teylingen
+2221,GM0537,Katwijk
+2222,GM0537,Katwijk
+2223,GM0537,Katwijk
+2224,GM0537,Katwijk
+2225,GM0537,Katwijk
+2231,GM0537,Katwijk
+2232,GM0537,Katwijk
+2235,GM0537,Katwijk
+2236,GM0537,Katwijk
+2241,GM0629,Wassenaar
+2242,GM0629,Wassenaar
+2243,GM0629,Wassenaar
+2244,GM0629,Wassenaar
+2245,GM0629,Wassenaar
+2251,GM0626,Voorschoten
+2252,GM0626,Voorschoten
+2253,GM0626,Voorschoten
+2254,GM0626,Voorschoten
+2261,GM1916,Leidschendam-Voorburg
+2262,GM1916,Leidschendam-Voorburg
+2263,GM1916,Leidschendam-Voorburg
+2264,GM1916,Leidschendam-Voorburg
+2265,GM1916,Leidschendam-Voorburg
+2266,GM1916,Leidschendam-Voorburg
+2267,GM1916,Leidschendam-Voorburg
+2271,GM1916,Leidschendam-Voorburg
+2272,GM1916,Leidschendam-Voorburg
+2273,GM1916,Leidschendam-Voorburg
+2274,GM1916,Leidschendam-Voorburg
+2275,GM1916,Leidschendam-Voorburg
+2281,GM0603,Rijswijk (ZH.)
+2282,GM0603,Rijswijk (ZH.)
+2283,GM0603,Rijswijk (ZH.)
+2284,GM0603,Rijswijk (ZH.)
+2285,GM0603,Rijswijk (ZH.)
+2286,GM0603,Rijswijk (ZH.)
+2287,GM0603,Rijswijk (ZH.)
+2288,GM0603,Rijswijk (ZH.)
+2289,GM0603,Rijswijk (ZH.)
+2291,GM1783,Westland
+2292,GM1783,Westland
+2295,GM1783,Westland
+2311,GM0546,Leiden
+2312,GM0546,Leiden
+2313,GM0546,Leiden
+2314,GM0546,Leiden
+2315,GM0546,Leiden
+2316,GM0546,Leiden
+2317,GM0546,Leiden
+2318,GM0546,Leiden
+2321,GM0546,Leiden
+2322,GM0546,Leiden
+2323,GM0546,Leiden
+2324,GM0546,Leiden
+2331,GM0546,Leiden
+2332,GM0546,Leiden
+2333,GM0546,Leiden
+2334,GM0546,Leiden
+2341,GM0579,Oegstgeest
+2342,GM0579,Oegstgeest
+2343,GM0579,Oegstgeest
+2351,GM0547,Leiderdorp
+2352,GM0547,Leiderdorp
+2353,GM0547,Leiderdorp
+2355,GM1884,Kaag en Braassem
+2361,GM1525,Teylingen
+2362,GM1525,Teylingen
+2371,GM1884,Kaag en Braassem
+2374,GM1884,Kaag en Braassem
+2375,GM1884,Kaag en Braassem
+2376,GM1884,Kaag en Braassem
+2377,GM1884,Kaag en Braassem
+2381,GM0638,Zoeterwoude
+2382,GM0638,Zoeterwoude
+2391,GM0484,Alphen aan den Rijn
+2394,GM0484,Alphen aan den Rijn
+2396,GM0484,Alphen aan den Rijn
+2401,GM0484,Alphen aan den Rijn
+2402,GM0484,Alphen aan den Rijn
+2403,GM0484,Alphen aan den Rijn
+2404,GM0484,Alphen aan den Rijn
+2405,GM0484,Alphen aan den Rijn
+2406,GM0484,Alphen aan den Rijn
+2407,GM0484,Alphen aan den Rijn
+2408,GM0484,Alphen aan den Rijn
+2409,GM0484,Alphen aan den Rijn
+2411,GM1901,Bodegraven-Reeuwijk
+2412,GM1901,Bodegraven-Reeuwijk
+2415,GM1901,Bodegraven-Reeuwijk
+2421,GM0569,Nieuwkoop
+2431,GM0569,Nieuwkoop
+2432,GM0569,Nieuwkoop
+2435,GM0569,Nieuwkoop
+2441,GM0569,Nieuwkoop
+2445,GM0484,Alphen aan den Rijn
+2451,GM1884,Kaag en Braassem
+2461,GM0569,Nieuwkoop
+2465,GM1884,Kaag en Braassem
+2471,GM0484,Alphen aan den Rijn
+2481,GM1884,Kaag en Braassem
+2491,GM0518,'s-Gravenhage
+2492,GM0518,'s-Gravenhage
+2493,GM0518,'s-Gravenhage
+2495,GM0518,'s-Gravenhage
+2496,GM0518,'s-Gravenhage
+2497,GM0518,'s-Gravenhage
+2498,GM0518,'s-Gravenhage
+2511,GM0518,'s-Gravenhage
+2512,GM0518,'s-Gravenhage
+2513,GM0518,'s-Gravenhage
+2514,GM0518,'s-Gravenhage
+2515,GM0518,'s-Gravenhage
+2516,GM0518,'s-Gravenhage
+2517,GM0518,'s-Gravenhage
+2518,GM0518,'s-Gravenhage
+2521,GM0518,'s-Gravenhage
+2522,GM0518,'s-Gravenhage
+2523,GM0518,'s-Gravenhage
+2524,GM0518,'s-Gravenhage
+2525,GM0518,'s-Gravenhage
+2526,GM0518,'s-Gravenhage
+2531,GM0518,'s-Gravenhage
+2532,GM0518,'s-Gravenhage
+2533,GM0518,'s-Gravenhage
+2541,GM0518,'s-Gravenhage
+2542,GM0518,'s-Gravenhage
+2543,GM0518,'s-Gravenhage
+2544,GM0518,'s-Gravenhage
+2545,GM0518,'s-Gravenhage
+2546,GM0518,'s-Gravenhage
+2547,GM0518,'s-Gravenhage
+2548,GM0518,'s-Gravenhage
+2551,GM0518,'s-Gravenhage
+2552,GM0518,'s-Gravenhage
+2553,GM0518,'s-Gravenhage
+2554,GM0518,'s-Gravenhage
+2555,GM0518,'s-Gravenhage
+2561,GM0518,'s-Gravenhage
+2562,GM0518,'s-Gravenhage
+2563,GM0518,'s-Gravenhage
+2564,GM0518,'s-Gravenhage
+2565,GM0518,'s-Gravenhage
+2566,GM0518,'s-Gravenhage
+2571,GM0518,'s-Gravenhage
+2572,GM0518,'s-Gravenhage
+2573,GM0518,'s-Gravenhage
+2574,GM0518,'s-Gravenhage
+2581,GM0518,'s-Gravenhage
+2582,GM0518,'s-Gravenhage
+2583,GM0518,'s-Gravenhage
+2584,GM0518,'s-Gravenhage
+2585,GM0518,'s-Gravenhage
+2586,GM0518,'s-Gravenhage
+2587,GM0518,'s-Gravenhage
+2591,GM0518,'s-Gravenhage
+2592,GM0518,'s-Gravenhage
+2593,GM0518,'s-Gravenhage
+2594,GM0518,'s-Gravenhage
+2595,GM0518,'s-Gravenhage
+2596,GM0518,'s-Gravenhage
+2597,GM0518,'s-Gravenhage
+2611,GM0503,Delft
+2612,GM0503,Delft
+2613,GM0503,Delft
+2614,GM0503,Delft
+2616,GM0503,Delft
+2622,GM0503,Delft
+2623,GM0503,Delft
+2624,GM0503,Delft
+2625,GM0503,Delft
+2626,GM0503,Delft
+2627,GM0503,Delft
+2628,GM0503,Delft
+2629,GM0503,Delft
+2631,GM1926,Pijnacker-Nootdorp
+2632,GM1926,Pijnacker-Nootdorp
+2635,GM1842,Midden-Delfland
+2636,GM1842,Midden-Delfland
+2641,GM1926,Pijnacker-Nootdorp
+2642,GM1926,Pijnacker-Nootdorp
+2643,GM1926,Pijnacker-Nootdorp
+2645,GM1926,Pijnacker-Nootdorp
+2651,GM1621,Lansingerland
+2652,GM1621,Lansingerland
+2661,GM1621,Lansingerland
+2662,GM1621,Lansingerland
+2665,GM1621,Lansingerland
+2671,GM1783,Westland
+2672,GM1783,Westland
+2673,GM1783,Westland
+2675,GM1783,Westland
+2676,GM1783,Westland
+2678,GM1783,Westland
+2681,GM1783,Westland
+2684,GM1783,Westland
+2685,GM1783,Westland
+2691,GM1783,Westland
+2692,GM1783,Westland
+2693,GM1783,Westland
+2694,GM1783,Westland
+2711,GM0637,Zoetermeer
+2712,GM0637,Zoetermeer
+2713,GM0637,Zoetermeer
+2715,GM0637,Zoetermeer
+2716,GM0637,Zoetermeer
+2717,GM0637,Zoetermeer
+2718,GM0637,Zoetermeer
+2719,GM0637,Zoetermeer
+2721,GM0637,Zoetermeer
+2722,GM0637,Zoetermeer
+2723,GM0637,Zoetermeer
+2724,GM0637,Zoetermeer
+2725,GM0637,Zoetermeer
+2726,GM0637,Zoetermeer
+2727,GM0637,Zoetermeer
+2728,GM0637,Zoetermeer
+2729,GM0637,Zoetermeer
+2731,GM0484,Alphen aan den Rijn
+2735,GM0638,Zoeterwoude
+2741,GM0627,Waddinxveen
+2742,GM0627,Waddinxveen
+2743,GM0627,Waddinxveen
+2751,GM1892,Zuidplas
+2752,GM1892,Zuidplas
+2761,GM1892,Zuidplas
+2771,GM0484,Alphen aan den Rijn
+2801,GM0513,Gouda
+2802,GM0513,Gouda
+2803,GM0513,Gouda
+2804,GM0513,Gouda
+2805,GM0513,Gouda
+2806,GM0513,Gouda
+2807,GM0513,Gouda
+2808,GM0513,Gouda
+2809,GM0513,Gouda
+2811,GM1901,Bodegraven-Reeuwijk
+2821,GM1931,Krimpenerwaard
+2825,GM1931,Krimpenerwaard
+2831,GM1931,Krimpenerwaard
+2841,GM1892,Zuidplas
+2851,GM1931,Krimpenerwaard
+2855,GM1931,Krimpenerwaard
+2861,GM1931,Krimpenerwaard
+2865,GM1931,Krimpenerwaard
+2871,GM1931,Krimpenerwaard
+2872,GM1931,Krimpenerwaard
+2901,GM0502,Capelle aan den IJssel
+2902,GM0502,Capelle aan den IJssel
+2903,GM0502,Capelle aan den IJssel
+2904,GM0502,Capelle aan den IJssel
+2905,GM0502,Capelle aan den IJssel
+2906,GM0502,Capelle aan den IJssel
+2907,GM0502,Capelle aan den IJssel
+2908,GM0502,Capelle aan den IJssel
+2909,GM0502,Capelle aan den IJssel
+2911,GM1892,Zuidplas
+2912,GM1892,Zuidplas
+2913,GM1892,Zuidplas
+2914,GM1892,Zuidplas
+2921,GM0542,Krimpen aan den IJssel
+2922,GM0542,Krimpen aan den IJssel
+2923,GM0542,Krimpen aan den IJssel
+2924,GM0542,Krimpen aan den IJssel
+2925,GM0542,Krimpen aan den IJssel
+2926,GM0542,Krimpen aan den IJssel
+2931,GM1931,Krimpenerwaard
+2935,GM1931,Krimpenerwaard
+2941,GM1931,Krimpenerwaard
+2951,GM0482,Alblasserdam
+2952,GM0482,Alblasserdam
+2953,GM0482,Alblasserdam
+2954,GM0482,Alblasserdam
+2957,GM1978,Molenlanden
+2959,GM1978,Molenlanden
+2961,GM1978,Molenlanden
+2964,GM1978,Molenlanden
+2965,GM1978,Molenlanden
+2967,GM1978,Molenlanden
+2968,GM1978,Molenlanden
+2969,GM1978,Molenlanden
+2971,GM1978,Molenlanden
+2973,GM1978,Molenlanden
+2974,GM1978,Molenlanden
+2975,GM1978,Molenlanden
+2977,GM1978,Molenlanden
+2981,GM0597,Ridderkerk
+2982,GM0597,Ridderkerk
+2983,GM0597,Ridderkerk
+2984,GM0597,Ridderkerk
+2985,GM0597,Ridderkerk
+2986,GM0597,Ridderkerk
+2987,GM0597,Ridderkerk
+2988,GM0597,Ridderkerk
+2989,GM0597,Ridderkerk
+2991,GM0489,Barendrecht
+2992,GM0489,Barendrecht
+2993,GM0489,Barendrecht
+2994,GM0489,Barendrecht
+2995,GM0642,Zwijndrecht
+3011,GM0599,Rotterdam
+3012,GM0599,Rotterdam
+3013,GM0599,Rotterdam
+3014,GM0599,Rotterdam
+3015,GM0599,Rotterdam
+3016,GM0599,Rotterdam
+3021,GM0599,Rotterdam
+3022,GM0599,Rotterdam
+3023,GM0599,Rotterdam
+3024,GM0599,Rotterdam
+3025,GM0599,Rotterdam
+3026,GM0599,Rotterdam
+3027,GM0599,Rotterdam
+3028,GM0599,Rotterdam
+3029,GM0599,Rotterdam
+3031,GM0599,Rotterdam
+3032,GM0599,Rotterdam
+3033,GM0599,Rotterdam
+3034,GM0599,Rotterdam
+3035,GM0599,Rotterdam
+3036,GM0599,Rotterdam
+3037,GM0599,Rotterdam
+3038,GM0599,Rotterdam
+3039,GM0599,Rotterdam
+3041,GM0599,Rotterdam
+3042,GM0599,Rotterdam
+3043,GM0599,Rotterdam
+3044,GM0599,Rotterdam
+3045,GM0599,Rotterdam
+3046,GM0599,Rotterdam
+3047,GM0599,Rotterdam
+3051,GM0599,Rotterdam
+3052,GM0599,Rotterdam
+3053,GM0599,Rotterdam
+3054,GM0599,Rotterdam
+3055,GM0599,Rotterdam
+3056,GM0599,Rotterdam
+3059,GM0599,Rotterdam
+3061,GM0599,Rotterdam
+3062,GM0599,Rotterdam
+3063,GM0599,Rotterdam
+3064,GM0599,Rotterdam
+3065,GM0599,Rotterdam
+3066,GM0599,Rotterdam
+3067,GM0599,Rotterdam
+3068,GM0599,Rotterdam
+3069,GM0599,Rotterdam
+3071,GM0599,Rotterdam
+3072,GM0599,Rotterdam
+3073,GM0599,Rotterdam
+3074,GM0599,Rotterdam
+3075,GM0599,Rotterdam
+3076,GM0599,Rotterdam
+3077,GM0599,Rotterdam
+3078,GM0599,Rotterdam
+3079,GM0599,Rotterdam
+3081,GM0599,Rotterdam
+3082,GM0599,Rotterdam
+3083,GM0599,Rotterdam
+3084,GM0599,Rotterdam
+3085,GM0599,Rotterdam
+3086,GM0599,Rotterdam
+3087,GM0599,Rotterdam
+3088,GM0599,Rotterdam
+3089,GM0599,Rotterdam
+3111,GM0606,Schiedam
+3112,GM0606,Schiedam
+3113,GM0606,Schiedam
+3114,GM0606,Schiedam
+3115,GM0606,Schiedam
+3116,GM0606,Schiedam
+3117,GM0606,Schiedam
+3118,GM0606,Schiedam
+3119,GM0606,Schiedam
+3121,GM0606,Schiedam
+3122,GM0606,Schiedam
+3123,GM0606,Schiedam
+3124,GM0606,Schiedam
+3125,GM0606,Schiedam
+3131,GM0622,Vlaardingen
+3132,GM0622,Vlaardingen
+3133,GM0622,Vlaardingen
+3134,GM0622,Vlaardingen
+3135,GM0622,Vlaardingen
+3136,GM0622,Vlaardingen
+3137,GM0622,Vlaardingen
+3138,GM0622,Vlaardingen
+3141,GM0556,Maassluis
+3142,GM0556,Maassluis
+3143,GM0556,Maassluis
+3144,GM0556,Maassluis
+3145,GM0556,Maassluis
+3146,GM0556,Maassluis
+3147,GM0556,Maassluis
+3151,GM0599,Rotterdam
+3155,GM1842,Midden-Delfland
+3161,GM0613,Albrandswaard
+3162,GM0613,Albrandswaard
+3165,GM0613,Albrandswaard
+3171,GM0613,Albrandswaard
+3172,GM0613,Albrandswaard
+3176,GM0613,Albrandswaard
+3181,GM0599,Rotterdam
+3191,GM0599,Rotterdam
+3192,GM0599,Rotterdam
+3193,GM0599,Rotterdam
+3194,GM0599,Rotterdam
+3195,GM0599,Rotterdam
+3196,GM0599,Rotterdam
+3197,GM0599,Rotterdam
+3198,GM0599,Rotterdam
+3199,GM0599,Rotterdam
+3201,GM1930,Nissewaard
+3202,GM1930,Nissewaard
+3203,GM1930,Nissewaard
+3204,GM1930,Nissewaard
+3205,GM1930,Nissewaard
+3206,GM1930,Nissewaard
+3207,GM1930,Nissewaard
+3208,GM1930,Nissewaard
+3209,GM1930,Nissewaard
+3211,GM1930,Nissewaard
+3212,GM1930,Nissewaard
+3214,GM1930,Nissewaard
+3216,GM1930,Nissewaard
+3218,GM1930,Nissewaard
+3221,GM1992,Voorne aan Zee
+3222,GM1992,Voorne aan Zee
+3223,GM1992,Voorne aan Zee
+3224,GM1992,Voorne aan Zee
+3225,GM1992,Voorne aan Zee
+3227,GM1992,Voorne aan Zee
+3231,GM1992,Voorne aan Zee
+3232,GM1992,Voorne aan Zee
+3233,GM1992,Voorne aan Zee
+3234,GM1992,Voorne aan Zee
+3235,GM1992,Voorne aan Zee
+3237,GM1992,Voorne aan Zee
+3238,GM1992,Voorne aan Zee
+3241,GM1924,Goeree-Overflakkee
+3243,GM1924,Goeree-Overflakkee
+3244,GM1924,Goeree-Overflakkee
+3245,GM1924,Goeree-Overflakkee
+3247,GM1924,Goeree-Overflakkee
+3248,GM1924,Goeree-Overflakkee
+3249,GM1924,Goeree-Overflakkee
+3251,GM1924,Goeree-Overflakkee
+3252,GM1924,Goeree-Overflakkee
+3253,GM1924,Goeree-Overflakkee
+3255,GM1924,Goeree-Overflakkee
+3256,GM1924,Goeree-Overflakkee
+3257,GM1924,Goeree-Overflakkee
+3258,GM1924,Goeree-Overflakkee
+3261,GM1963,Hoeksche Waard
+3262,GM1963,Hoeksche Waard
+3263,GM1963,Hoeksche Waard
+3264,GM1963,Hoeksche Waard
+3265,GM1963,Hoeksche Waard
+3267,GM1963,Hoeksche Waard
+3271,GM1963,Hoeksche Waard
+3273,GM1963,Hoeksche Waard
+3274,GM1963,Hoeksche Waard
+3281,GM1963,Hoeksche Waard
+3284,GM1963,Hoeksche Waard
+3286,GM1963,Hoeksche Waard
+3291,GM1963,Hoeksche Waard
+3292,GM1963,Hoeksche Waard
+3293,GM1963,Hoeksche Waard
+3295,GM1963,Hoeksche Waard
+3297,GM1963,Hoeksche Waard
+3299,GM1963,Hoeksche Waard
+3311,GM0505,Dordrecht
+3312,GM0505,Dordrecht
+3313,GM0505,Dordrecht
+3314,GM0505,Dordrecht
+3315,GM0505,Dordrecht
+3316,GM0505,Dordrecht
+3317,GM0505,Dordrecht
+3318,GM0505,Dordrecht
+3319,GM0505,Dordrecht
+3328,GM0505,Dordrecht
+3329,GM0505,Dordrecht
+3331,GM0642,Zwijndrecht
+3332,GM0642,Zwijndrecht
+3333,GM0642,Zwijndrecht
+3334,GM0642,Zwijndrecht
+3335,GM0642,Zwijndrecht
+3336,GM0642,Zwijndrecht
+3341,GM0531,Hendrik-Ido-Ambacht
+3342,GM0531,Hendrik-Ido-Ambacht
+3343,GM0531,Hendrik-Ido-Ambacht
+3344,GM0531,Hendrik-Ido-Ambacht
+3351,GM0590,Papendrecht
+3352,GM0590,Papendrecht
+3353,GM0590,Papendrecht
+3354,GM0590,Papendrecht
+3355,GM0590,Papendrecht
+3356,GM0590,Papendrecht
+3361,GM0610,Sliedrecht
+3362,GM0610,Sliedrecht
+3363,GM0610,Sliedrecht
+3364,GM0610,Sliedrecht
+3366,GM1978,Molenlanden
+3371,GM0523,Hardinxveld-Giessendam
+3372,GM0523,Hardinxveld-Giessendam
+3373,GM0523,Hardinxveld-Giessendam
+3381,GM1978,Molenlanden
+3401,GM0353,IJsselstein
+3402,GM0353,IJsselstein
+3403,GM0353,IJsselstein
+3404,GM0353,IJsselstein
+3405,GM0331,Lopik
+3411,GM0331,Lopik
+3412,GM0331,Lopik
+3413,GM0331,Lopik
+3415,GM0331,Lopik
+3417,GM0335,Montfoort
+3421,GM0589,Oudewater
+3425,GM0589,Oudewater
+3431,GM0356,Nieuwegein
+3432,GM0356,Nieuwegein
+3433,GM0356,Nieuwegein
+3434,GM0356,Nieuwegein
+3435,GM0356,Nieuwegein
+3436,GM0356,Nieuwegein
+3437,GM0356,Nieuwegein
+3438,GM0356,Nieuwegein
+3439,GM0356,Nieuwegein
+3441,GM0632,Woerden
+3442,GM0632,Woerden
+3443,GM0632,Woerden
+3444,GM0632,Woerden
+3445,GM0632,Woerden
+3446,GM0632,Woerden
+3447,GM0632,Woerden
+3448,GM0632,Woerden
+3449,GM0632,Woerden
+3451,GM0344,Utrecht
+3452,GM0344,Utrecht
+3453,GM0344,Utrecht
+3454,GM0344,Utrecht
+3455,GM0344,Utrecht
+3461,GM0335,Montfoort
+3464,GM0589,Oudewater
+3465,GM1901,Bodegraven-Reeuwijk
+3466,GM1901,Bodegraven-Reeuwijk
+3467,GM0589,Oudewater
+3471,GM0632,Woerden
+3474,GM0632,Woerden
+3481,GM0632,Woerden
+3511,GM0344,Utrecht
+3512,GM0344,Utrecht
+3513,GM0344,Utrecht
+3514,GM0344,Utrecht
+3515,GM0344,Utrecht
+3521,GM0344,Utrecht
+3522,GM0344,Utrecht
+3523,GM0344,Utrecht
+3524,GM0344,Utrecht
+3525,GM0344,Utrecht
+3526,GM0344,Utrecht
+3527,GM0344,Utrecht
+3528,GM0344,Utrecht
+3531,GM0344,Utrecht
+3532,GM0344,Utrecht
+3533,GM0344,Utrecht
+3534,GM0344,Utrecht
+3541,GM0344,Utrecht
+3542,GM0344,Utrecht
+3543,GM0344,Utrecht
+3544,GM0344,Utrecht
+3545,GM0344,Utrecht
+3546,GM0344,Utrecht
+3551,GM0344,Utrecht
+3552,GM0344,Utrecht
+3553,GM0344,Utrecht
+3554,GM0344,Utrecht
+3555,GM0344,Utrecht
+3561,GM0344,Utrecht
+3562,GM0344,Utrecht
+3563,GM0344,Utrecht
+3564,GM0344,Utrecht
+3565,GM0344,Utrecht
+3566,GM0344,Utrecht
+3571,GM0344,Utrecht
+3572,GM0344,Utrecht
+3573,GM0344,Utrecht
+3581,GM0344,Utrecht
+3582,GM0344,Utrecht
+3583,GM0344,Utrecht
+3584,GM0344,Utrecht
+3585,GM0344,Utrecht
+3601,GM1904,Stichtse Vecht
+3602,GM1904,Stichtse Vecht
+3603,GM1904,Stichtse Vecht
+3604,GM1904,Stichtse Vecht
+3605,GM1904,Stichtse Vecht
+3606,GM1904,Stichtse Vecht
+3607,GM1904,Stichtse Vecht
+3608,GM1904,Stichtse Vecht
+3611,GM1904,Stichtse Vecht
+3612,GM1904,Stichtse Vecht
+3615,GM0310,De Bilt
+3621,GM1904,Stichtse Vecht
+3625,GM1696,Wijdemeren
+3626,GM1904,Stichtse Vecht
+3628,GM1904,Stichtse Vecht
+3631,GM1904,Stichtse Vecht
+3632,GM1904,Stichtse Vecht
+3633,GM1904,Stichtse Vecht
+3634,GM1904,Stichtse Vecht
+3641,GM0736,De Ronde Venen
+3642,GM0736,De Ronde Venen
+3643,GM0736,De Ronde Venen
+3645,GM0736,De Ronde Venen
+3646,GM0736,De Ronde Venen
+3648,GM0736,De Ronde Venen
+3651,GM0569,Nieuwkoop
+3652,GM0569,Nieuwkoop
+3653,GM0569,Nieuwkoop
+3701,GM0355,Zeist
+3702,GM0355,Zeist
+3703,GM0355,Zeist
+3704,GM0355,Zeist
+3705,GM0355,Zeist
+3706,GM0355,Zeist
+3707,GM0355,Zeist
+3708,GM0355,Zeist
+3709,GM0355,Zeist
+3711,GM0355,Zeist
+3712,GM0355,Zeist
+3721,GM0310,De Bilt
+3722,GM0310,De Bilt
+3723,GM0310,De Bilt
+3731,GM0310,De Bilt
+3732,GM0310,De Bilt
+3734,GM0355,Zeist
+3735,GM0355,Zeist
+3737,GM0310,De Bilt
+3738,GM0310,De Bilt
+3739,GM0310,De Bilt
+3741,GM0308,Baarn
+3742,GM0308,Baarn
+3743,GM0308,Baarn
+3744,GM0308,Baarn
+3749,GM0308,Baarn
+3751,GM0313,Bunschoten
+3752,GM0313,Bunschoten
+3754,GM0313,Bunschoten
+3755,GM0317,Eemnes
+3761,GM0342,Soest
+3762,GM0342,Soest
+3763,GM0342,Soest
+3764,GM0342,Soest
+3765,GM0342,Soest
+3766,GM0342,Soest
+3768,GM0342,Soest
+3769,GM0342,Soest
+3771,GM0203,Barneveld
+3772,GM0203,Barneveld
+3773,GM0203,Barneveld
+3774,GM0203,Barneveld
+3775,GM0203,Barneveld
+3776,GM0203,Barneveld
+3781,GM0203,Barneveld
+3784,GM0203,Barneveld
+3785,GM0203,Barneveld
+3791,GM0327,Leusden
+3792,GM0203,Barneveld
+3794,GM0203,Barneveld
+3811,GM0307,Amersfoort
+3812,GM0307,Amersfoort
+3813,GM0307,Amersfoort
+3814,GM0307,Amersfoort
+3815,GM0307,Amersfoort
+3816,GM0307,Amersfoort
+3817,GM0307,Amersfoort
+3818,GM0307,Amersfoort
+3819,GM0307,Amersfoort
+3821,GM0307,Amersfoort
+3822,GM0307,Amersfoort
+3823,GM0307,Amersfoort
+3824,GM0307,Amersfoort
+3825,GM0307,Amersfoort
+3826,GM0307,Amersfoort
+3828,GM0307,Amersfoort
+3829,GM0307,Amersfoort
+3831,GM0327,Leusden
+3832,GM0327,Leusden
+3833,GM0327,Leusden
+3834,GM0327,Leusden
+3835,GM0327,Leusden
+3836,GM0307,Amersfoort
+3841,GM0243,Harderwijk
+3842,GM0243,Harderwijk
+3843,GM0243,Harderwijk
+3844,GM0243,Harderwijk
+3845,GM0243,Harderwijk
+3846,GM0243,Harderwijk
+3847,GM0243,Harderwijk
+3848,GM0243,Harderwijk
+3849,GM0243,Harderwijk
+3851,GM0233,Ermelo
+3852,GM0233,Ermelo
+3853,GM0233,Ermelo
+3861,GM0267,Nijkerk
+3862,GM0267,Nijkerk
+3863,GM0267,Nijkerk
+3864,GM0267,Nijkerk
+3871,GM0267,Nijkerk
+3881,GM0273,Putten
+3882,GM0273,Putten
+3886,GM0203,Barneveld
+3888,GM0200,Apeldoorn
+3891,GM0050,Zeewolde
+3892,GM0050,Zeewolde
+3893,GM0050,Zeewolde
+3894,GM0050,Zeewolde
+3895,GM0050,Zeewolde
+3896,GM0050,Zeewolde
+3897,GM0050,Zeewolde
+3898,GM0050,Zeewolde
+3899,GM0050,Zeewolde
+3901,GM0345,Veenendaal
+3902,GM0345,Veenendaal
+3903,GM0345,Veenendaal
+3904,GM0345,Veenendaal
+3905,GM0345,Veenendaal
+3906,GM0345,Veenendaal
+3907,GM0345,Veenendaal
+3911,GM0340,Rhenen
+3912,GM0340,Rhenen
+3921,GM0340,Rhenen
+3922,GM0340,Rhenen
+3925,GM0279,Scherpenzeel
+3927,GM0339,Renswoude
+3931,GM0351,Woudenberg
+3941,GM1581,Utrechtse Heuvelrug
+3945,GM0352,Wijk bij Duurstede
+3947,GM0352,Wijk bij Duurstede
+3951,GM1581,Utrechtse Heuvelrug
+3953,GM1581,Utrechtse Heuvelrug
+3956,GM1581,Utrechtse Heuvelrug
+3958,GM1581,Utrechtse Heuvelrug
+3959,GM1581,Utrechtse Heuvelrug
+3961,GM0352,Wijk bij Duurstede
+3962,GM0352,Wijk bij Duurstede
+3971,GM1581,Utrechtse Heuvelrug
+3972,GM1581,Utrechtse Heuvelrug
+3981,GM0312,Bunnik
+3984,GM0312,Bunnik
+3985,GM0312,Bunnik
+3989,GM1961,Vijfheerenlanden
+3991,GM0321,Houten
+3992,GM0321,Houten
+3993,GM0321,Houten
+3994,GM0321,Houten
+3995,GM0321,Houten
+3997,GM0321,Houten
+3998,GM0321,Houten
+3999,GM0321,Houten
+4001,GM0281,Tiel
+4002,GM0281,Tiel
+4003,GM0281,Tiel
+4004,GM0281,Tiel
+4005,GM0281,Tiel
+4006,GM0281,Tiel
+4007,GM0281,Tiel
+4011,GM0214,Buren
+4012,GM0214,Buren
+4013,GM0281,Tiel
+4014,GM0281,Tiel
+4016,GM0214,Buren
+4017,GM0281,Tiel
+4021,GM0214,Buren
+4023,GM0214,Buren
+4024,GM0214,Buren
+4031,GM0214,Buren
+4032,GM0214,Buren
+4033,GM0214,Buren
+4041,GM1740,Neder-Betuwe
+4043,GM1740,Neder-Betuwe
+4051,GM1740,Neder-Betuwe
+4053,GM1740,Neder-Betuwe
+4054,GM1740,Neder-Betuwe
+4061,GM1960,West Betuwe
+4062,GM0281,Tiel
+4063,GM1960,West Betuwe
+4064,GM1960,West Betuwe
+4101,GM0216,Culemborg
+4102,GM0216,Culemborg
+4103,GM0216,Culemborg
+4104,GM0216,Culemborg
+4105,GM0216,Culemborg
+4106,GM0216,Culemborg
+4107,GM0216,Culemborg
+4111,GM0214,Buren
+4112,GM0214,Buren
+4115,GM0214,Buren
+4116,GM0214,Buren
+4117,GM0214,Buren
+4119,GM0214,Buren
+4121,GM1961,Vijfheerenlanden
+4122,GM1961,Vijfheerenlanden
+4124,GM1961,Vijfheerenlanden
+4125,GM1961,Vijfheerenlanden
+4126,GM1961,Vijfheerenlanden
+4128,GM1961,Vijfheerenlanden
+4131,GM1961,Vijfheerenlanden
+4132,GM1961,Vijfheerenlanden
+4133,GM1961,Vijfheerenlanden
+4141,GM1961,Vijfheerenlanden
+4142,GM1961,Vijfheerenlanden
+4143,GM1961,Vijfheerenlanden
+4145,GM1961,Vijfheerenlanden
+4147,GM1960,West Betuwe
+4151,GM1960,West Betuwe
+4152,GM1960,West Betuwe
+4153,GM1960,West Betuwe
+4155,GM1960,West Betuwe
+4156,GM1960,West Betuwe
+4157,GM1960,West Betuwe
+4158,GM1960,West Betuwe
+4161,GM1960,West Betuwe
+4163,GM1961,Vijfheerenlanden
+4171,GM1960,West Betuwe
+4174,GM1960,West Betuwe
+4175,GM1960,West Betuwe
+4176,GM1960,West Betuwe
+4181,GM1960,West Betuwe
+4182,GM1960,West Betuwe
+4184,GM1960,West Betuwe
+4185,GM1960,West Betuwe
+4191,GM1960,West Betuwe
+4194,GM1960,West Betuwe
+4196,GM1960,West Betuwe
+4197,GM1960,West Betuwe
+4201,GM0512,Gorinchem
+4202,GM0512,Gorinchem
+4203,GM0512,Gorinchem
+4204,GM0512,Gorinchem
+4205,GM0512,Gorinchem
+4206,GM0512,Gorinchem
+4207,GM0512,Gorinchem
+4208,GM0512,Gorinchem
+4209,GM1978,Molenlanden
+4211,GM1960,West Betuwe
+4212,GM1960,West Betuwe
+4213,GM0512,Gorinchem
+4214,GM1960,West Betuwe
+4221,GM1978,Molenlanden
+4223,GM1978,Molenlanden
+4225,GM1978,Molenlanden
+4231,GM1961,Vijfheerenlanden
+4233,GM1961,Vijfheerenlanden
+4235,GM1961,Vijfheerenlanden
+4241,GM1978,Molenlanden
+4243,GM1961,Vijfheerenlanden
+4245,GM1961,Vijfheerenlanden
+4247,GM1961,Vijfheerenlanden
+4251,GM1959,Altena
+4254,GM1959,Altena
+4255,GM1959,Altena
+4261,GM1959,Altena
+4264,GM1959,Altena
+4265,GM1959,Altena
+4266,GM1959,Altena
+4267,GM1959,Altena
+4268,GM1959,Altena
+4269,GM1959,Altena
+4271,GM1959,Altena
+4273,GM1959,Altena
+4281,GM1959,Altena
+4283,GM1959,Altena
+4284,GM1959,Altena
+4285,GM1959,Altena
+4286,GM1959,Altena
+4287,GM1959,Altena
+4288,GM1959,Altena
+4301,GM1676,Schouwen-Duiveland
+4302,GM1676,Schouwen-Duiveland
+4303,GM1676,Schouwen-Duiveland
+4305,GM1676,Schouwen-Duiveland
+4306,GM1676,Schouwen-Duiveland
+4307,GM1676,Schouwen-Duiveland
+4308,GM1676,Schouwen-Duiveland
+4311,GM1676,Schouwen-Duiveland
+4315,GM1676,Schouwen-Duiveland
+4316,GM1676,Schouwen-Duiveland
+4317,GM1676,Schouwen-Duiveland
+4318,GM1676,Schouwen-Duiveland
+4321,GM1676,Schouwen-Duiveland
+4322,GM1676,Schouwen-Duiveland
+4323,GM1676,Schouwen-Duiveland
+4325,GM1676,Schouwen-Duiveland
+4326,GM1676,Schouwen-Duiveland
+4327,GM1676,Schouwen-Duiveland
+4328,GM1676,Schouwen-Duiveland
+4331,GM0687,Middelburg (Z.)
+4332,GM0687,Middelburg (Z.)
+4333,GM0687,Middelburg (Z.)
+4334,GM0687,Middelburg (Z.)
+4335,GM0687,Middelburg (Z.)
+4336,GM0687,Middelburg (Z.)
+4337,GM0687,Middelburg (Z.)
+4338,GM0687,Middelburg (Z.)
+4339,GM0687,Middelburg (Z.)
+4341,GM0687,Middelburg (Z.)
+4351,GM0717,Veere
+4352,GM0717,Veere
+4353,GM0717,Veere
+4354,GM0717,Veere
+4356,GM0717,Veere
+4357,GM0717,Veere
+4361,GM0717,Veere
+4363,GM0717,Veere
+4364,GM0717,Veere
+4365,GM0717,Veere
+4371,GM0717,Veere
+4373,GM0717,Veere
+4374,GM0717,Veere
+4381,GM0718,Vlissingen
+4382,GM0718,Vlissingen
+4383,GM0718,Vlissingen
+4384,GM0718,Vlissingen
+4385,GM0718,Vlissingen
+4386,GM0718,Vlissingen
+4387,GM0718,Vlissingen
+4388,GM0718,Vlissingen
+4389,GM0718,Vlissingen
+4401,GM0703,Reimerswaal
+4411,GM0703,Reimerswaal
+4413,GM0703,Reimerswaal
+4414,GM0703,Reimerswaal
+4415,GM0703,Reimerswaal
+4416,GM0703,Reimerswaal
+4417,GM0703,Reimerswaal
+4421,GM0678,Kapelle
+4423,GM0678,Kapelle
+4424,GM0678,Kapelle
+4431,GM0654,Borsele
+4433,GM0654,Borsele
+4434,GM0654,Borsele
+4435,GM0654,Borsele
+4436,GM0654,Borsele
+4437,GM0654,Borsele
+4438,GM0654,Borsele
+4441,GM0654,Borsele
+4443,GM0654,Borsele
+4444,GM0654,Borsele
+4451,GM0654,Borsele
+4453,GM0654,Borsele
+4454,GM0654,Borsele
+4455,GM0654,Borsele
+4456,GM0654,Borsele
+4458,GM0664,Goes
+4461,GM0664,Goes
+4462,GM0664,Goes
+4463,GM0664,Goes
+4464,GM0664,Goes
+4465,GM0664,Goes
+4471,GM0664,Goes
+4472,GM0664,Goes
+4474,GM0664,Goes
+4475,GM0664,Goes
+4481,GM0664,Goes
+4482,GM0678,Kapelle
+4484,GM1695,Noord-Beveland
+4485,GM1695,Noord-Beveland
+4486,GM1695,Noord-Beveland
+4491,GM1695,Noord-Beveland
+4493,GM1695,Noord-Beveland
+4494,GM1695,Noord-Beveland
+4501,GM1714,Sluis
+4503,GM1714,Sluis
+4504,GM1714,Sluis
+4505,GM1714,Sluis
+4506,GM1714,Sluis
+4507,GM1714,Sluis
+4508,GM1714,Sluis
+4511,GM1714,Sluis
+4513,GM1714,Sluis
+4515,GM1714,Sluis
+4521,GM0715,Terneuzen
+4522,GM1714,Sluis
+4524,GM1714,Sluis
+4525,GM1714,Sluis
+4527,GM1714,Sluis
+4528,GM1714,Sluis
+4529,GM1714,Sluis
+4531,GM0715,Terneuzen
+4532,GM0715,Terneuzen
+4533,GM0715,Terneuzen
+4535,GM0715,Terneuzen
+4536,GM0715,Terneuzen
+4537,GM0715,Terneuzen
+4538,GM0715,Terneuzen
+4539,GM0715,Terneuzen
+4541,GM0715,Terneuzen
+4542,GM0715,Terneuzen
+4543,GM0715,Terneuzen
+4551,GM0715,Terneuzen
+4553,GM0715,Terneuzen
+4554,GM0715,Terneuzen
+4561,GM0677,Hulst
+4562,GM0677,Hulst
+4564,GM0677,Hulst
+4565,GM0677,Hulst
+4566,GM0677,Hulst
+4567,GM0677,Hulst
+4568,GM0677,Hulst
+4569,GM0677,Hulst
+4571,GM0715,Terneuzen
+4574,GM0715,Terneuzen
+4575,GM0715,Terneuzen
+4576,GM0715,Terneuzen
+4581,GM0677,Hulst
+4583,GM0677,Hulst
+4584,GM0677,Hulst
+4585,GM0677,Hulst
+4586,GM0677,Hulst
+4587,GM0677,Hulst
+4588,GM0677,Hulst
+4589,GM0677,Hulst
+4611,GM0748,Bergen op Zoom
+4612,GM0748,Bergen op Zoom
+4613,GM0748,Bergen op Zoom
+4614,GM0748,Bergen op Zoom
+4615,GM0748,Bergen op Zoom
+4616,GM0748,Bergen op Zoom
+4617,GM0748,Bergen op Zoom
+4621,GM0748,Bergen op Zoom
+4622,GM0748,Bergen op Zoom
+4623,GM0748,Bergen op Zoom
+4624,GM0748,Bergen op Zoom
+4625,GM0748,Bergen op Zoom
+4631,GM0873,Woensdrecht
+4634,GM0873,Woensdrecht
+4635,GM0873,Woensdrecht
+4641,GM0873,Woensdrecht
+4645,GM0873,Woensdrecht
+4651,GM0851,Steenbergen
+4652,GM0851,Steenbergen
+4655,GM0851,Steenbergen
+4661,GM0748,Bergen op Zoom
+4664,GM0748,Bergen op Zoom
+4671,GM0851,Steenbergen
+4675,GM0716,Tholen
+4681,GM0851,Steenbergen
+4691,GM0716,Tholen
+4693,GM0716,Tholen
+4694,GM0716,Tholen
+4695,GM0716,Tholen
+4696,GM0716,Tholen
+4697,GM0716,Tholen
+4698,GM0716,Tholen
+4701,GM1674,Roosendaal
+4702,GM1674,Roosendaal
+4703,GM1674,Roosendaal
+4704,GM1674,Roosendaal
+4705,GM1674,Roosendaal
+4706,GM1674,Roosendaal
+4707,GM1674,Roosendaal
+4708,GM1674,Roosendaal
+4709,GM1674,Roosendaal
+4711,GM0840,Rucphen
+4714,GM0840,Rucphen
+4715,GM0840,Rucphen
+4721,GM0840,Rucphen
+4722,GM0840,Rucphen
+4724,GM1674,Roosendaal
+4725,GM1674,Roosendaal
+4726,GM1674,Roosendaal
+4727,GM1674,Roosendaal
+4731,GM1655,Halderberge
+4735,GM0840,Rucphen
+4741,GM1655,Halderberge
+4744,GM1655,Halderberge
+4751,GM1655,Halderberge
+4754,GM1655,Halderberge
+4756,GM0851,Steenbergen
+4758,GM1709,Moerdijk
+4759,GM1709,Moerdijk
+4761,GM1709,Moerdijk
+4762,GM1709,Moerdijk
+4765,GM1709,Moerdijk
+4766,GM1719,Drimmelen
+4771,GM1709,Moerdijk
+4772,GM1709,Moerdijk
+4781,GM1709,Moerdijk
+4782,GM1709,Moerdijk
+4791,GM1709,Moerdijk
+4793,GM1709,Moerdijk
+4794,GM1709,Moerdijk
+4796,GM1709,Moerdijk
+4797,GM1709,Moerdijk
+4811,GM0758,Breda
+4812,GM0758,Breda
+4813,GM0758,Breda
+4814,GM0758,Breda
+4815,GM0758,Breda
+4816,GM0758,Breda
+4817,GM0758,Breda
+4818,GM0758,Breda
+4819,GM0758,Breda
+4822,GM0758,Breda
+4823,GM0758,Breda
+4824,GM0758,Breda
+4825,GM0758,Breda
+4826,GM0758,Breda
+4827,GM0758,Breda
+4834,GM0758,Breda
+4835,GM0758,Breda
+4836,GM0758,Breda
+4837,GM0758,Breda
+4838,GM0758,Breda
+4839,GM0758,Breda
+4841,GM0758,Breda
+4844,GM1719,Drimmelen
+4845,GM1719,Drimmelen
+4847,GM0758,Breda
+4849,GM0826,Oosterhout
+4851,GM0758,Breda
+4854,GM0758,Breda
+4855,GM1723,Alphen-Chaam
+4856,GM1723,Alphen-Chaam
+4858,GM1723,Alphen-Chaam
+4859,GM1723,Alphen-Chaam
+4861,GM1723,Alphen-Chaam
+4871,GM0777,Etten-Leur
+4872,GM0777,Etten-Leur
+4873,GM0777,Etten-Leur
+4874,GM0777,Etten-Leur
+4875,GM0777,Etten-Leur
+4876,GM0777,Etten-Leur
+4877,GM0777,Etten-Leur
+4878,GM0777,Etten-Leur
+4879,GM0777,Etten-Leur
+4881,GM0879,Zundert
+4882,GM0879,Zundert
+4884,GM0879,Zundert
+4885,GM0879,Zundert
+4891,GM0879,Zundert
+4901,GM0826,Oosterhout
+4902,GM0826,Oosterhout
+4903,GM0826,Oosterhout
+4904,GM0826,Oosterhout
+4905,GM0826,Oosterhout
+4906,GM0826,Oosterhout
+4907,GM0826,Oosterhout
+4908,GM0826,Oosterhout
+4909,GM0826,Oosterhout
+4911,GM0826,Oosterhout
+4921,GM1719,Drimmelen
+4924,GM1719,Drimmelen
+4926,GM1719,Drimmelen
+4927,GM1719,Drimmelen
+4931,GM0779,Geertruidenberg
+4941,GM0779,Geertruidenberg
+4942,GM0779,Geertruidenberg
+4944,GM0779,Geertruidenberg
+5011,GM0855,Tilburg
+5012,GM0855,Tilburg
+5013,GM0855,Tilburg
+5014,GM0855,Tilburg
+5015,GM0855,Tilburg
+5017,GM0855,Tilburg
+5018,GM0855,Tilburg
+5021,GM0855,Tilburg
+5022,GM0855,Tilburg
+5025,GM0855,Tilburg
+5026,GM0855,Tilburg
+5032,GM0855,Tilburg
+5035,GM0855,Tilburg
+5036,GM0855,Tilburg
+5037,GM0855,Tilburg
+5038,GM0855,Tilburg
+5041,GM0855,Tilburg
+5042,GM0855,Tilburg
+5043,GM0855,Tilburg
+5044,GM0855,Tilburg
+5045,GM0855,Tilburg
+5046,GM0855,Tilburg
+5047,GM0855,Tilburg
+5048,GM0855,Tilburg
+5049,GM0855,Tilburg
+5051,GM0785,Goirle
+5052,GM0785,Goirle
+5053,GM0785,Goirle
+5056,GM0855,Tilburg
+5057,GM0855,Tilburg
+5059,GM0824,Oisterwijk
+5061,GM0824,Oisterwijk
+5062,GM0824,Oisterwijk
+5063,GM0824,Oisterwijk
+5066,GM0824,Oisterwijk
+5071,GM0855,Tilburg
+5074,GM0855,Tilburg
+5076,GM0824,Oisterwijk
+5081,GM0798,Hilvarenbeek
+5084,GM0798,Hilvarenbeek
+5085,GM0798,Hilvarenbeek
+5087,GM0798,Hilvarenbeek
+5089,GM0798,Hilvarenbeek
+5091,GM0823,Oirschot
+5094,GM1667,Reusel-De Mierden
+5095,GM1667,Reusel-De Mierden
+5096,GM1667,Reusel-De Mierden
+5101,GM0766,Dongen
+5102,GM0766,Dongen
+5103,GM0766,Dongen
+5104,GM0766,Dongen
+5105,GM0766,Dongen
+5106,GM0766,Dongen
+5107,GM0766,Dongen
+5109,GM0766,Dongen
+5111,GM0744,Baarle-Nassau
+5113,GM0744,Baarle-Nassau
+5114,GM0744,Baarle-Nassau
+5121,GM0784,Gilze en Rijen
+5122,GM0784,Gilze en Rijen
+5124,GM0784,Gilze en Rijen
+5125,GM0784,Gilze en Rijen
+5126,GM0784,Gilze en Rijen
+5131,GM1723,Alphen-Chaam
+5133,GM0785,Goirle
+5141,GM0867,Waalwijk
+5142,GM0867,Waalwijk
+5143,GM0867,Waalwijk
+5144,GM0867,Waalwijk
+5145,GM0867,Waalwijk
+5146,GM0867,Waalwijk
+5151,GM0797,Heusden
+5152,GM0797,Heusden
+5154,GM0797,Heusden
+5156,GM0797,Heusden
+5157,GM0797,Heusden
+5158,GM0797,Heusden
+5161,GM0867,Waalwijk
+5165,GM0867,Waalwijk
+5171,GM0809,Loon op Zand
+5172,GM0809,Loon op Zand
+5175,GM0809,Loon op Zand
+5176,GM0809,Loon op Zand
+5211,GM0796,'s-Hertogenbosch
+5212,GM0796,'s-Hertogenbosch
+5213,GM0796,'s-Hertogenbosch
+5215,GM0796,'s-Hertogenbosch
+5216,GM0796,'s-Hertogenbosch
+5221,GM0796,'s-Hertogenbosch
+5222,GM0796,'s-Hertogenbosch
+5223,GM0796,'s-Hertogenbosch
+5224,GM0796,'s-Hertogenbosch
+5231,GM0796,'s-Hertogenbosch
+5232,GM0796,'s-Hertogenbosch
+5233,GM0796,'s-Hertogenbosch
+5234,GM0796,'s-Hertogenbosch
+5235,GM0796,'s-Hertogenbosch
+5236,GM0796,'s-Hertogenbosch
+5237,GM0796,'s-Hertogenbosch
+5241,GM0796,'s-Hertogenbosch
+5242,GM0796,'s-Hertogenbosch
+5243,GM0796,'s-Hertogenbosch
+5244,GM0796,'s-Hertogenbosch
+5245,GM0796,'s-Hertogenbosch
+5246,GM0796,'s-Hertogenbosch
+5247,GM0796,'s-Hertogenbosch
+5248,GM0796,'s-Hertogenbosch
+5249,GM0796,'s-Hertogenbosch
+5251,GM0797,Heusden
+5252,GM0797,Heusden
+5253,GM0797,Heusden
+5254,GM0797,Heusden
+5255,GM0797,Heusden
+5256,GM0797,Heusden
+5257,GM0797,Heusden
+5258,GM0845,Sint-Michielsgestel
+5261,GM0865,Vught
+5262,GM0865,Vught
+5263,GM0865,Vught
+5264,GM0865,Vught
+5266,GM0865,Vught
+5268,GM0865,Vught
+5271,GM0845,Sint-Michielsgestel
+5272,GM0845,Sint-Michielsgestel
+5275,GM0845,Sint-Michielsgestel
+5281,GM0757,Boxtel
+5282,GM0757,Boxtel
+5283,GM0757,Boxtel
+5291,GM0845,Sint-Michielsgestel
+5292,GM0845,Sint-Michielsgestel
+5293,GM0845,Sint-Michielsgestel
+5294,GM0845,Sint-Michielsgestel
+5296,GM0757,Boxtel
+5298,GM0757,Boxtel
+5301,GM0297,Zaltbommel
+5302,GM0297,Zaltbommel
+5305,GM0297,Zaltbommel
+5306,GM0297,Zaltbommel
+5307,GM0297,Zaltbommel
+5308,GM0297,Zaltbommel
+5311,GM0297,Zaltbommel
+5313,GM0297,Zaltbommel
+5314,GM0297,Zaltbommel
+5315,GM0297,Zaltbommel
+5316,GM0297,Zaltbommel
+5317,GM0297,Zaltbommel
+5318,GM0297,Zaltbommel
+5321,GM0263,Maasdriel
+5324,GM0263,Maasdriel
+5325,GM0263,Maasdriel
+5327,GM0263,Maasdriel
+5328,GM0263,Maasdriel
+5331,GM0263,Maasdriel
+5333,GM0263,Maasdriel
+5334,GM0263,Maasdriel
+5335,GM0263,Maasdriel
+5341,GM0828,Oss
+5342,GM0828,Oss
+5343,GM0828,Oss
+5344,GM0828,Oss
+5345,GM0828,Oss
+5346,GM0828,Oss
+5347,GM0828,Oss
+5348,GM0828,Oss
+5349,GM0828,Oss
+5351,GM0828,Oss
+5352,GM0828,Oss
+5353,GM0828,Oss
+5354,GM0828,Oss
+5355,GM0828,Oss
+5356,GM0828,Oss
+5357,GM0828,Oss
+5358,GM0828,Oss
+5359,GM0828,Oss
+5361,GM1982,Land van Cuijk
+5363,GM1982,Land van Cuijk
+5364,GM1982,Land van Cuijk
+5366,GM0828,Oss
+5367,GM0828,Oss
+5368,GM0828,Oss
+5371,GM0828,Oss
+5373,GM0828,Oss
+5374,GM1991,Maashorst
+5375,GM1991,Maashorst
+5381,GM0796,'s-Hertogenbosch
+5382,GM0796,'s-Hertogenbosch
+5383,GM0796,'s-Hertogenbosch
+5384,GM1721,Bernheze
+5386,GM0828,Oss
+5388,GM1721,Bernheze
+5391,GM0796,'s-Hertogenbosch
+5392,GM0796,'s-Hertogenbosch
+5394,GM0828,Oss
+5395,GM0828,Oss
+5396,GM0828,Oss
+5397,GM0828,Oss
+5398,GM0828,Oss
+5401,GM1991,Maashorst
+5402,GM1991,Maashorst
+5403,GM1991,Maashorst
+5404,GM1991,Maashorst
+5405,GM1991,Maashorst
+5406,GM1991,Maashorst
+5408,GM1991,Maashorst
+5409,GM1991,Maashorst
+5411,GM1991,Maashorst
+5421,GM1652,Gemert-Bakel
+5422,GM1652,Gemert-Bakel
+5423,GM1652,Gemert-Bakel
+5424,GM1652,Gemert-Bakel
+5425,GM1652,Gemert-Bakel
+5427,GM0755,Boekel
+5428,GM0755,Boekel
+5431,GM1982,Land van Cuijk
+5432,GM1982,Land van Cuijk
+5433,GM1982,Land van Cuijk
+5434,GM1982,Land van Cuijk
+5435,GM1982,Land van Cuijk
+5437,GM1982,Land van Cuijk
+5438,GM1982,Land van Cuijk
+5439,GM1982,Land van Cuijk
+5441,GM1982,Land van Cuijk
+5443,GM1982,Land van Cuijk
+5445,GM1982,Land van Cuijk
+5446,GM1982,Land van Cuijk
+5447,GM1982,Land van Cuijk
+5449,GM1982,Land van Cuijk
+5451,GM1982,Land van Cuijk
+5453,GM1982,Land van Cuijk
+5454,GM1982,Land van Cuijk
+5455,GM1982,Land van Cuijk
+5461,GM1948,Meierijstad
+5462,GM1948,Meierijstad
+5463,GM1948,Meierijstad
+5464,GM1948,Meierijstad
+5465,GM1948,Meierijstad
+5466,GM1948,Meierijstad
+5467,GM1948,Meierijstad
+5469,GM1948,Meierijstad
+5471,GM1721,Bernheze
+5472,GM1721,Bernheze
+5473,GM1721,Bernheze
+5476,GM1721,Bernheze
+5481,GM1948,Meierijstad
+5482,GM1948,Meierijstad
+5491,GM1948,Meierijstad
+5492,GM1948,Meierijstad
+5501,GM0861,Veldhoven
+5502,GM0861,Veldhoven
+5503,GM0861,Veldhoven
+5504,GM0861,Veldhoven
+5505,GM0861,Veldhoven
+5506,GM0861,Veldhoven
+5507,GM0861,Veldhoven
+5508,GM0861,Veldhoven
+5509,GM0861,Veldhoven
+5511,GM0770,Eersel
+5512,GM0770,Eersel
+5513,GM0770,Eersel
+5521,GM0770,Eersel
+5524,GM0770,Eersel
+5525,GM0770,Eersel
+5527,GM1728,Bladel
+5528,GM1728,Bladel
+5529,GM1728,Bladel
+5531,GM1728,Bladel
+5534,GM1728,Bladel
+5541,GM1667,Reusel-De Mierden
+5551,GM0858,Valkenswaard
+5552,GM0858,Valkenswaard
+5553,GM0858,Valkenswaard
+5554,GM0858,Valkenswaard
+5555,GM0858,Valkenswaard
+5556,GM0858,Valkenswaard
+5561,GM1724,Bergeijk
+5563,GM1724,Bergeijk
+5571,GM1724,Bergeijk
+5575,GM1724,Bergeijk
+5581,GM0866,Waalre
+5582,GM0866,Waalre
+5583,GM0866,Waalre
+5591,GM1658,Heeze-Leende
+5595,GM1658,Heeze-Leende
+5611,GM0772,Eindhoven
+5612,GM0772,Eindhoven
+5613,GM0772,Eindhoven
+5614,GM0772,Eindhoven
+5615,GM0772,Eindhoven
+5616,GM0772,Eindhoven
+5617,GM0772,Eindhoven
+5621,GM0772,Eindhoven
+5622,GM0772,Eindhoven
+5623,GM0772,Eindhoven
+5624,GM0772,Eindhoven
+5625,GM0772,Eindhoven
+5626,GM0772,Eindhoven
+5627,GM0772,Eindhoven
+5628,GM0772,Eindhoven
+5629,GM0772,Eindhoven
+5631,GM0772,Eindhoven
+5632,GM0772,Eindhoven
+5633,GM0772,Eindhoven
+5641,GM0772,Eindhoven
+5642,GM0772,Eindhoven
+5643,GM0772,Eindhoven
+5644,GM0772,Eindhoven
+5645,GM0772,Eindhoven
+5646,GM0772,Eindhoven
+5647,GM0772,Eindhoven
+5651,GM0772,Eindhoven
+5652,GM0772,Eindhoven
+5653,GM0772,Eindhoven
+5654,GM0772,Eindhoven
+5655,GM0772,Eindhoven
+5656,GM0772,Eindhoven
+5657,GM0772,Eindhoven
+5658,GM0772,Eindhoven
+5661,GM1771,Geldrop-Mierlo
+5662,GM1771,Geldrop-Mierlo
+5663,GM1771,Geldrop-Mierlo
+5664,GM1771,Geldrop-Mierlo
+5665,GM1771,Geldrop-Mierlo
+5666,GM1771,Geldrop-Mierlo
+5667,GM1771,Geldrop-Mierlo
+5671,GM0820,"Nuenen, Gerwen en Nederwetten"
+5672,GM0820,"Nuenen, Gerwen en Nederwetten"
+5673,GM0820,"Nuenen, Gerwen en Nederwetten"
+5674,GM0820,"Nuenen, Gerwen en Nederwetten"
+5681,GM0753,Best
+5682,GM0753,Best
+5683,GM0753,Best
+5684,GM0753,Best
+5685,GM0753,Best
+5688,GM0823,Oirschot
+5689,GM0823,Oirschot
+5691,GM0848,Son en Breugel
+5692,GM0848,Son en Breugel
+5694,GM0848,Son en Breugel
+5701,GM0794,Helmond
+5702,GM0794,Helmond
+5703,GM0794,Helmond
+5704,GM0794,Helmond
+5705,GM0794,Helmond
+5706,GM0794,Helmond
+5707,GM0794,Helmond
+5708,GM0794,Helmond
+5709,GM0794,Helmond
+5711,GM0847,Someren
+5712,GM0847,Someren
+5715,GM0847,Someren
+5721,GM0743,Asten
+5722,GM0743,Asten
+5724,GM0743,Asten
+5725,GM0743,Asten
+5731,GM1771,Geldrop-Mierlo
+5735,GM1659,Laarbeek
+5737,GM1659,Laarbeek
+5738,GM1659,Laarbeek
+5741,GM1659,Laarbeek
+5751,GM0762,Deurne
+5752,GM0762,Deurne
+5753,GM0762,Deurne
+5754,GM0762,Deurne
+5756,GM0762,Deurne
+5757,GM0762,Deurne
+5758,GM0762,Deurne
+5759,GM0762,Deurne
+5761,GM1652,Gemert-Bakel
+5763,GM1652,Gemert-Bakel
+5764,GM1652,Gemert-Bakel
+5766,GM1507,Horst aan de Maas
+5768,GM1894,Peel en Maas
+5801,GM0984,Venray
+5802,GM0984,Venray
+5803,GM0984,Venray
+5804,GM0984,Venray
+5807,GM0984,Venray
+5808,GM0984,Venray
+5809,GM0984,Venray
+5811,GM0984,Venray
+5812,GM0984,Venray
+5813,GM0984,Venray
+5814,GM0984,Venray
+5815,GM0984,Venray
+5816,GM0984,Venray
+5817,GM0984,Venray
+5821,GM1982,Land van Cuijk
+5823,GM1982,Land van Cuijk
+5824,GM1982,Land van Cuijk
+5825,GM1982,Land van Cuijk
+5826,GM1982,Land van Cuijk
+5827,GM1982,Land van Cuijk
+5831,GM1982,Land van Cuijk
+5835,GM1982,Land van Cuijk
+5836,GM1982,Land van Cuijk
+5841,GM1982,Land van Cuijk
+5843,GM1982,Land van Cuijk
+5844,GM1982,Land van Cuijk
+5845,GM1982,Land van Cuijk
+5846,GM1982,Land van Cuijk
+5851,GM0893,Bergen (L.)
+5853,GM0893,Bergen (L.)
+5854,GM0893,Bergen (L.)
+5855,GM0893,Bergen (L.)
+5856,GM0893,Bergen (L.)
+5861,GM0984,Venray
+5862,GM0984,Venray
+5863,GM0984,Venray
+5864,GM1507,Horst aan de Maas
+5865,GM1507,Horst aan de Maas
+5866,GM1507,Horst aan de Maas
+5871,GM1507,Horst aan de Maas
+5872,GM1507,Horst aan de Maas
+5911,GM0983,Venlo
+5912,GM0983,Venlo
+5913,GM0983,Venlo
+5914,GM0983,Venlo
+5915,GM0983,Venlo
+5916,GM0983,Venlo
+5921,GM0983,Venlo
+5922,GM0983,Venlo
+5923,GM0983,Venlo
+5924,GM0983,Venlo
+5925,GM0983,Venlo
+5926,GM0983,Venlo
+5927,GM0983,Venlo
+5928,GM0983,Venlo
+5931,GM0983,Venlo
+5932,GM0983,Venlo
+5935,GM0983,Venlo
+5941,GM0983,Venlo
+5943,GM0983,Venlo
+5944,GM0983,Venlo
+5951,GM0983,Venlo
+5953,GM0889,Beesel
+5954,GM0889,Beesel
+5961,GM1507,Horst aan de Maas
+5962,GM1507,Horst aan de Maas
+5963,GM1507,Horst aan de Maas
+5964,GM1507,Horst aan de Maas
+5966,GM1507,Horst aan de Maas
+5971,GM1507,Horst aan de Maas
+5973,GM1507,Horst aan de Maas
+5975,GM1507,Horst aan de Maas
+5976,GM1507,Horst aan de Maas
+5977,GM1507,Horst aan de Maas
+5981,GM1894,Peel en Maas
+5984,GM1894,Peel en Maas
+5985,GM1894,Peel en Maas
+5986,GM1894,Peel en Maas
+5987,GM1894,Peel en Maas
+5988,GM1894,Peel en Maas
+5991,GM1894,Peel en Maas
+5993,GM1894,Peel en Maas
+5995,GM1894,Peel en Maas
+6001,GM0988,Weert
+6002,GM0988,Weert
+6003,GM0988,Weert
+6004,GM0988,Weert
+6005,GM0988,Weert
+6006,GM0988,Weert
+6011,GM1640,Leudal
+6012,GM1640,Leudal
+6013,GM1640,Leudal
+6014,GM1640,Leudal
+6015,GM1640,Leudal
+6017,GM1641,Maasgouw
+6019,GM1641,Maasgouw
+6021,GM1706,Cranendonck
+6023,GM1706,Cranendonck
+6024,GM1706,Cranendonck
+6026,GM1706,Cranendonck
+6027,GM1706,Cranendonck
+6028,GM1706,Cranendonck
+6029,GM1658,Heeze-Leende
+6031,GM0946,Nederweert
+6034,GM0946,Nederweert
+6035,GM0946,Nederweert
+6037,GM1640,Leudal
+6039,GM0988,Weert
+6041,GM0957,Roermond
+6042,GM0957,Roermond
+6043,GM0957,Roermond
+6044,GM0957,Roermond
+6045,GM0957,Roermond
+6049,GM0957,Roermond
+6051,GM1641,Maasgouw
+6061,GM1669,Roerdalen
+6063,GM1669,Roerdalen
+6065,GM1669,Roerdalen
+6067,GM1641,Maasgouw
+6071,GM0957,Roermond
+6074,GM1669,Roerdalen
+6075,GM1669,Roerdalen
+6077,GM1669,Roerdalen
+6081,GM1640,Leudal
+6082,GM1640,Leudal
+6083,GM1640,Leudal
+6085,GM1640,Leudal
+6086,GM1640,Leudal
+6088,GM1640,Leudal
+6089,GM1640,Leudal
+6091,GM0946,Nederweert
+6092,GM0946,Nederweert
+6093,GM1640,Leudal
+6095,GM1640,Leudal
+6096,GM1640,Leudal
+6097,GM1641,Maasgouw
+6099,GM1641,Maasgouw
+6101,GM1711,Echt-Susteren
+6102,GM1711,Echt-Susteren
+6104,GM1711,Echt-Susteren
+6105,GM1711,Echt-Susteren
+6107,GM1641,Maasgouw
+6109,GM1641,Maasgouw
+6111,GM1711,Echt-Susteren
+6112,GM1711,Echt-Susteren
+6114,GM1711,Echt-Susteren
+6116,GM1711,Echt-Susteren
+6118,GM1711,Echt-Susteren
+6121,GM1883,Sittard-Geleen
+6122,GM1883,Sittard-Geleen
+6123,GM1883,Sittard-Geleen
+6124,GM1883,Sittard-Geleen
+6125,GM1883,Sittard-Geleen
+6127,GM1883,Sittard-Geleen
+6129,GM0971,Stein (L.)
+6131,GM1883,Sittard-Geleen
+6132,GM1883,Sittard-Geleen
+6133,GM1883,Sittard-Geleen
+6134,GM1883,Sittard-Geleen
+6135,GM1883,Sittard-Geleen
+6136,GM1883,Sittard-Geleen
+6137,GM1883,Sittard-Geleen
+6141,GM1883,Sittard-Geleen
+6142,GM1883,Sittard-Geleen
+6143,GM1883,Sittard-Geleen
+6151,GM1883,Sittard-Geleen
+6153,GM1883,Sittard-Geleen
+6155,GM1954,Beekdaelen
+6161,GM1883,Sittard-Geleen
+6162,GM1883,Sittard-Geleen
+6163,GM1883,Sittard-Geleen
+6164,GM1883,Sittard-Geleen
+6165,GM1883,Sittard-Geleen
+6166,GM1883,Sittard-Geleen
+6167,GM1883,Sittard-Geleen
+6171,GM0971,Stein (L.)
+6174,GM1954,Beekdaelen
+6176,GM0888,Beek (L.)
+6181,GM0971,Stein (L.)
+6191,GM0888,Beek (L.)
+6199,GM0888,Beek (L.)
+6211,GM0935,Maastricht
+6212,GM0935,Maastricht
+6213,GM0935,Maastricht
+6214,GM0935,Maastricht
+6215,GM0935,Maastricht
+6216,GM0935,Maastricht
+6217,GM0935,Maastricht
+6218,GM0935,Maastricht
+6219,GM0935,Maastricht
+6221,GM0935,Maastricht
+6222,GM0935,Maastricht
+6223,GM0935,Maastricht
+6224,GM0935,Maastricht
+6225,GM0935,Maastricht
+6226,GM0935,Maastricht
+6227,GM0935,Maastricht
+6228,GM0935,Maastricht
+6229,GM0935,Maastricht
+6231,GM0938,Meerssen
+6235,GM0938,Meerssen
+6237,GM0938,Meerssen
+6241,GM0938,Meerssen
+6243,GM0938,Meerssen
+6245,GM1903,Eijsden-Margraten
+6247,GM1903,Eijsden-Margraten
+6251,GM1903,Eijsden-Margraten
+6252,GM1903,Eijsden-Margraten
+6255,GM1903,Eijsden-Margraten
+6261,GM1903,Eijsden-Margraten
+6262,GM1903,Eijsden-Margraten
+6265,GM1903,Eijsden-Margraten
+6267,GM1903,Eijsden-Margraten
+6268,GM1903,Eijsden-Margraten
+6269,GM1903,Eijsden-Margraten
+6271,GM1729,Gulpen-Wittem
+6273,GM1729,Gulpen-Wittem
+6274,GM1729,Gulpen-Wittem
+6276,GM1729,Gulpen-Wittem
+6277,GM1729,Gulpen-Wittem
+6278,GM1729,Gulpen-Wittem
+6281,GM1729,Gulpen-Wittem
+6285,GM1729,Gulpen-Wittem
+6286,GM1729,Gulpen-Wittem
+6287,GM1729,Gulpen-Wittem
+6289,GM1729,Gulpen-Wittem
+6291,GM0981,Vaals
+6294,GM0981,Vaals
+6295,GM0981,Vaals
+6301,GM0994,Valkenburg aan de Geul
+6305,GM0994,Valkenburg aan de Geul
+6307,GM1903,Eijsden-Margraten
+6311,GM0986,Voerendaal
+6312,GM0986,Voerendaal
+6321,GM1729,Gulpen-Wittem
+6325,GM0994,Valkenburg aan de Geul
+6333,GM1954,Beekdaelen
+6336,GM1954,Beekdaelen
+6341,GM0994,Valkenburg aan de Geul
+6342,GM0994,Valkenburg aan de Geul
+6343,GM0986,Voerendaal
+6351,GM0965,Simpelveld
+6353,GM0965,Simpelveld
+6361,GM1954,Beekdaelen
+6363,GM1954,Beekdaelen
+6365,GM1954,Beekdaelen
+6367,GM0986,Voerendaal
+6369,GM0965,Simpelveld
+6371,GM0882,Landgraaf
+6372,GM0882,Landgraaf
+6373,GM0882,Landgraaf
+6374,GM0882,Landgraaf
+6411,GM0917,Heerlen
+6412,GM0917,Heerlen
+6413,GM0917,Heerlen
+6414,GM0917,Heerlen
+6415,GM0917,Heerlen
+6416,GM0917,Heerlen
+6417,GM0917,Heerlen
+6418,GM0917,Heerlen
+6419,GM0917,Heerlen
+6421,GM0917,Heerlen
+6422,GM0917,Heerlen
+6431,GM0917,Heerlen
+6432,GM0917,Heerlen
+6433,GM0917,Heerlen
+6436,GM1954,Beekdaelen
+6438,GM1954,Beekdaelen
+6439,GM1954,Beekdaelen
+6441,GM0899,Brunssum
+6442,GM0899,Brunssum
+6443,GM0899,Brunssum
+6444,GM0899,Brunssum
+6445,GM0899,Brunssum
+6446,GM0899,Brunssum
+6447,GM1954,Beekdaelen
+6451,GM1954,Beekdaelen
+6454,GM1954,Beekdaelen
+6456,GM1954,Beekdaelen
+6461,GM0928,Kerkrade
+6462,GM0928,Kerkrade
+6463,GM0928,Kerkrade
+6464,GM0928,Kerkrade
+6465,GM0928,Kerkrade
+6466,GM0928,Kerkrade
+6467,GM0928,Kerkrade
+6468,GM0928,Kerkrade
+6469,GM0928,Kerkrade
+6471,GM0928,Kerkrade
+6511,GM0268,Nijmegen
+6512,GM0268,Nijmegen
+6515,GM0268,Nijmegen
+6521,GM0268,Nijmegen
+6522,GM0268,Nijmegen
+6523,GM0268,Nijmegen
+6524,GM0268,Nijmegen
+6525,GM0268,Nijmegen
+6531,GM0268,Nijmegen
+6532,GM0268,Nijmegen
+6533,GM0268,Nijmegen
+6534,GM0268,Nijmegen
+6535,GM0268,Nijmegen
+6536,GM0268,Nijmegen
+6537,GM0268,Nijmegen
+6538,GM0268,Nijmegen
+6541,GM0268,Nijmegen
+6542,GM0268,Nijmegen
+6543,GM0268,Nijmegen
+6544,GM0268,Nijmegen
+6545,GM0268,Nijmegen
+6546,GM0268,Nijmegen
+6551,GM0209,Beuningen
+6561,GM1945,Berg en Dal
+6562,GM1945,Berg en Dal
+6564,GM1945,Berg en Dal
+6566,GM1945,Berg en Dal
+6571,GM1945,Berg en Dal
+6572,GM1945,Berg en Dal
+6573,GM1945,Berg en Dal
+6574,GM1945,Berg en Dal
+6575,GM1945,Berg en Dal
+6576,GM1945,Berg en Dal
+6577,GM1945,Berg en Dal
+6578,GM1945,Berg en Dal
+6579,GM1945,Berg en Dal
+6581,GM0252,Heumen
+6582,GM0252,Heumen
+6584,GM0944,Mook en Middelaar
+6585,GM0944,Mook en Middelaar
+6586,GM0944,Mook en Middelaar
+6587,GM0944,Mook en Middelaar
+6591,GM0907,Gennep
+6595,GM0907,Gennep
+6596,GM0907,Gennep
+6598,GM0907,Gennep
+6599,GM0907,Gennep
+6601,GM0296,Wijchen
+6602,GM0296,Wijchen
+6603,GM0296,Wijchen
+6604,GM0296,Wijchen
+6605,GM0296,Wijchen
+6606,GM0296,Wijchen
+6611,GM0252,Heumen
+6612,GM0252,Heumen
+6613,GM0296,Wijchen
+6615,GM0296,Wijchen
+6616,GM0296,Wijchen
+6617,GM0296,Wijchen
+6621,GM0668,West Maas en Waal
+6624,GM0263,Maasdriel
+6626,GM0668,West Maas en Waal
+6627,GM0668,West Maas en Waal
+6628,GM0668,West Maas en Waal
+6629,GM0668,West Maas en Waal
+6631,GM0225,Druten
+6634,GM0296,Wijchen
+6641,GM0209,Beuningen
+6642,GM0209,Beuningen
+6644,GM0209,Beuningen
+6645,GM0209,Beuningen
+6651,GM0225,Druten
+6652,GM0225,Druten
+6653,GM0225,Druten
+6654,GM0225,Druten
+6655,GM0225,Druten
+6657,GM0668,West Maas en Waal
+6658,GM0668,West Maas en Waal
+6659,GM0668,West Maas en Waal
+6661,GM1734,Overbetuwe
+6662,GM1734,Overbetuwe
+6663,GM0268,Nijmegen
+6665,GM1734,Overbetuwe
+6666,GM1734,Overbetuwe
+6668,GM1734,Overbetuwe
+6669,GM1740,Neder-Betuwe
+6671,GM1734,Overbetuwe
+6672,GM1734,Overbetuwe
+6673,GM1734,Overbetuwe
+6674,GM1734,Overbetuwe
+6675,GM1734,Overbetuwe
+6676,GM1734,Overbetuwe
+6677,GM1734,Overbetuwe
+6678,GM1734,Overbetuwe
+6681,GM1705,Lingewaard
+6684,GM1705,Lingewaard
+6685,GM1705,Lingewaard
+6686,GM1705,Lingewaard
+6687,GM1705,Lingewaard
+6691,GM1705,Lingewaard
+6701,GM0289,Wageningen
+6702,GM0289,Wageningen
+6703,GM0289,Wageningen
+6704,GM0289,Wageningen
+6705,GM0289,Wageningen
+6706,GM0289,Wageningen
+6707,GM0289,Wageningen
+6708,GM0289,Wageningen
+6709,GM0289,Wageningen
+6711,GM0228,Ede
+6712,GM0228,Ede
+6713,GM0228,Ede
+6714,GM0228,Ede
+6715,GM0228,Ede
+6716,GM0228,Ede
+6717,GM0228,Ede
+6718,GM0228,Ede
+6721,GM0228,Ede
+6731,GM0228,Ede
+6732,GM0228,Ede
+6733,GM0228,Ede
+6741,GM0228,Ede
+6744,GM0228,Ede
+6745,GM0228,Ede
+6811,GM0202,Arnhem
+6812,GM0202,Arnhem
+6813,GM0202,Arnhem
+6814,GM0202,Arnhem
+6815,GM0202,Arnhem
+6816,GM0202,Arnhem
+6821,GM0202,Arnhem
+6822,GM0202,Arnhem
+6823,GM0202,Arnhem
+6824,GM0202,Arnhem
+6825,GM0202,Arnhem
+6826,GM0202,Arnhem
+6827,GM0202,Arnhem
+6828,GM0202,Arnhem
+6831,GM0202,Arnhem
+6832,GM0202,Arnhem
+6833,GM0202,Arnhem
+6834,GM0202,Arnhem
+6835,GM0202,Arnhem
+6836,GM0202,Arnhem
+6841,GM0202,Arnhem
+6842,GM0202,Arnhem
+6843,GM0202,Arnhem
+6844,GM0202,Arnhem
+6845,GM0202,Arnhem
+6846,GM0202,Arnhem
+6851,GM1705,Lingewaard
+6852,GM1705,Lingewaard
+6861,GM0274,Renkum
+6862,GM0274,Renkum
+6865,GM0274,Renkum
+6866,GM0274,Renkum
+6869,GM0274,Renkum
+6871,GM0274,Renkum
+6874,GM0274,Renkum
+6877,GM0228,Ede
+6881,GM0275,Rheden
+6882,GM0275,Rheden
+6883,GM0275,Rheden
+6891,GM0277,Rozendaal
+6901,GM0299,Zevenaar
+6902,GM0299,Zevenaar
+6903,GM0299,Zevenaar
+6904,GM0299,Zevenaar
+6905,GM0299,Zevenaar
+6909,GM0299,Zevenaar
+6911,GM0299,Zevenaar
+6913,GM0299,Zevenaar
+6914,GM0299,Zevenaar
+6915,GM0299,Zevenaar
+6916,GM0299,Zevenaar
+6917,GM0299,Zevenaar
+6921,GM0226,Duiven
+6922,GM0226,Duiven
+6923,GM0226,Duiven
+6924,GM0226,Duiven
+6931,GM0293,Westervoort
+6932,GM0293,Westervoort
+6941,GM1955,Montferland
+6942,GM1955,Montferland
+6951,GM0275,Rheden
+6952,GM0275,Rheden
+6953,GM0275,Rheden
+6955,GM0275,Rheden
+6956,GM0275,Rheden
+6957,GM0275,Rheden
+6961,GM0213,Brummen
+6964,GM0213,Brummen
+6971,GM0213,Brummen
+6974,GM0213,Brummen
+6975,GM0213,Brummen
+6981,GM0221,Doesburg
+6982,GM0221,Doesburg
+6983,GM0221,Doesburg
+6984,GM0221,Doesburg
+6986,GM0299,Zevenaar
+6987,GM0299,Zevenaar
+6988,GM0299,Zevenaar
+6991,GM0275,Rheden
+6994,GM0275,Rheden
+6996,GM1876,Bronckhorst
+6997,GM1876,Bronckhorst
+6998,GM1876,Bronckhorst
+6999,GM1876,Bronckhorst
+7001,GM0222,Doetinchem
+7002,GM0222,Doetinchem
+7003,GM0222,Doetinchem
+7004,GM0222,Doetinchem
+7005,GM0222,Doetinchem
+7006,GM0222,Doetinchem
+7007,GM0222,Doetinchem
+7008,GM0222,Doetinchem
+7009,GM0222,Doetinchem
+7011,GM0222,Doetinchem
+7021,GM1876,Bronckhorst
+7025,GM1876,Bronckhorst
+7031,GM0222,Doetinchem
+7035,GM1955,Montferland
+7036,GM1955,Montferland
+7037,GM1955,Montferland
+7038,GM1955,Montferland
+7039,GM1955,Montferland
+7041,GM1955,Montferland
+7044,GM1955,Montferland
+7045,GM1955,Montferland
+7046,GM1955,Montferland
+7047,GM1955,Montferland
+7048,GM1955,Montferland
+7051,GM1509,Oude IJsselstreek
+7054,GM1509,Oude IJsselstreek
+7055,GM1509,Oude IJsselstreek
+7061,GM1509,Oude IJsselstreek
+7064,GM1509,Oude IJsselstreek
+7065,GM1509,Oude IJsselstreek
+7071,GM1509,Oude IJsselstreek
+7075,GM1509,Oude IJsselstreek
+7076,GM1509,Oude IJsselstreek
+7077,GM1509,Oude IJsselstreek
+7078,GM1509,Oude IJsselstreek
+7081,GM1509,Oude IJsselstreek
+7083,GM1509,Oude IJsselstreek
+7084,GM1509,Oude IJsselstreek
+7091,GM0197,Aalten
+7095,GM0197,Aalten
+7101,GM0294,Winterswijk
+7102,GM0294,Winterswijk
+7103,GM0294,Winterswijk
+7104,GM0294,Winterswijk
+7105,GM0294,Winterswijk
+7106,GM0294,Winterswijk
+7107,GM0294,Winterswijk
+7108,GM0294,Winterswijk
+7109,GM0294,Winterswijk
+7113,GM0294,Winterswijk
+7115,GM0294,Winterswijk
+7119,GM0294,Winterswijk
+7121,GM0197,Aalten
+7122,GM0197,Aalten
+7123,GM0197,Aalten
+7126,GM0197,Aalten
+7131,GM1586,Oost Gelre
+7132,GM1586,Oost Gelre
+7134,GM1586,Oost Gelre
+7135,GM1586,Oost Gelre
+7136,GM1586,Oost Gelre
+7137,GM1586,Oost Gelre
+7141,GM1586,Oost Gelre
+7142,GM1586,Oost Gelre
+7151,GM1859,Berkelland
+7152,GM1859,Berkelland
+7156,GM1859,Berkelland
+7157,GM1859,Berkelland
+7161,GM1859,Berkelland
+7165,GM1859,Berkelland
+7201,GM0301,Zutphen
+7202,GM0301,Zutphen
+7203,GM0301,Zutphen
+7204,GM0301,Zutphen
+7205,GM0301,Zutphen
+7206,GM0301,Zutphen
+7207,GM0301,Zutphen
+7211,GM0262,Lochem
+7213,GM0262,Lochem
+7214,GM0262,Lochem
+7215,GM0262,Lochem
+7216,GM0262,Lochem
+7217,GM0262,Lochem
+7218,GM0262,Lochem
+7221,GM1876,Bronckhorst
+7223,GM1876,Bronckhorst
+7224,GM1876,Bronckhorst
+7225,GM1876,Bronckhorst
+7226,GM1876,Bronckhorst
+7227,GM1876,Bronckhorst
+7231,GM0301,Zutphen
+7232,GM0301,Zutphen
+7233,GM1876,Bronckhorst
+7234,GM1876,Bronckhorst
+7241,GM0262,Lochem
+7242,GM0262,Lochem
+7244,GM0262,Lochem
+7245,GM0262,Lochem
+7251,GM1876,Bronckhorst
+7255,GM1876,Bronckhorst
+7256,GM1876,Bronckhorst
+7261,GM1859,Berkelland
+7263,GM1586,Oost Gelre
+7271,GM1859,Berkelland
+7273,GM1859,Berkelland
+7274,GM1859,Berkelland
+7275,GM1859,Berkelland
+7311,GM0200,Apeldoorn
+7312,GM0200,Apeldoorn
+7313,GM0200,Apeldoorn
+7314,GM0200,Apeldoorn
+7315,GM0200,Apeldoorn
+7316,GM0200,Apeldoorn
+7317,GM0200,Apeldoorn
+7321,GM0200,Apeldoorn
+7322,GM0200,Apeldoorn
+7323,GM0200,Apeldoorn
+7324,GM0200,Apeldoorn
+7325,GM0200,Apeldoorn
+7326,GM0200,Apeldoorn
+7327,GM0200,Apeldoorn
+7328,GM0200,Apeldoorn
+7329,GM0200,Apeldoorn
+7331,GM0200,Apeldoorn
+7332,GM0200,Apeldoorn
+7333,GM0200,Apeldoorn
+7334,GM0200,Apeldoorn
+7335,GM0200,Apeldoorn
+7336,GM0200,Apeldoorn
+7339,GM0200,Apeldoorn
+7341,GM0200,Apeldoorn
+7345,GM0200,Apeldoorn
+7346,GM0200,Apeldoorn
+7348,GM0200,Apeldoorn
+7351,GM0200,Apeldoorn
+7352,GM0228,Ede
+7361,GM0200,Apeldoorn
+7364,GM0200,Apeldoorn
+7371,GM0200,Apeldoorn
+7381,GM0200,Apeldoorn
+7382,GM0285,Voorst
+7383,GM0285,Voorst
+7384,GM0285,Voorst
+7391,GM0285,Voorst
+7392,GM0285,Voorst
+7395,GM0285,Voorst
+7396,GM0285,Voorst
+7397,GM0285,Voorst
+7399,GM0213,Brummen
+7411,GM0150,Deventer
+7412,GM0150,Deventer
+7413,GM0150,Deventer
+7414,GM0150,Deventer
+7415,GM0150,Deventer
+7416,GM0150,Deventer
+7417,GM0150,Deventer
+7418,GM0150,Deventer
+7419,GM0150,Deventer
+7421,GM0150,Deventer
+7422,GM0150,Deventer
+7423,GM0150,Deventer
+7424,GM0150,Deventer
+7425,GM0150,Deventer
+7426,GM0150,Deventer
+7427,GM0150,Deventer
+7428,GM0150,Deventer
+7429,GM0150,Deventer
+7431,GM0150,Deventer
+7433,GM0150,Deventer
+7434,GM0150,Deventer
+7435,GM0150,Deventer
+7437,GM0150,Deventer
+7439,GM0285,Voorst
+7441,GM0163,Hellendoorn
+7442,GM0163,Hellendoorn
+7443,GM0163,Hellendoorn
+7447,GM0163,Hellendoorn
+7448,GM0163,Hellendoorn
+7451,GM1742,Rijssen-Holten
+7461,GM1742,Rijssen-Holten
+7462,GM1742,Rijssen-Holten
+7463,GM1742,Rijssen-Holten
+7466,GM0189,Wierden
+7467,GM0189,Wierden
+7468,GM0189,Wierden
+7471,GM1735,Hof van Twente
+7472,GM1735,Hof van Twente
+7475,GM1735,Hof van Twente
+7478,GM1735,Hof van Twente
+7481,GM0158,Haaksbergen
+7482,GM0158,Haaksbergen
+7483,GM0158,Haaksbergen
+7491,GM1735,Hof van Twente
+7495,GM1735,Hof van Twente
+7496,GM1735,Hof van Twente
+7497,GM1735,Hof van Twente
+7511,GM0153,Enschede
+7512,GM0153,Enschede
+7513,GM0153,Enschede
+7514,GM0153,Enschede
+7515,GM0150,Deventer
+7521,GM0153,Enschede
+7522,GM0153,Enschede
+7523,GM0153,Enschede
+7524,GM0153,Enschede
+7525,GM0153,Enschede
+7531,GM0153,Enschede
+7532,GM0153,Enschede
+7533,GM0153,Enschede
+7534,GM0153,Enschede
+7535,GM0153,Enschede
+7536,GM0153,Enschede
+7541,GM0153,Enschede
+7542,GM0153,Enschede
+7543,GM0153,Enschede
+7544,GM0153,Enschede
+7545,GM0153,Enschede
+7546,GM0153,Enschede
+7547,GM0153,Enschede
+7548,GM0153,Enschede
+7551,GM0164,Hengelo (O.)
+7552,GM0164,Hengelo (O.)
+7553,GM0164,Hengelo (O.)
+7554,GM0164,Hengelo (O.)
+7555,GM0164,Hengelo (O.)
+7556,GM0164,Hengelo (O.)
+7557,GM0164,Hengelo (O.)
+7558,GM0164,Hengelo (O.)
+7559,GM0164,Hengelo (O.)
+7561,GM1774,Dinkelland
+7562,GM0173,Oldenzaal
+7571,GM0173,Oldenzaal
+7572,GM0173,Oldenzaal
+7573,GM0173,Oldenzaal
+7574,GM0173,Oldenzaal
+7575,GM0173,Oldenzaal
+7576,GM0173,Oldenzaal
+7577,GM0173,Oldenzaal
+7581,GM0168,Losser
+7582,GM0168,Losser
+7585,GM0168,Losser
+7586,GM0168,Losser
+7587,GM0168,Losser
+7588,GM0168,Losser
+7591,GM1774,Dinkelland
+7595,GM1774,Dinkelland
+7596,GM1774,Dinkelland
+7597,GM1774,Dinkelland
+7601,GM0141,Almelo
+7602,GM0141,Almelo
+7603,GM0141,Almelo
+7604,GM0141,Almelo
+7605,GM0141,Almelo
+7606,GM0141,Almelo
+7607,GM0141,Almelo
+7608,GM0141,Almelo
+7609,GM0141,Almelo
+7610,GM0141,Almelo
+7611,GM0141,Almelo
+7614,GM0183,Tubbergen
+7615,GM0183,Tubbergen
+7621,GM0147,Borne
+7622,GM0147,Borne
+7623,GM0147,Borne
+7625,GM0147,Borne
+7626,GM0147,Borne
+7627,GM0141,Almelo
+7631,GM1774,Dinkelland
+7634,GM1774,Dinkelland
+7635,GM1774,Dinkelland
+7636,GM1774,Dinkelland
+7637,GM1774,Dinkelland
+7638,GM1774,Dinkelland
+7641,GM0189,Wierden
+7642,GM0189,Wierden
+7645,GM0189,Wierden
+7651,GM0183,Tubbergen
+7661,GM0183,Tubbergen
+7662,GM0183,Tubbergen
+7663,GM0183,Tubbergen
+7664,GM0183,Tubbergen
+7665,GM0183,Tubbergen
+7666,GM0183,Tubbergen
+7667,GM0183,Tubbergen
+7668,GM0183,Tubbergen
+7671,GM1700,Twenterand
+7672,GM1700,Twenterand
+7675,GM1700,Twenterand
+7676,GM1700,Twenterand
+7678,GM0183,Tubbergen
+7679,GM0183,Tubbergen
+7681,GM1700,Twenterand
+7683,GM1700,Twenterand
+7685,GM0175,Ommen
+7686,GM1700,Twenterand
+7687,GM0163,Hellendoorn
+7688,GM0163,Hellendoorn
+7691,GM0160,Hardenberg
+7692,GM0160,Hardenberg
+7693,GM0160,Hardenberg
+7694,GM0160,Hardenberg
+7695,GM0160,Hardenberg
+7696,GM0160,Hardenberg
+7701,GM0160,Hardenberg
+7702,GM0160,Hardenberg
+7705,GM1690,De Wolden
+7707,GM0160,Hardenberg
+7711,GM0148,Dalfsen
+7715,GM0180,Staphorst
+7721,GM0148,Dalfsen
+7722,GM0148,Dalfsen
+7731,GM0175,Ommen
+7732,GM0175,Ommen
+7734,GM0175,Ommen
+7735,GM0175,Ommen
+7736,GM0175,Ommen
+7737,GM0175,Ommen
+7738,GM0175,Ommen
+7739,GM0175,Ommen
+7741,GM0109,Coevorden
+7742,GM0109,Coevorden
+7751,GM0109,Coevorden
+7753,GM0109,Coevorden
+7754,GM0109,Coevorden
+7755,GM0109,Coevorden
+7756,GM0109,Coevorden
+7761,GM0114,Emmen
+7764,GM0114,Emmen
+7765,GM0114,Emmen
+7766,GM0114,Emmen
+7771,GM0160,Hardenberg
+7772,GM0160,Hardenberg
+7773,GM0160,Hardenberg
+7775,GM0160,Hardenberg
+7776,GM0160,Hardenberg
+7777,GM0160,Hardenberg
+7778,GM0160,Hardenberg
+7779,GM0160,Hardenberg
+7781,GM0160,Hardenberg
+7782,GM0160,Hardenberg
+7783,GM0160,Hardenberg
+7784,GM0160,Hardenberg
+7785,GM0160,Hardenberg
+7786,GM0160,Hardenberg
+7787,GM0160,Hardenberg
+7788,GM0160,Hardenberg
+7791,GM0160,Hardenberg
+7792,GM0160,Hardenberg
+7793,GM0160,Hardenberg
+7794,GM0160,Hardenberg
+7795,GM0160,Hardenberg
+7796,GM0160,Hardenberg
+7797,GM0160,Hardenberg
+7798,GM0160,Hardenberg
+7811,GM0114,Emmen
+7812,GM0114,Emmen
+7813,GM0114,Emmen
+7814,GM0114,Emmen
+7815,GM0114,Emmen
+7821,GM0114,Emmen
+7822,GM0114,Emmen
+7823,GM0114,Emmen
+7824,GM0114,Emmen
+7825,GM0114,Emmen
+7826,GM0114,Emmen
+7827,GM0114,Emmen
+7828,GM0114,Emmen
+7831,GM0114,Emmen
+7833,GM0114,Emmen
+7841,GM0109,Coevorden
+7842,GM0109,Coevorden
+7843,GM0109,Coevorden
+7844,GM0114,Emmen
+7845,GM0109,Coevorden
+7846,GM0109,Coevorden
+7847,GM0109,Coevorden
+7848,GM0109,Coevorden
+7849,GM0109,Coevorden
+7851,GM0109,Coevorden
+7852,GM0109,Coevorden
+7853,GM0109,Coevorden
+7854,GM0109,Coevorden
+7855,GM0109,Coevorden
+7856,GM0109,Coevorden
+7858,GM1681,Borger-Odoorn
+7859,GM1681,Borger-Odoorn
+7861,GM0109,Coevorden
+7863,GM0109,Coevorden
+7864,GM0109,Coevorden
+7871,GM1681,Borger-Odoorn
+7872,GM1681,Borger-Odoorn
+7873,GM1681,Borger-Odoorn
+7874,GM1681,Borger-Odoorn
+7875,GM1681,Borger-Odoorn
+7876,GM1681,Borger-Odoorn
+7877,GM1681,Borger-Odoorn
+7881,GM0114,Emmen
+7884,GM0114,Emmen
+7885,GM0114,Emmen
+7887,GM0114,Emmen
+7889,GM0114,Emmen
+7891,GM0114,Emmen
+7892,GM0114,Emmen
+7894,GM0114,Emmen
+7895,GM0114,Emmen
+7901,GM0118,Hoogeveen
+7902,GM0118,Hoogeveen
+7903,GM0118,Hoogeveen
+7904,GM0118,Hoogeveen
+7905,GM0118,Hoogeveen
+7906,GM0118,Hoogeveen
+7907,GM0118,Hoogeveen
+7908,GM0118,Hoogeveen
+7909,GM0118,Hoogeveen
+7910,GM1731,Midden-Drenthe
+7911,GM0118,Hoogeveen
+7912,GM0118,Hoogeveen
+7913,GM0118,Hoogeveen
+7914,GM0118,Hoogeveen
+7915,GM0118,Hoogeveen
+7916,GM0118,Hoogeveen
+7917,GM0109,Coevorden
+7918,GM0118,Hoogeveen
+7921,GM1690,De Wolden
+7924,GM1690,De Wolden
+7925,GM1690,De Wolden
+7926,GM1690,De Wolden
+7927,GM1690,De Wolden
+7928,GM1731,Midden-Drenthe
+7929,GM0109,Coevorden
+7931,GM0118,Hoogeveen
+7932,GM1690,De Wolden
+7933,GM0118,Hoogeveen
+7934,GM0118,Hoogeveen
+7935,GM1690,De Wolden
+7936,GM0118,Hoogeveen
+7937,GM1731,Midden-Drenthe
+7938,GM1731,Midden-Drenthe
+7941,GM0119,Meppel
+7942,GM0119,Meppel
+7943,GM0119,Meppel
+7944,GM0119,Meppel
+7946,GM1708,Steenwijkerland
+7948,GM0119,Meppel
+7949,GM0119,Meppel
+7951,GM0180,Staphorst
+7954,GM0180,Staphorst
+7955,GM0180,Staphorst
+7957,GM1690,De Wolden
+7958,GM1690,De Wolden
+7961,GM1690,De Wolden
+7963,GM1690,De Wolden
+7964,GM1690,De Wolden
+7965,GM0119,Meppel
+7966,GM0119,Meppel
+7971,GM1701,Westerveld
+7973,GM1701,Westerveld
+7974,GM1701,Westerveld
+7975,GM1701,Westerveld
+7981,GM1701,Westerveld
+7983,GM1701,Westerveld
+7984,GM1701,Westerveld
+7985,GM1701,Westerveld
+7986,GM1701,Westerveld
+7991,GM1701,Westerveld
+8011,GM0193,Zwolle
+8012,GM0193,Zwolle
+8013,GM0193,Zwolle
+8014,GM0193,Zwolle
+8015,GM0193,Zwolle
+8016,GM0193,Zwolle
+8017,GM0193,Zwolle
+8019,GM0193,Zwolle
+8021,GM0193,Zwolle
+8022,GM0193,Zwolle
+8023,GM0193,Zwolle
+8024,GM0193,Zwolle
+8025,GM0193,Zwolle
+8026,GM0193,Zwolle
+8028,GM0193,Zwolle
+8031,GM0193,Zwolle
+8032,GM0193,Zwolle
+8033,GM0193,Zwolle
+8034,GM0193,Zwolle
+8035,GM0193,Zwolle
+8041,GM0193,Zwolle
+8042,GM0193,Zwolle
+8043,GM0193,Zwolle
+8044,GM0193,Zwolle
+8045,GM0193,Zwolle
+8051,GM0244,Hattem
+8052,GM0244,Hattem
+8055,GM0177,Raalte
+8061,GM1896,Zwartewaterland
+8064,GM1896,Zwartewaterland
+8066,GM1708,Steenwijkerland
+8071,GM0302,Nunspeet
+8072,GM0302,Nunspeet
+8075,GM0302,Nunspeet
+8076,GM0302,Nunspeet
+8077,GM0302,Nunspeet
+8079,GM0269,Oldebroek
+8081,GM0230,Elburg
+8082,GM0230,Elburg
+8084,GM0230,Elburg
+8085,GM0230,Elburg
+8091,GM0269,Oldebroek
+8094,GM0269,Oldebroek
+8095,GM0269,Oldebroek
+8096,GM0269,Oldebroek
+8097,GM0269,Oldebroek
+8101,GM0177,Raalte
+8102,GM0177,Raalte
+8103,GM0177,Raalte
+8105,GM0177,Raalte
+8106,GM0177,Raalte
+8107,GM0177,Raalte
+8111,GM0177,Raalte
+8112,GM0177,Raalte
+8121,GM1773,Olst-Wijhe
+8124,GM1773,Olst-Wijhe
+8131,GM1773,Olst-Wijhe
+8141,GM0177,Raalte
+8144,GM0177,Raalte
+8146,GM0175,Ommen
+8147,GM0175,Ommen
+8148,GM0175,Ommen
+8151,GM0148,Dalfsen
+8152,GM0148,Dalfsen
+8153,GM0148,Dalfsen
+8154,GM0148,Dalfsen
+8161,GM0232,Epe
+8162,GM0232,Epe
+8166,GM0232,Epe
+8167,GM0232,Epe
+8171,GM0232,Epe
+8172,GM0232,Epe
+8181,GM0246,Heerde
+8191,GM0246,Heerde
+8193,GM0246,Heerde
+8194,GM0246,Heerde
+8196,GM1773,Olst-Wijhe
+8198,GM1773,Olst-Wijhe
+8211,GM0995,Lelystad
+8212,GM0995,Lelystad
+8218,GM0995,Lelystad
+8219,GM0995,Lelystad
+8221,GM0995,Lelystad
+8222,GM0995,Lelystad
+8223,GM0995,Lelystad
+8224,GM0995,Lelystad
+8225,GM0995,Lelystad
+8226,GM0995,Lelystad
+8231,GM0995,Lelystad
+8232,GM0995,Lelystad
+8233,GM0995,Lelystad
+8239,GM0995,Lelystad
+8241,GM0995,Lelystad
+8242,GM0995,Lelystad
+8243,GM0995,Lelystad
+8244,GM0995,Lelystad
+8245,GM0995,Lelystad
+8251,GM0303,Dronten
+8252,GM0303,Dronten
+8253,GM0303,Dronten
+8254,GM0303,Dronten
+8255,GM0303,Dronten
+8256,GM0303,Dronten
+8261,GM0166,Kampen
+8262,GM0166,Kampen
+8263,GM0166,Kampen
+8264,GM0166,Kampen
+8265,GM0166,Kampen
+8266,GM0166,Kampen
+8267,GM0166,Kampen
+8269,GM0166,Kampen
+8271,GM0166,Kampen
+8274,GM0166,Kampen
+8275,GM0166,Kampen
+8276,GM0166,Kampen
+8277,GM0166,Kampen
+8278,GM0166,Kampen
+8281,GM1896,Zwartewaterland
+8291,GM1896,Zwartewaterland
+8293,GM0166,Kampen
+8294,GM1896,Zwartewaterland
+8301,GM0171,Noordoostpolder
+8302,GM0171,Noordoostpolder
+8303,GM0171,Noordoostpolder
+8304,GM0171,Noordoostpolder
+8305,GM0171,Noordoostpolder
+8307,GM0171,Noordoostpolder
+8308,GM0171,Noordoostpolder
+8309,GM0171,Noordoostpolder
+8311,GM0171,Noordoostpolder
+8312,GM0171,Noordoostpolder
+8313,GM0171,Noordoostpolder
+8314,GM0171,Noordoostpolder
+8315,GM0171,Noordoostpolder
+8316,GM0171,Noordoostpolder
+8317,GM0171,Noordoostpolder
+8319,GM0171,Noordoostpolder
+8321,GM0184,Urk
+8322,GM0184,Urk
+8323,GM0184,Urk
+8325,GM1708,Steenwijkerland
+8326,GM1708,Steenwijkerland
+8331,GM1708,Steenwijkerland
+8332,GM1708,Steenwijkerland
+8333,GM1708,Steenwijkerland
+8334,GM1708,Steenwijkerland
+8335,GM1708,Steenwijkerland
+8336,GM1708,Steenwijkerland
+8337,GM1708,Steenwijkerland
+8338,GM1708,Steenwijkerland
+8339,GM1708,Steenwijkerland
+8341,GM1708,Steenwijkerland
+8342,GM1708,Steenwijkerland
+8343,GM1708,Steenwijkerland
+8344,GM1708,Steenwijkerland
+8345,GM1708,Steenwijkerland
+8346,GM1708,Steenwijkerland
+8347,GM1708,Steenwijkerland
+8351,GM1701,Westerveld
+8355,GM1708,Steenwijkerland
+8356,GM1708,Steenwijkerland
+8361,GM1708,Steenwijkerland
+8362,GM1708,Steenwijkerland
+8363,GM1708,Steenwijkerland
+8371,GM1708,Steenwijkerland
+8372,GM1708,Steenwijkerland
+8373,GM1708,Steenwijkerland
+8374,GM1708,Steenwijkerland
+8375,GM1708,Steenwijkerland
+8376,GM1708,Steenwijkerland
+8377,GM1708,Steenwijkerland
+8378,GM1708,Steenwijkerland
+8381,GM1701,Westerveld
+8382,GM1701,Westerveld
+8383,GM1701,Westerveld
+8384,GM1701,Westerveld
+8385,GM1701,Westerveld
+8386,GM1701,Westerveld
+8387,GM1701,Westerveld
+8388,GM0098,Weststellingwerf
+8389,GM0098,Weststellingwerf
+8391,GM0098,Weststellingwerf
+8392,GM0098,Weststellingwerf
+8393,GM0098,Weststellingwerf
+8394,GM0098,Weststellingwerf
+8395,GM0098,Weststellingwerf
+8396,GM0098,Weststellingwerf
+8397,GM0098,Weststellingwerf
+8398,GM0098,Weststellingwerf
+8401,GM0086,Opsterland
+8403,GM0086,Opsterland
+8404,GM0086,Opsterland
+8405,GM0086,Opsterland
+8406,GM0086,Opsterland
+8407,GM0086,Opsterland
+8408,GM0086,Opsterland
+8409,GM0086,Opsterland
+8411,GM0074,Heerenveen
+8412,GM0074,Heerenveen
+8413,GM0074,Heerenveen
+8414,GM0074,Heerenveen
+8415,GM0074,Heerenveen
+8421,GM0085,Ooststellingwerf
+8422,GM0085,Ooststellingwerf
+8423,GM0085,Ooststellingwerf
+8424,GM0085,Ooststellingwerf
+8425,GM0085,Ooststellingwerf
+8426,GM0085,Ooststellingwerf
+8427,GM0085,Ooststellingwerf
+8428,GM0085,Ooststellingwerf
+8431,GM0085,Ooststellingwerf
+8432,GM0085,Ooststellingwerf
+8433,GM0085,Ooststellingwerf
+8434,GM0085,Ooststellingwerf
+8435,GM0085,Ooststellingwerf
+8437,GM1701,Westerveld
+8438,GM1701,Westerveld
+8439,GM1701,Westerveld
+8441,GM0074,Heerenveen
+8442,GM0074,Heerenveen
+8443,GM0074,Heerenveen
+8444,GM0074,Heerenveen
+8445,GM0074,Heerenveen
+8446,GM0074,Heerenveen
+8447,GM0074,Heerenveen
+8448,GM0074,Heerenveen
+8449,GM0074,Heerenveen
+8451,GM0074,Heerenveen
+8452,GM0074,Heerenveen
+8453,GM0074,Heerenveen
+8454,GM0074,Heerenveen
+8455,GM0074,Heerenveen
+8456,GM0074,Heerenveen
+8457,GM0074,Heerenveen
+8458,GM0074,Heerenveen
+8459,GM0074,Heerenveen
+8461,GM1940,De Fryske Marren
+8462,GM1940,De Fryske Marren
+8463,GM1940,De Fryske Marren
+8464,GM1940,De Fryske Marren
+8465,GM1940,De Fryske Marren
+8466,GM1940,De Fryske Marren
+8467,GM1940,De Fryske Marren
+8468,GM0074,Heerenveen
+8469,GM0074,Heerenveen
+8471,GM0098,Weststellingwerf
+8472,GM0098,Weststellingwerf
+8474,GM0098,Weststellingwerf
+8475,GM0098,Weststellingwerf
+8476,GM0098,Weststellingwerf
+8477,GM0098,Weststellingwerf
+8478,GM0098,Weststellingwerf
+8479,GM0098,Weststellingwerf
+8481,GM0098,Weststellingwerf
+8482,GM0098,Weststellingwerf
+8483,GM0098,Weststellingwerf
+8484,GM0098,Weststellingwerf
+8485,GM0098,Weststellingwerf
+8486,GM0098,Weststellingwerf
+8487,GM0098,Weststellingwerf
+8488,GM0098,Weststellingwerf
+8489,GM0098,Weststellingwerf
+8491,GM0074,Heerenveen
+8493,GM1940,De Fryske Marren
+8494,GM0074,Heerenveen
+8495,GM0074,Heerenveen
+8497,GM0090,Smallingerland
+8501,GM1940,De Fryske Marren
+8502,GM1940,De Fryske Marren
+8503,GM1940,De Fryske Marren
+8505,GM1940,De Fryske Marren
+8506,GM1940,De Fryske Marren
+8507,GM1940,De Fryske Marren
+8508,GM1940,De Fryske Marren
+8511,GM1940,De Fryske Marren
+8512,GM1940,De Fryske Marren
+8513,GM1940,De Fryske Marren
+8514,GM1940,De Fryske Marren
+8515,GM1940,De Fryske Marren
+8516,GM1940,De Fryske Marren
+8517,GM1940,De Fryske Marren
+8521,GM1940,De Fryske Marren
+8522,GM1940,De Fryske Marren
+8523,GM1940,De Fryske Marren
+8524,GM1940,De Fryske Marren
+8525,GM1940,De Fryske Marren
+8526,GM1940,De Fryske Marren
+8527,GM1940,De Fryske Marren
+8528,GM1940,De Fryske Marren
+8529,GM1900,Súdwest-Fryslân
+8531,GM1940,De Fryske Marren
+8532,GM1940,De Fryske Marren
+8534,GM1940,De Fryske Marren
+8535,GM1940,De Fryske Marren
+8536,GM1940,De Fryske Marren
+8537,GM1940,De Fryske Marren
+8538,GM1940,De Fryske Marren
+8539,GM1940,De Fryske Marren
+8541,GM1940,De Fryske Marren
+8542,GM1940,De Fryske Marren
+8551,GM1900,Súdwest-Fryslân
+8552,GM1900,Súdwest-Fryslân
+8553,GM1900,Súdwest-Fryslân
+8554,GM1900,Súdwest-Fryslân
+8556,GM1940,De Fryske Marren
+8561,GM1940,De Fryske Marren
+8563,GM1940,De Fryske Marren
+8564,GM1940,De Fryske Marren
+8565,GM1940,De Fryske Marren
+8566,GM1940,De Fryske Marren
+8567,GM1940,De Fryske Marren
+8571,GM1940,De Fryske Marren
+8572,GM1940,De Fryske Marren
+8573,GM1940,De Fryske Marren
+8574,GM1940,De Fryske Marren
+8581,GM1940,De Fryske Marren
+8582,GM1940,De Fryske Marren
+8583,GM1940,De Fryske Marren
+8584,GM1900,Súdwest-Fryslân
+8601,GM1900,Súdwest-Fryslân
+8602,GM1900,Súdwest-Fryslân
+8603,GM1900,Súdwest-Fryslân
+8604,GM1900,Súdwest-Fryslân
+8605,GM1900,Súdwest-Fryslân
+8606,GM1900,Súdwest-Fryslân
+8607,GM1900,Súdwest-Fryslân
+8608,GM1900,Súdwest-Fryslân
+8611,GM1900,Súdwest-Fryslân
+8612,GM1900,Súdwest-Fryslân
+8613,GM1900,Súdwest-Fryslân
+8614,GM1900,Súdwest-Fryslân
+8615,GM1900,Súdwest-Fryslân
+8616,GM1900,Súdwest-Fryslân
+8617,GM1900,Súdwest-Fryslân
+8618,GM1900,Súdwest-Fryslân
+8621,GM1900,Súdwest-Fryslân
+8622,GM1900,Súdwest-Fryslân
+8623,GM1900,Súdwest-Fryslân
+8624,GM1900,Súdwest-Fryslân
+8625,GM1900,Súdwest-Fryslân
+8626,GM1900,Súdwest-Fryslân
+8627,GM1900,Súdwest-Fryslân
+8628,GM1900,Súdwest-Fryslân
+8629,GM1900,Súdwest-Fryslân
+8631,GM1900,Súdwest-Fryslân
+8632,GM1900,Súdwest-Fryslân
+8633,GM1900,Súdwest-Fryslân
+8635,GM1900,Súdwest-Fryslân
+8636,GM1900,Súdwest-Fryslân
+8637,GM1900,Súdwest-Fryslân
+8641,GM1900,Súdwest-Fryslân
+8642,GM1900,Súdwest-Fryslân
+8644,GM1900,Súdwest-Fryslân
+8647,GM1900,Súdwest-Fryslân
+8651,GM1900,Súdwest-Fryslân
+8658,GM1900,Súdwest-Fryslân
+8701,GM1900,Súdwest-Fryslân
+8702,GM1900,Súdwest-Fryslân
+8711,GM1900,Súdwest-Fryslân
+8713,GM1900,Súdwest-Fryslân
+8715,GM1900,Súdwest-Fryslân
+8721,GM1900,Súdwest-Fryslân
+8722,GM1900,Súdwest-Fryslân
+8723,GM1900,Súdwest-Fryslân
+8724,GM1900,Súdwest-Fryslân
+8731,GM1900,Súdwest-Fryslân
+8732,GM1900,Súdwest-Fryslân
+8733,GM1900,Súdwest-Fryslân
+8734,GM1900,Súdwest-Fryslân
+8735,GM1900,Súdwest-Fryslân
+8736,GM1900,Súdwest-Fryslân
+8737,GM1900,Súdwest-Fryslân
+8741,GM1900,Súdwest-Fryslân
+8742,GM1900,Súdwest-Fryslân
+8743,GM1900,Súdwest-Fryslân
+8744,GM1900,Súdwest-Fryslân
+8745,GM1900,Súdwest-Fryslân
+8746,GM1900,Súdwest-Fryslân
+8747,GM1900,Súdwest-Fryslân
+8748,GM1900,Súdwest-Fryslân
+8749,GM1900,Súdwest-Fryslân
+8751,GM1900,Súdwest-Fryslân
+8752,GM1900,Súdwest-Fryslân
+8753,GM1900,Súdwest-Fryslân
+8754,GM1900,Súdwest-Fryslân
+8755,GM1900,Súdwest-Fryslân
+8756,GM1900,Súdwest-Fryslân
+8757,GM1900,Súdwest-Fryslân
+8758,GM1900,Súdwest-Fryslân
+8759,GM1900,Súdwest-Fryslân
+8761,GM1900,Súdwest-Fryslân
+8762,GM1900,Súdwest-Fryslân
+8763,GM1900,Súdwest-Fryslân
+8764,GM1900,Súdwest-Fryslân
+8765,GM1900,Súdwest-Fryslân
+8766,GM1900,Súdwest-Fryslân
+8771,GM1900,Súdwest-Fryslân
+8772,GM1900,Súdwest-Fryslân
+8773,GM1900,Súdwest-Fryslân
+8774,GM1900,Súdwest-Fryslân
+8775,GM1900,Súdwest-Fryslân
+8801,GM1949,Waadhoeke
+8802,GM1949,Waadhoeke
+8804,GM1949,Waadhoeke
+8805,GM1949,Waadhoeke
+8806,GM1949,Waadhoeke
+8807,GM1949,Waadhoeke
+8808,GM1949,Waadhoeke
+8809,GM1949,Waadhoeke
+8811,GM1949,Waadhoeke
+8812,GM1949,Waadhoeke
+8813,GM1949,Waadhoeke
+8814,GM1949,Waadhoeke
+8816,GM1949,Waadhoeke
+8821,GM1900,Súdwest-Fryslân
+8822,GM1900,Súdwest-Fryslân
+8823,GM1900,Súdwest-Fryslân
+8831,GM1949,Waadhoeke
+8832,GM0080,Leeuwarden
+8833,GM0080,Leeuwarden
+8834,GM0080,Leeuwarden
+8835,GM0080,Leeuwarden
+8841,GM1949,Waadhoeke
+8842,GM1949,Waadhoeke
+8843,GM1949,Waadhoeke
+8844,GM1900,Súdwest-Fryslân
+8845,GM1900,Súdwest-Fryslân
+8851,GM1949,Waadhoeke
+8852,GM1949,Waadhoeke
+8853,GM1949,Waadhoeke
+8854,GM1949,Waadhoeke
+8855,GM1949,Waadhoeke
+8856,GM1949,Waadhoeke
+8857,GM0072,Harlingen
+8861,GM0072,Harlingen
+8862,GM0072,Harlingen
+8871,GM0072,Harlingen
+8872,GM0072,Harlingen
+8881,GM0093,Terschelling
+8882,GM0093,Terschelling
+8883,GM0093,Terschelling
+8884,GM0093,Terschelling
+8885,GM0093,Terschelling
+8891,GM0093,Terschelling
+8892,GM0093,Terschelling
+8893,GM0093,Terschelling
+8894,GM0093,Terschelling
+8895,GM0093,Terschelling
+8896,GM0093,Terschelling
+8897,GM0093,Terschelling
+8899,GM0096,Vlieland
+8911,GM0080,Leeuwarden
+8912,GM0080,Leeuwarden
+8913,GM0080,Leeuwarden
+8914,GM0080,Leeuwarden
+8915,GM0080,Leeuwarden
+8916,GM0080,Leeuwarden
+8917,GM0080,Leeuwarden
+8918,GM0080,Leeuwarden
+8919,GM0080,Leeuwarden
+8921,GM0080,Leeuwarden
+8922,GM0080,Leeuwarden
+8923,GM0080,Leeuwarden
+8924,GM0080,Leeuwarden
+8925,GM0080,Leeuwarden
+8926,GM0080,Leeuwarden
+8927,GM0080,Leeuwarden
+8931,GM0080,Leeuwarden
+8932,GM0080,Leeuwarden
+8933,GM0080,Leeuwarden
+8934,GM0080,Leeuwarden
+8935,GM0080,Leeuwarden
+8936,GM0080,Leeuwarden
+8937,GM0080,Leeuwarden
+8938,GM0080,Leeuwarden
+8939,GM0080,Leeuwarden
+8941,GM0080,Leeuwarden
+9001,GM0080,Leeuwarden
+9003,GM0080,Leeuwarden
+9004,GM0080,Leeuwarden
+9005,GM0080,Leeuwarden
+9006,GM0080,Leeuwarden
+9007,GM0080,Leeuwarden
+9008,GM0080,Leeuwarden
+9009,GM0080,Leeuwarden
+9011,GM0080,Leeuwarden
+9012,GM1900,Súdwest-Fryslân
+9013,GM1900,Súdwest-Fryslân
+9014,GM1900,Súdwest-Fryslân
+9021,GM1900,Súdwest-Fryslân
+9022,GM0080,Leeuwarden
+9023,GM0080,Leeuwarden
+9024,GM0080,Leeuwarden
+9025,GM0080,Leeuwarden
+9026,GM0080,Leeuwarden
+9027,GM0080,Leeuwarden
+9031,GM1949,Waadhoeke
+9032,GM1949,Waadhoeke
+9033,GM1949,Waadhoeke
+9034,GM1949,Waadhoeke
+9035,GM1949,Waadhoeke
+9036,GM1949,Waadhoeke
+9037,GM1949,Waadhoeke
+9038,GM1949,Waadhoeke
+9041,GM1949,Waadhoeke
+9043,GM1949,Waadhoeke
+9044,GM1949,Waadhoeke
+9045,GM1949,Waadhoeke
+9047,GM1949,Waadhoeke
+9051,GM0080,Leeuwarden
+9053,GM0080,Leeuwarden
+9054,GM0080,Leeuwarden
+9055,GM0080,Leeuwarden
+9056,GM0080,Leeuwarden
+9057,GM0080,Leeuwarden
+9061,GM0737,Tytsjerksteradiel
+9062,GM0737,Tytsjerksteradiel
+9063,GM0737,Tytsjerksteradiel
+9064,GM0737,Tytsjerksteradiel
+9067,GM1891,Dantumadiel
+9071,GM0080,Leeuwarden
+9072,GM1949,Waadhoeke
+9073,GM1970,Noardeast-Fryslân
+9074,GM1970,Noardeast-Fryslân
+9075,GM1949,Waadhoeke
+9076,GM1949,Waadhoeke
+9077,GM1949,Waadhoeke
+9078,GM1949,Waadhoeke
+9079,GM1949,Waadhoeke
+9081,GM0080,Leeuwarden
+9082,GM0080,Leeuwarden
+9083,GM0080,Leeuwarden
+9084,GM0080,Leeuwarden
+9085,GM0080,Leeuwarden
+9086,GM0080,Leeuwarden
+9087,GM0080,Leeuwarden
+9088,GM0080,Leeuwarden
+9089,GM0080,Leeuwarden
+9091,GM0737,Tytsjerksteradiel
+9101,GM1970,Noardeast-Fryslân
+9102,GM1970,Noardeast-Fryslân
+9103,GM1970,Noardeast-Fryslân
+9104,GM1891,Dantumadiel
+9105,GM1891,Dantumadiel
+9106,GM1891,Dantumadiel
+9107,GM1970,Noardeast-Fryslân
+9108,GM1891,Dantumadiel
+9109,GM1891,Dantumadiel
+9111,GM1970,Noardeast-Fryslân
+9112,GM1970,Noardeast-Fryslân
+9113,GM1891,Dantumadiel
+9114,GM1891,Dantumadiel
+9121,GM1970,Noardeast-Fryslân
+9122,GM1970,Noardeast-Fryslân
+9123,GM1970,Noardeast-Fryslân
+9124,GM1970,Noardeast-Fryslân
+9125,GM1970,Noardeast-Fryslân
+9131,GM1970,Noardeast-Fryslân
+9132,GM1970,Noardeast-Fryslân
+9133,GM1970,Noardeast-Fryslân
+9134,GM1970,Noardeast-Fryslân
+9135,GM1970,Noardeast-Fryslân
+9136,GM1970,Noardeast-Fryslân
+9137,GM1970,Noardeast-Fryslân
+9138,GM1970,Noardeast-Fryslân
+9141,GM1970,Noardeast-Fryslân
+9142,GM1970,Noardeast-Fryslân
+9143,GM1970,Noardeast-Fryslân
+9144,GM1970,Noardeast-Fryslân
+9145,GM1970,Noardeast-Fryslân
+9146,GM1970,Noardeast-Fryslân
+9147,GM1970,Noardeast-Fryslân
+9148,GM1970,Noardeast-Fryslân
+9151,GM1970,Noardeast-Fryslân
+9152,GM1970,Noardeast-Fryslân
+9153,GM1970,Noardeast-Fryslân
+9154,GM1970,Noardeast-Fryslân
+9155,GM1970,Noardeast-Fryslân
+9156,GM1970,Noardeast-Fryslân
+9161,GM0060,Ameland
+9162,GM0060,Ameland
+9163,GM0060,Ameland
+9164,GM0060,Ameland
+9166,GM0088,Schiermonnikoog
+9171,GM1970,Noardeast-Fryslân
+9172,GM1970,Noardeast-Fryslân
+9173,GM1970,Noardeast-Fryslân
+9174,GM1970,Noardeast-Fryslân
+9175,GM1970,Noardeast-Fryslân
+9176,GM1970,Noardeast-Fryslân
+9177,GM1970,Noardeast-Fryslân
+9178,GM1970,Noardeast-Fryslân
+9201,GM0090,Smallingerland
+9202,GM0090,Smallingerland
+9203,GM0090,Smallingerland
+9204,GM0090,Smallingerland
+9205,GM0090,Smallingerland
+9206,GM0090,Smallingerland
+9207,GM0090,Smallingerland
+9211,GM0090,Smallingerland
+9212,GM0090,Smallingerland
+9213,GM0090,Smallingerland
+9214,GM0090,Smallingerland
+9215,GM0090,Smallingerland
+9216,GM0090,Smallingerland
+9217,GM0090,Smallingerland
+9218,GM0090,Smallingerland
+9219,GM0090,Smallingerland
+9221,GM0090,Smallingerland
+9222,GM0090,Smallingerland
+9223,GM0090,Smallingerland
+9231,GM0059,Achtkarspelen
+9233,GM0059,Achtkarspelen
+9241,GM0086,Opsterland
+9243,GM0086,Opsterland
+9244,GM0086,Opsterland
+9245,GM0086,Opsterland
+9246,GM0086,Opsterland
+9247,GM0086,Opsterland
+9248,GM0086,Opsterland
+9249,GM0086,Opsterland
+9251,GM0737,Tytsjerksteradiel
+9254,GM0737,Tytsjerksteradiel
+9255,GM0737,Tytsjerksteradiel
+9256,GM0737,Tytsjerksteradiel
+9257,GM0737,Tytsjerksteradiel
+9258,GM0737,Tytsjerksteradiel
+9261,GM0737,Tytsjerksteradiel
+9262,GM0737,Tytsjerksteradiel
+9263,GM0737,Tytsjerksteradiel
+9264,GM0737,Tytsjerksteradiel
+9265,GM0737,Tytsjerksteradiel
+9269,GM1891,Dantumadiel
+9271,GM1891,Dantumadiel
+9281,GM0059,Achtkarspelen
+9283,GM0059,Achtkarspelen
+9284,GM0059,Achtkarspelen
+9285,GM0059,Achtkarspelen
+9286,GM0059,Achtkarspelen
+9287,GM0059,Achtkarspelen
+9288,GM0059,Achtkarspelen
+9289,GM0059,Achtkarspelen
+9291,GM1970,Noardeast-Fryslân
+9292,GM1970,Noardeast-Fryslân
+9293,GM1970,Noardeast-Fryslân
+9294,GM1970,Noardeast-Fryslân
+9295,GM1970,Noardeast-Fryslân
+9296,GM1970,Noardeast-Fryslân
+9297,GM1970,Noardeast-Fryslân
+9298,GM1970,Noardeast-Fryslân
+9299,GM1970,Noardeast-Fryslân
+9301,GM1699,Noordenveld
+9302,GM1699,Noordenveld
+9304,GM1699,Noordenveld
+9305,GM1699,Noordenveld
+9306,GM1699,Noordenveld
+9307,GM1699,Noordenveld
+9311,GM1699,Noordenveld
+9312,GM1699,Noordenveld
+9313,GM1699,Noordenveld
+9314,GM1699,Noordenveld
+9315,GM1699,Noordenveld
+9321,GM1699,Noordenveld
+9331,GM1699,Noordenveld
+9333,GM1699,Noordenveld
+9334,GM1699,Noordenveld
+9335,GM1699,Noordenveld
+9336,GM1699,Noordenveld
+9337,GM1699,Noordenveld
+9341,GM1699,Noordenveld
+9342,GM1699,Noordenveld
+9343,GM1699,Noordenveld
+9351,GM1969,Westerkwartier
+9354,GM1969,Westerkwartier
+9355,GM1969,Westerkwartier
+9356,GM1969,Westerkwartier
+9359,GM1969,Westerkwartier
+9361,GM1969,Westerkwartier
+9362,GM1969,Westerkwartier
+9363,GM1969,Westerkwartier
+9364,GM1969,Westerkwartier
+9365,GM1969,Westerkwartier
+9366,GM1969,Westerkwartier
+9367,GM1969,Westerkwartier
+9401,GM0106,Assen
+9402,GM0106,Assen
+9403,GM0106,Assen
+9404,GM0106,Assen
+9405,GM0106,Assen
+9406,GM0106,Assen
+9407,GM0106,Assen
+9408,GM0106,Assen
+9409,GM0106,Assen
+9411,GM1731,Midden-Drenthe
+9412,GM1731,Midden-Drenthe
+9413,GM1731,Midden-Drenthe
+9414,GM1731,Midden-Drenthe
+9415,GM1731,Midden-Drenthe
+9416,GM1731,Midden-Drenthe
+9417,GM1731,Midden-Drenthe
+9418,GM1731,Midden-Drenthe
+9419,GM1731,Midden-Drenthe
+9421,GM1731,Midden-Drenthe
+9422,GM1731,Midden-Drenthe
+9423,GM1731,Midden-Drenthe
+9431,GM1731,Midden-Drenthe
+9432,GM1731,Midden-Drenthe
+9433,GM1731,Midden-Drenthe
+9434,GM1731,Midden-Drenthe
+9435,GM1731,Midden-Drenthe
+9436,GM1731,Midden-Drenthe
+9437,GM1731,Midden-Drenthe
+9438,GM1731,Midden-Drenthe
+9439,GM1731,Midden-Drenthe
+9441,GM1731,Midden-Drenthe
+9442,GM1731,Midden-Drenthe
+9443,GM1680,Aa en Hunze
+9444,GM1680,Aa en Hunze
+9445,GM1680,Aa en Hunze
+9446,GM1680,Aa en Hunze
+9447,GM1680,Aa en Hunze
+9448,GM1680,Aa en Hunze
+9449,GM1680,Aa en Hunze
+9451,GM1680,Aa en Hunze
+9452,GM1680,Aa en Hunze
+9453,GM1680,Aa en Hunze
+9454,GM1680,Aa en Hunze
+9455,GM1680,Aa en Hunze
+9456,GM1680,Aa en Hunze
+9457,GM1680,Aa en Hunze
+9458,GM1680,Aa en Hunze
+9459,GM1680,Aa en Hunze
+9461,GM1680,Aa en Hunze
+9462,GM1680,Aa en Hunze
+9463,GM1680,Aa en Hunze
+9464,GM1680,Aa en Hunze
+9465,GM1680,Aa en Hunze
+9466,GM1680,Aa en Hunze
+9467,GM1680,Aa en Hunze
+9468,GM1680,Aa en Hunze
+9469,GM1680,Aa en Hunze
+9471,GM1730,Tynaarlo
+9472,GM1730,Tynaarlo
+9473,GM1730,Tynaarlo
+9474,GM1730,Tynaarlo
+9475,GM1730,Tynaarlo
+9479,GM0014,Groningen
+9481,GM1730,Tynaarlo
+9482,GM1730,Tynaarlo
+9483,GM1730,Tynaarlo
+9484,GM1730,Tynaarlo
+9485,GM1730,Tynaarlo
+9486,GM0106,Assen
+9487,GM0106,Assen
+9488,GM0106,Assen
+9489,GM0106,Assen
+9491,GM1730,Tynaarlo
+9492,GM0106,Assen
+9493,GM1730,Tynaarlo
+9494,GM1730,Tynaarlo
+9495,GM1730,Tynaarlo
+9496,GM1730,Tynaarlo
+9497,GM1730,Tynaarlo
+9501,GM0037,Stadskanaal
+9502,GM0037,Stadskanaal
+9503,GM0037,Stadskanaal
+9511,GM1680,Aa en Hunze
+9512,GM1680,Aa en Hunze
+9514,GM1680,Aa en Hunze
+9515,GM1680,Aa en Hunze
+9521,GM1681,Borger-Odoorn
+9523,GM1681,Borger-Odoorn
+9524,GM1681,Borger-Odoorn
+9525,GM1681,Borger-Odoorn
+9526,GM1681,Borger-Odoorn
+9527,GM1681,Borger-Odoorn
+9528,GM1681,Borger-Odoorn
+9531,GM1681,Borger-Odoorn
+9533,GM1681,Borger-Odoorn
+9534,GM1681,Borger-Odoorn
+9535,GM1681,Borger-Odoorn
+9536,GM1681,Borger-Odoorn
+9537,GM1681,Borger-Odoorn
+9541,GM1950,Westerwolde
+9545,GM1950,Westerwolde
+9551,GM1950,Westerwolde
+9561,GM1950,Westerwolde
+9563,GM1950,Westerwolde
+9564,GM1681,Borger-Odoorn
+9566,GM1950,Westerwolde
+9571,GM1681,Borger-Odoorn
+9573,GM1681,Borger-Odoorn
+9574,GM1681,Borger-Odoorn
+9581,GM0037,Stadskanaal
+9584,GM0037,Stadskanaal
+9585,GM0037,Stadskanaal
+9591,GM0037,Stadskanaal
+9601,GM1952,Midden-Groningen
+9602,GM1952,Midden-Groningen
+9603,GM1952,Midden-Groningen
+9605,GM1952,Midden-Groningen
+9606,GM1952,Midden-Groningen
+9607,GM1952,Midden-Groningen
+9608,GM1952,Midden-Groningen
+9609,GM1952,Midden-Groningen
+9611,GM1952,Midden-Groningen
+9613,GM0014,Groningen
+9614,GM0014,Groningen
+9615,GM1952,Midden-Groningen
+9616,GM1952,Midden-Groningen
+9617,GM1952,Midden-Groningen
+9618,GM1952,Midden-Groningen
+9619,GM1952,Midden-Groningen
+9621,GM1952,Midden-Groningen
+9622,GM0014,Groningen
+9623,GM1952,Midden-Groningen
+9624,GM1952,Midden-Groningen
+9625,GM1952,Midden-Groningen
+9626,GM1952,Midden-Groningen
+9627,GM1952,Midden-Groningen
+9628,GM1952,Midden-Groningen
+9629,GM1952,Midden-Groningen
+9631,GM0047,Veendam
+9632,GM1952,Midden-Groningen
+9633,GM1952,Midden-Groningen
+9635,GM1952,Midden-Groningen
+9636,GM1952,Midden-Groningen
+9641,GM0047,Veendam
+9642,GM0047,Veendam
+9644,GM0047,Veendam
+9645,GM0047,Veendam
+9646,GM0047,Veendam
+9648,GM0047,Veendam
+9649,GM1952,Midden-Groningen
+9651,GM1952,Midden-Groningen
+9654,GM1680,Aa en Hunze
+9655,GM1680,Aa en Hunze
+9656,GM1680,Aa en Hunze
+9657,GM1680,Aa en Hunze
+9658,GM1680,Aa en Hunze
+9659,GM1680,Aa en Hunze
+9661,GM0037,Stadskanaal
+9663,GM0765,Pekela
+9665,GM0765,Pekela
+9671,GM1895,Oldambt
+9672,GM1895,Oldambt
+9673,GM1895,Oldambt
+9674,GM1895,Oldambt
+9675,GM1895,Oldambt
+9677,GM1895,Oldambt
+9678,GM1895,Oldambt
+9679,GM1895,Oldambt
+9681,GM1895,Oldambt
+9682,GM1895,Oldambt
+9684,GM1895,Oldambt
+9685,GM1895,Oldambt
+9686,GM1895,Oldambt
+9687,GM1895,Oldambt
+9688,GM1895,Oldambt
+9691,GM1895,Oldambt
+9693,GM1895,Oldambt
+9695,GM1950,Westerwolde
+9696,GM1950,Westerwolde
+9697,GM1950,Westerwolde
+9698,GM1950,Westerwolde
+9699,GM1950,Westerwolde
+9711,GM0014,Groningen
+9712,GM0014,Groningen
+9713,GM0014,Groningen
+9714,GM0014,Groningen
+9715,GM0014,Groningen
+9716,GM0014,Groningen
+9717,GM0014,Groningen
+9718,GM0014,Groningen
+9721,GM0014,Groningen
+9722,GM0014,Groningen
+9723,GM0014,Groningen
+9724,GM0014,Groningen
+9725,GM0014,Groningen
+9726,GM0014,Groningen
+9727,GM0014,Groningen
+9728,GM0014,Groningen
+9731,GM0014,Groningen
+9732,GM0014,Groningen
+9733,GM0014,Groningen
+9734,GM0014,Groningen
+9735,GM0014,Groningen
+9736,GM0014,Groningen
+9737,GM0014,Groningen
+9738,GM0014,Groningen
+9741,GM0014,Groningen
+9742,GM0014,Groningen
+9743,GM0014,Groningen
+9744,GM0014,Groningen
+9745,GM0014,Groningen
+9746,GM0014,Groningen
+9747,GM0014,Groningen
+9749,GM1699,Noordenveld
+9751,GM0014,Groningen
+9752,GM0014,Groningen
+9753,GM0014,Groningen
+9755,GM0014,Groningen
+9756,GM0014,Groningen
+9761,GM1730,Tynaarlo
+9765,GM1730,Tynaarlo
+9766,GM1730,Tynaarlo
+9771,GM1966,Het Hogeland
+9773,GM1966,Het Hogeland
+9774,GM1966,Het Hogeland
+9781,GM1966,Het Hogeland
+9784,GM1966,Het Hogeland
+9785,GM1966,Het Hogeland
+9791,GM0014,Groningen
+9792,GM0014,Groningen
+9793,GM0014,Groningen
+9794,GM0014,Groningen
+9795,GM0014,Groningen
+9796,GM0014,Groningen
+9797,GM0014,Groningen
+9798,GM0014,Groningen
+9801,GM1969,Westerkwartier
+9804,GM1969,Westerkwartier
+9805,GM1969,Westerkwartier
+9811,GM1969,Westerkwartier
+9812,GM1969,Westerkwartier
+9821,GM1969,Westerkwartier
+9822,GM1969,Westerkwartier
+9824,GM1969,Westerkwartier
+9825,GM1969,Westerkwartier
+9827,GM1969,Westerkwartier
+9828,GM1969,Westerkwartier
+9831,GM1969,Westerkwartier
+9832,GM1969,Westerkwartier
+9833,GM1969,Westerkwartier
+9841,GM1969,Westerkwartier
+9842,GM1969,Westerkwartier
+9843,GM1969,Westerkwartier
+9844,GM1969,Westerkwartier
+9845,GM1969,Westerkwartier
+9851,GM1970,Noardeast-Fryslân
+9852,GM1970,Noardeast-Fryslân
+9853,GM1970,Noardeast-Fryslân
+9861,GM1969,Westerkwartier
+9862,GM1969,Westerkwartier
+9863,GM1969,Westerkwartier
+9864,GM1969,Westerkwartier
+9865,GM1969,Westerkwartier
+9866,GM1969,Westerkwartier
+9871,GM0059,Achtkarspelen
+9872,GM0059,Achtkarspelen
+9873,GM0059,Achtkarspelen
+9881,GM1969,Westerkwartier
+9882,GM1969,Westerkwartier
+9883,GM1969,Westerkwartier
+9884,GM1969,Westerkwartier
+9885,GM1969,Westerkwartier
+9886,GM1969,Westerkwartier
+9891,GM1969,Westerkwartier
+9892,GM1969,Westerkwartier
+9893,GM1969,Westerkwartier
+9901,GM1979,Eemsdelta
+9902,GM1979,Eemsdelta
+9903,GM1979,Eemsdelta
+9904,GM1979,Eemsdelta
+9905,GM1979,Eemsdelta
+9906,GM1979,Eemsdelta
+9907,GM1979,Eemsdelta
+9908,GM1979,Eemsdelta
+9909,GM1979,Eemsdelta
+9911,GM1979,Eemsdelta
+9912,GM1979,Eemsdelta
+9913,GM1979,Eemsdelta
+9914,GM1979,Eemsdelta
+9915,GM1979,Eemsdelta
+9917,GM1979,Eemsdelta
+9918,GM1979,Eemsdelta
+9919,GM1979,Eemsdelta
+9921,GM1979,Eemsdelta
+9922,GM1979,Eemsdelta
+9923,GM1979,Eemsdelta
+9924,GM1979,Eemsdelta
+9925,GM1966,Het Hogeland
+9931,GM1979,Eemsdelta
+9932,GM1979,Eemsdelta
+9933,GM1979,Eemsdelta
+9934,GM1979,Eemsdelta
+9936,GM1979,Eemsdelta
+9937,GM1979,Eemsdelta
+9939,GM1952,Midden-Groningen
+9942,GM1895,Oldambt
+9943,GM1895,Oldambt
+9944,GM1895,Oldambt
+9945,GM1979,Eemsdelta
+9946,GM1979,Eemsdelta
+9947,GM1979,Eemsdelta
+9948,GM1979,Eemsdelta
+9949,GM1979,Eemsdelta
+9951,GM1966,Het Hogeland
+9953,GM1966,Het Hogeland
+9954,GM1966,Het Hogeland
+9955,GM1966,Het Hogeland
+9956,GM1966,Het Hogeland
+9957,GM1966,Het Hogeland
+9959,GM1966,Het Hogeland
+9961,GM1966,Het Hogeland
+9962,GM1966,Het Hogeland
+9963,GM1966,Het Hogeland
+9964,GM1966,Het Hogeland
+9965,GM1966,Het Hogeland
+9966,GM1966,Het Hogeland
+9967,GM1966,Het Hogeland
+9968,GM1966,Het Hogeland
+9969,GM1966,Het Hogeland
+9971,GM1966,Het Hogeland
+9972,GM1966,Het Hogeland
+9973,GM1966,Het Hogeland
+9974,GM1966,Het Hogeland
+9975,GM1966,Het Hogeland
+9976,GM1966,Het Hogeland
+9977,GM1966,Het Hogeland
+9978,GM1966,Het Hogeland
+9979,GM1966,Het Hogeland
+9981,GM1966,Het Hogeland
+9982,GM1966,Het Hogeland
+9983,GM1966,Het Hogeland
+9984,GM1966,Het Hogeland
+9985,GM1966,Het Hogeland
+9986,GM1966,Het Hogeland
+9987,GM1979,Eemsdelta
+9988,GM1966,Het Hogeland
+9989,GM1966,Het Hogeland
+9991,GM1979,Eemsdelta
+9992,GM1979,Eemsdelta
+9993,GM1979,Eemsdelta
+9994,GM1979,Eemsdelta
+9995,GM1966,Het Hogeland
+9996,GM1966,Het Hogeland
+9997,GM1966,Het Hogeland
+9998,GM1966,Het Hogeland
+9999,GM1966,Het Hogeland

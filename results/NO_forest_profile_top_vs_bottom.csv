@@ -1,0 +1,80 @@
+"characteristic","mean_highest","mean_lowest","difference"
+"Household size",1.425,2.804,-1.379
+"Employment status: Retired",0.693,0.257,0.436
+"Area type: Suburban",0.338,0.735,-0.397
+"Age group: 60+ year olds",0.697,0.326,0.371
+"Household income: 400 000 kr – 649 999 kr",0.412,0.143,0.269
+"Household income: 1 000 000 kr eller mer",0.026,0.257,-0.23
+"Age group: 30-44 year olds",0.088,0.287,-0.199
+"Town size: Less than 2,000",0.281,0.126,0.155
+"Education: Higher education (Bachelor's degree or higher)",0.531,0.683,-0.152
+"Trusts: Newspaper: Newspapers",0.333,0.461,-0.128
+"Education: Higher secondary education (high school diploma or vocational training)",0.425,0.304,0.121
+"Household income: 650 000 kr – 999 999 kr",0.193,0.304,-0.111
+"Prior knowledge of CCUS: No knowledge",0.118,0.226,-0.108
+"Uses: Library/books: Library/books",0.241,0.135,0.106
+"Town size: 5,000–9,999",0.197,0.3,-0.103
+"Patience: 7",0.202,0.304,-0.103
+"Trusts: News channels: News channels",0.469,0.57,-0.1
+"Trust in others: Somewhat agree",0.408,0.496,-0.088
+"Age group: 45-59 year olds",0.149,0.235,-0.086
+"Uses: Generative AI: Generative AI (e.g., ChatGPT)",0.285,0.37,-0.084
+"Area type: Urban",0.136,0.057,0.079
+"Prior knowledge of CCUS: Some knowledge",0.496,0.417,0.078
+"Employment status: Student",0.004,0.078,-0.074
+"Uses: News channels: News channels",0.469,0.396,0.074
+"Trust in others: Neither agree nor disagree",0.263,0.191,0.072
+"Prior knowledge of CCUS: Little knowledge",0.272,0.204,0.068
+"Town size: 2,000–4,999",0.268,0.335,-0.067
+"Political orientation: Right",0.227,0.161,0.065
+"Area of work: Manufacturing Industry",0.041,0.104,-0.064
+"Area of work: None of the above/ Other",0.224,0.164,0.06
+"Household income: Ønsker ikke å oppgi",0.101,0.161,-0.06
+"Climate concern: Neither agree nor disagree",0.127,0.07,0.058
+"Gender: Female",0.382,0.439,-0.058
+"Employment status: Part time employee",0.026,0.078,-0.052
+"Risk preferences: 5",0.25,0.2,0.05
+"Area of work: Education",0.122,0.172,-0.049
+"Trust in sources: none of these: None of these",0.07,0.022,0.048
+"Uses: Neighbours/friends/family: Neighbours/ friends/ family",0.088,0.135,-0.047
+"Trust in others: Somewhat disagree",0.232,0.187,0.045
+"Climate concern: Somewhat disagree",0.061,0.017,0.044
+"Uses: Newspaper: Newspapers",0.211,0.252,-0.042
+"Trusts: Library/books: Library/books",0.346,0.387,-0.04
+"Patience: 5",0.211,0.248,-0.037
+"Climate concern: Somewhat agree",0.215,0.252,-0.037
+"Area of work: Wholesale and Retail",0.082,0.045,0.037
+"Political orientation: Centre",0.182,0.218,-0.036
+"Patience: 4",0.079,0.043,0.035
+"Trusts: Search engine: Search engine (e.g., Google)",0.478,0.443,0.035
+"Education: Lower secondary education",0.035,0.004,0.031
+"Area of work: Public Administration",0.061,0.09,-0.028
+"Risk preferences: 3",0.118,0.143,-0.025
+"Political orientation: Other",0.271,0.246,0.024
+"Trusts: Generative AI: Generative AI (e.g., ChatGPT)",0.127,0.109,0.018
+"Trusts: Neighbours/friends/family: Neighbours/ friends/ family",0.127,0.109,0.018
+"Risk preferences: 8",0.039,0.057,-0.017
+"Prior knowledge of CCUS: Well informed",0.101,0.117,-0.017
+"Town size: 10,000–19,999",0.254,0.239,0.015
+"Area of work: Health Care and Social Services",0.163,0.149,0.014
+"Patience: 8",0.088,0.074,0.014
+"Other (please specify) - Which of the...: Other (please specify)",0.061,0.048,0.014
+"Uses: Local politicians: Local politicians",0.031,0.017,0.013
+"Patience: 2",0.031,0.017,0.013
+"Uses sources: don't know: Don't know",0.026,0.039,-0.013
+"Risk preferences: 4",0.105,0.117,-0.012
+"Risk preferences: 7",0.14,0.152,-0.012
+"Uses: Search engine: Search engine (e.g., Google)",0.728,0.739,-0.011
+"Patience: 6",0.193,0.183,0.01
+"Risk preferences: 6",0.167,0.157,0.01
+"Area of work: Construction",0.02,0.03,-0.009
+"Trust in sources: don't know: Don't know",0.039,0.03,0.009
+"Area of work: Information Technology (IT)",0.061,0.052,0.009
+"Risk preferences: 2",0.096,0.104,-0.008
+"Trusts: Local politicians: Local politicians",0.105,0.1,0.005
+"Other (please specify) - Where would ...: Other (please specify)",0.061,0.057,0.005
+"Patience: 10. Absolutely",0.039,0.043,-0.004
+"Trust in others: Strongly disagree",0.039,0.043,-0.004
+"Area of work: Transport and Warehousing",0.041,0.045,-0.004
+"Employment status: Unemployed and not looking for work",0.066,0.065,0.001
+"Patience: 3",0.048,0.048,0

@@ -1,0 +1,61 @@
+"subgroup_variable","term","estimate","std.error","p.value","p_adj_BH"
+"Age group","Treatment Jobs × Age group: 45-59 year olds",0.0481958473625159,0.368941848474177,0.896095375923403,0.989875234726888
+"Age group","Treatment Local Economic Growth × Age group: 45-59 year olds",0.330322888325988,0.380778252450122,0.385904649138232,0.984350459381021
+"Age group","Treatment Preservation of Jobs and Industries × Age group: 45-59 year olds",0.0718880044686524,0.388136002515473,0.853103731463551,0.984350459381021
+"Age group","Treatment Energy Security × Age group: 45-59 year olds",0.512867894632603,0.401288090929759,0.201562825097756,0.984350459381021
+"Age group","Treatment Climate Change × Age group: 45-59 year olds",0.0341603004838318,0.38213258927551,0.92878898391414,0.989875234726888
+"Age group","Treatment Jobs × Age group: 30-44 year olds",-0.287871973705306,0.330544846019505,0.384042305006662,0.984350459381021
+"Age group","Treatment Local Economic Growth × Age group: 30-44 year olds",0.0814420520999512,0.325345753036996,0.802393960736516,0.984350459381021
+"Age group","Treatment Preservation of Jobs and Industries × Age group: 30-44 year olds",-0.257536147768001,0.326265486563144,0.430119940919285,0.984350459381021
+"Age group","Treatment Energy Security × Age group: 30-44 year olds",-0.266806607744107,0.354198864302133,0.451487754102859,0.984350459381021
+"Age group","Treatment Climate Change × Age group: 30-44 year olds",-0.421188221500721,0.364438498610074,0.248105887836516,0.984350459381021
+"Age group","Treatment Jobs × Age group: 18-29 year olds",-0.310239698573031,0.388176805747224,0.424374076263132,0.984350459381021
+"Age group","Treatment Local Economic Growth × Age group: 18-29 year olds",0.119633595773948,0.378808198185292,0.752216239561103,0.984350459381021
+"Age group","Treatment Preservation of Jobs and Industries × Age group: 18-29 year olds",0.140476749057396,0.359519692577101,0.69608679122092,0.984350459381021
+"Age group","Treatment Energy Security × Age group: 18-29 year olds",0.165876160876162,0.366417305793997,0.650876734808939,0.984350459381021
+"Age group","Treatment Climate Change × Age group: 18-29 year olds",-0.0925919913419902,0.431535352992868,0.830156233041429,0.984350459381021
+"Gender","Treatment Jobs × Gender: Female",-0.048533371768865,0.254738992906396,0.848943489254373,0.984350459381021
+"Gender","Treatment Local Economic Growth × Gender: Female",-0.132701115093586,0.26162883397558,0.612131898474399,0.984350459381021
+"Gender","Treatment Preservation of Jobs and Industries × Gender: Female",-0.0218614641419938,0.262656339758694,0.93368558634768,0.989875234726888
+"Gender","Treatment Energy Security × Gender: Female",0.157265833272239,0.272598398797732,0.564143112664657,0.984350459381021
+"Gender","Treatment Climate Change × Gender: Female",0.0437413800331197,0.282331707174192,0.87691230930191,0.989875234726888
+"Education","Treatment Jobs × Education: No university degree",0.461268348631346,0.266843541937918,0.0842234526869166,0.984350459381021
+"Education","Treatment Local Economic Growth × Education: No university degree",0.515897668010294,0.26464735543348,0.0515620128194294,0.984350459381021
+"Education","Treatment Preservation of Jobs and Industries × Education: No university degree",0.243135915765597,0.267213650479809,0.363123468011027,0.984350459381021
+"Education","Treatment Energy Security × Education: No university degree",0.318279236101095,0.271223850986988,0.240910086355688,0.984350459381021
+"Education","Treatment Climate Change × Education: No university degree",0.0629664792209979,0.283488573114383,0.824276583664684,0.984350459381021
+"Area type","Treatment Jobs × Area type: Rural",-0.00248453545107195,0.27851211086302,0.992884513550399,0.992884513550399
+"Area type","Treatment Local Economic Growth × Area type: Rural",0.427705829739293,0.278514677679319,0.125001137284548,0.984350459381021
+"Area type","Treatment Preservation of Jobs and Industries × Area type: Rural",0.055028090811554,0.2816885358398,0.845166113708702,0.984350459381021
+"Area type","Treatment Energy Security × Area type: Rural",0.36938246791593,0.287152318396282,0.198674676557198,0.984350459381021
+"Area type","Treatment Climate Change × Area type: Rural",-0.0224902650156257,0.300619481503867,0.940381472990544,0.989875234726888
+"Prior knowledge of CCUS","Treatment Jobs × Prior knowledge of CCUS: Little knowledge",-0.398652055964088,0.283541161655891,0.16012544510318,0.984350459381021
+"Prior knowledge of CCUS","Treatment Local Economic Growth × Prior knowledge of CCUS: Little knowledge",-0.304837447392068,0.291130761707724,0.295383347745673,0.984350459381021
+"Prior knowledge of CCUS","Treatment Preservation of Jobs and Industries × Prior knowledge of CCUS: Little knowledge",-0.519053139709032,0.276298089684606,0.0606683172796274,0.984350459381021
+"Prior knowledge of CCUS","Treatment Energy Security × Prior knowledge of CCUS: Little knowledge",0.189949783879988,0.300759307971885,0.527852737546341,0.984350459381021
+"Prior knowledge of CCUS","Treatment Climate Change × Prior knowledge of CCUS: Little knowledge",-0.55032785507831,0.317703041580969,0.0836277789814935,0.984350459381021
+"Prior knowledge of CCUS","Treatment Jobs × Prior knowledge of CCUS: No knowledge",-0.347876975817085,0.346372075468888,0.315520773031172,0.984350459381021
+"Prior knowledge of CCUS","Treatment Local Economic Growth × Prior knowledge of CCUS: No knowledge",-0.167523174991587,0.315354441621728,0.595414740915579,0.984350459381021
+"Prior knowledge of CCUS","Treatment Preservation of Jobs and Industries × Prior knowledge of CCUS: No knowledge",-0.083875907441018,0.313834492037335,0.789337684085503,0.984350459381021
+"Prior knowledge of CCUS","Treatment Energy Security × Prior knowledge of CCUS: No knowledge",0.0825307619094922,0.352146661284374,0.814762706447428,0.984350459381021
+"Prior knowledge of CCUS","Treatment Climate Change × Prior knowledge of CCUS: No knowledge",-0.323392533056781,0.429239057609026,0.451429265798529,0.984350459381021
+"Climate concern","Treatment Jobs × Climate concern: Somewhat agree",-0.0632511110771969,0.254458809485483,0.803753746064136,0.984350459381021
+"Climate concern","Treatment Local Economic Growth × Climate concern: Somewhat agree",0.0926705276705293,0.251327851928168,0.71242728438575,0.984350459381021
+"Climate concern","Treatment Preservation of Jobs and Industries × Climate concern: Somewhat agree",0.0677044030092836,0.245217487116024,0.782540116419586,0.984350459381021
+"Climate concern","Treatment Energy Security × Climate concern: Somewhat agree",0.20740379034497,0.272081117279688,0.446104495125264,0.984350459381021
+"Climate concern","Treatment Climate Change × Climate concern: Somewhat agree",-0.0653103423504345,0.261453919021962,0.802806037516993,0.984350459381021
+"Climate concern","Treatment Jobs × Climate concern: Neither agree nor disagree",0.439180586239412,0.357674870884607,0.219839741404197,0.984350459381021
+"Climate concern","Treatment Local Economic Growth × Climate concern: Neither agree nor disagree",-0.347251663428133,0.449758684987436,0.440283164007635,0.984350459381021
+"Climate concern","Treatment Preservation of Jobs and Industries × Climate concern: Neither agree nor disagree",-0.0835082771847468,0.371716720468942,0.822302164441207,0.984350459381021
+"Climate concern","Treatment Energy Security × Climate concern: Neither agree nor disagree",-0.147287455522747,0.334723824584302,0.660031701443065,0.984350459381021
+"Climate concern","Treatment Climate Change × Climate concern: Neither agree nor disagree",-0.54153407083554,0.570380428647864,0.342678970897761,0.984350459381021
+"Political orientation","Treatment Jobs × Political orientation: Right",0.463008003522176,0.373288797009733,0.21535259880494,0.984350459381021
+"Political orientation","Treatment Local Economic Growth × Political orientation: Right",0.160340166369575,0.367072470882147,0.662414630226481,0.984350459381021
+"Political orientation","Treatment Preservation of Jobs and Industries × Political orientation: Right",-0.0109310039805424,0.368775273183705,0.976363357090814,0.992884513550399
+"Political orientation","Treatment Energy Security × Political orientation: Right",0.666862745098038,0.386454691756572,0.0849582706414822,0.984350459381021
+"Political orientation","Treatment Climate Change × Political orientation: Right",-0.0118561208267122,0.402990881603667,0.976539574822617,0.992884513550399
+"Political orientation","Treatment Jobs × Political orientation: Centre",-0.176057967693898,0.356757553072204,0.621851503386191,0.984350459381021
+"Political orientation","Treatment Local Economic Growth × Political orientation: Centre",-0.264039502164504,0.353305146928294,0.455163112761732,0.984350459381021
+"Political orientation","Treatment Preservation of Jobs and Industries × Political orientation: Centre",-0.0971311090225583,0.364604039285375,0.790025415558767,0.984350459381021
+"Political orientation","Treatment Energy Security × Political orientation: Centre",0.276373822256173,0.416226501717436,0.506957350066546,0.984350459381021
+"Political orientation","Treatment Climate Change × Political orientation: Centre",0.553846469622328,0.347293505666557,0.111317526061085,0.984350459381021
